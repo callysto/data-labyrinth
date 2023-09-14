@@ -1,4 +1,4 @@
-Pet Name,Breed,Owner,Owner Phone Number (area code),Owner Phone Number
+Pet Name,Breed,Owner,Area Code,Phone Number
 Adler,Golden Retriever,Dane,620,453-3502
 Olive,Golden Retriever,Annemarie,215,524-7753
 Morgan,French Bulldog,Dora,970,813-2781
@@ -53,6 +53,7 @@ Yappy,Poodle,Rupert,331,556-7634
 Magic,Shetland Sheepdog,Olimpiada,702,426-1021
 Flynn,Labrador Retriever,Matilda,341,212-6884
 Hug,Pit Bull,Dina,901,399-9570
+Lucky,Dalmation,Bob,403,422-1232
 Bitty,Golden Retriever,Rupert,417,713-0321
 Bungee,Golden Retriever,Frida,251,878-9433
 Cuddles,Labrador Retriever,Eldon,943,390-7815
