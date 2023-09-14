@@ -1,8 +1,8 @@
-ID,Systolic BP,Age,Sex,Marital Status
+ID,Systolic BP,Age,Gender,Marital Status
 109266.0,99.0,29.0,Female,Never married
 109271.0,102.0,49.0,Male,Never married
 109273.0,116.0,36.0,Male,Never married
-109274.0,138.0,68.0,Male,Never married
+109274.0,138.0,68.0,Other,Never married
 109282.0,141.0,76.0,Male,Married/Living with Partner
 109290.0,126.0,68.0,Female,Widowed/Divorced/Separated
 109291.0,107.0,42.0,Female,Married/Living with Partner
@@ -50,7 +50,7 @@ ID,Systolic BP,Age,Sex,Marital Status
 109392.0,150.0,79.0,Male,Widowed/Divorced/Separated
 109393.0,190.0,76.0,Male,Widowed/Divorced/Separated
 109394.0,117.0,29.0,Female,Never married
-109395.0,133.0,56.0,Male,Married/Living with Partner
+109395.0,133.0,56.0,Other,Married/Living with Partner
 109397.0,113.0,47.0,Female,Married/Living with Partner
 109403.0,123.0,30.0,Male,Married/Living with Partner
 109404.0,109.0,23.0,Female,Married/Living with Partner
