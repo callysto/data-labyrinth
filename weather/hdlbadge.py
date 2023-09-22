@@ -1,0 +1,47 @@
+def get_badge(name):
+    """
+    Returns a badge image with the name of the person who completed the labyrinth.
+    """
+
+    line1_text = name
+    line2_text = 'completed the'
+    line3_text = 'Health Data Labyrinth'
+    font_size = 46
+
+    #logo = '../resources/callysto-logo.jpg'
+    logo_url = 'https://github.com/callysto/data-labyrinth/blob/main/resources/callysto-logo.jpg?raw=true'
+    import requests
+    from io import BytesIO
+    logo = BytesIO(requests.get(logo_url, allow_redirects=True).content)
+
+    from PIL import Image, ImageDraw, ImageFont
+
+    width, height = 400, 400
+    background_color = (255, 255, 255)
+    image = Image.new("RGB", (width, height), background_color)
+    draw = ImageDraw.Draw(image)
+
+    # get the image
+    image_to_embed = Image.open(logo).resize((200, 200))
+    image.paste(image_to_embed, (100, 20+font_size*2+20))
+
+    # get the font
+    import requests
+    import io
+    r = requests.get('https://raw.githubusercontent.com/googlefonts/roboto/main/src/hinted/RobotoCondensed-Regular.ttf', allow_redirects=True)
+    font = ImageFont.truetype(io.BytesIO(r.content), size=font_size)
+
+    # text positions
+    line1_size = draw.textlength(line1_text, font=font)
+    line2_size = draw.textlength(line2_text, font=font)
+    line3_size = draw.textlength(line3_text, font=font)
+    line1_position = ((width - line1_size) // 2, 20)
+    line2_position = ((width - line2_size) // 2, 20+font_size)
+    line3_position = ((width - line3_size) // 2, 20+font_size*2+10+200)
+
+    # Draw the text on the image
+    draw.text(line1_position, line1_text, fill=(111, 74, 158), font=font)
+    draw.text(line2_position, line2_text, fill=(111, 74, 158), font=font)
+    draw.text(line3_position, line3_text, fill=(142, 162, 161), font=font)
+
+    return(image)
