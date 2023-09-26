@@ -1,0 +1,1006 @@
+,PERSON_ID,FIRST_NAME,LAST_NAME,TEAM,DESCRIPTION,ALL_NBA_TEAM_NUMBER,SEASON,MONTH,WEEK,CONFERENCE,TYPE,SUBTYPE1,SUBTYPE2,SUBTYPE3,Player Name
+0,893,Michael,Jordan,Chicago Bulls,All-Defensive Team,1,1987-88,,,1610612741,Award,Kia Motors,KIADT,,Michael Jordan
+1,893,Michael,Jordan,Chicago Bulls,All-Defensive Team,1,1988-89,,,1610612741,Award,Kia Motors,KIADT,,Michael Jordan
+2,893,Michael,Jordan,Chicago Bulls,All-Defensive Team,1,1989-90,,,1610612741,Award,Kia Motors,KIADT,,Michael Jordan
+3,893,Michael,Jordan,Chicago Bulls,All-Defensive Team,1,1990-91,,,1610612741,Award,Kia Motors,KIADT,,Michael Jordan
+4,893,Michael,Jordan,Chicago Bulls,All-Defensive Team,1,1991-92,,,1610612741,Award,Kia Motors,KIADT,,Michael Jordan
+5,893,Michael,Jordan,Chicago Bulls,All-Defensive Team,1,1992-93,,,1610612741,Award,Kia Motors,KIADT,,Michael Jordan
+6,893,Michael,Jordan,Chicago Bulls,All-Defensive Team,1,1995-96,,,1610612741,Award,Kia Motors,KIADT,,Michael Jordan
+7,893,Michael,Jordan,Chicago Bulls,All-Defensive Team,1,1996-97,,,1610612741,Award,Kia Motors,KIADT,,Michael Jordan
+8,893,Michael,Jordan,Chicago Bulls,All-Defensive Team,1,1997-98,,,1610612741,Award,Kia Motors,KIADT,,Michael Jordan
+9,893,Michael,Jordan,Chicago Bulls,All-NBA,2,1984-85,,,1610612741,Award,Kia Motors,KIANT,,Michael Jordan
+10,893,Michael,Jordan,Chicago Bulls,All-NBA,1,1986-87,,,1610612741,Award,Kia Motors,KIANT,,Michael Jordan
+11,893,Michael,Jordan,Chicago Bulls,All-NBA,1,1987-88,,,1610612741,Award,Kia Motors,KIANT,,Michael Jordan
+12,893,Michael,Jordan,Chicago Bulls,All-NBA,1,1988-89,,,1610612741,Award,Kia Motors,KIANT,,Michael Jordan
+13,893,Michael,Jordan,Chicago Bulls,All-NBA,1,1989-90,,,1610612741,Award,Kia Motors,KIANT,,Michael Jordan
+14,893,Michael,Jordan,Chicago Bulls,All-NBA,1,1990-91,,,1610612741,Award,Kia Motors,KIANT,,Michael Jordan
+15,893,Michael,Jordan,Chicago Bulls,All-NBA,1,1991-92,,,1610612741,Award,Kia Motors,KIANT,,Michael Jordan
+16,893,Michael,Jordan,Chicago Bulls,All-NBA,1,1992-93,,,1610612741,Award,Kia Motors,KIANT,,Michael Jordan
+17,893,Michael,Jordan,Chicago Bulls,All-NBA,1,1995-96,,,1610612741,Award,Kia Motors,KIANT,,Michael Jordan
+18,893,Michael,Jordan,Chicago Bulls,All-NBA,1,1996-97,,,1610612741,Award,Kia Motors,KIANT,,Michael Jordan
+19,893,Michael,Jordan,Chicago Bulls,All-NBA,1,1997-98,,,1610612741,Award,Kia Motors,KIANT,,Michael Jordan
+20,893,Michael,Jordan,Chicago Bulls,All-Rookie Team,1,1984-85,,,1610612741,Award,Kia Motors,KIART,,Michael Jordan
+21,893,Michael,Jordan,,Hall of Fame Inductee,,2009,,,,Award,Hall of Fame,,,Michael Jordan
+22,893,Michael,Jordan,Chicago Bulls,IBM Award,,1984-85,,,,Award,IBM,IBMAW,,Michael Jordan
+23,893,Michael,Jordan,Chicago Bulls,IBM Award,,1988-89,,,,Award,IBM,IBMAW,,Michael Jordan
+24,893,Michael,Jordan,Chicago Bulls,NBA All-Star Most Valuable Player,,1987-88,,,,Award,Kia Motors,KAMVP,,Michael Jordan
+25,893,Michael,Jordan,Chicago Bulls,NBA All-Star Most Valuable Player,,1995-96,,,,Award,Kia Motors,KAMVP,,Michael Jordan
+26,893,Michael,Jordan,Chicago Bulls,NBA All-Star Most Valuable Player,,1997-98,,,,Award,Kia Motors,KAMVP,,Michael Jordan
+27,893,Michael,Jordan,Chicago Bulls,NBA Defensive Player of the Year,,1987-88,,,,Award,Kia Motors,KDPYR,,Michael Jordan
+28,893,Michael,Jordan,Chicago Bulls,NBA Finals Most Valuable Player,,1990-91,,,,Award,Kia Motors,KFMVP,,Michael Jordan
+29,893,Michael,Jordan,Chicago Bulls,NBA Finals Most Valuable Player,,1991-92,,,,Award,Kia Motors,KFMVP,,Michael Jordan
+30,893,Michael,Jordan,Chicago Bulls,NBA Finals Most Valuable Player,,1992-93,,,,Award,Kia Motors,KFMVP,,Michael Jordan
+31,893,Michael,Jordan,Chicago Bulls,NBA Finals Most Valuable Player,,1995-96,,,,Award,Kia Motors,KFMVP,,Michael Jordan
+32,893,Michael,Jordan,Chicago Bulls,NBA Finals Most Valuable Player,,1996-97,,,,Award,Kia Motors,KFMVP,,Michael Jordan
+33,893,Michael,Jordan,Chicago Bulls,NBA Finals Most Valuable Player,,1997-98,,,,Award,Kia Motors,KFMVP,,Michael Jordan
+34,893,Michael,Jordan,Chicago Bulls,NBA Most Valuable Player,,1987-88,,,,Award,Kia Motors,KIMVP,,Michael Jordan
+35,893,Michael,Jordan,Chicago Bulls,NBA Most Valuable Player,,1990-91,,,,Award,Kia Motors,KIMVP,,Michael Jordan
+36,893,Michael,Jordan,Chicago Bulls,NBA Most Valuable Player,,1991-92,,,,Award,Kia Motors,KIMVP,,Michael Jordan
+37,893,Michael,Jordan,Chicago Bulls,NBA Most Valuable Player,,1995-96,,,,Award,Kia Motors,KIMVP,,Michael Jordan
+38,893,Michael,Jordan,Chicago Bulls,NBA Most Valuable Player,,1997-98,,,,Award,Kia Motors,KIMVP,,Michael Jordan
+39,893,Michael,Jordan,Chicago Bulls,NBA Player of the Month,,1986-87,02/01/1987,,,Award,Kia Motors,KIPMO,,Michael Jordan
+40,893,Michael,Jordan,Chicago Bulls,NBA Player of the Month,,1986-87,11/01/1986,,,Award,Kia Motors,KIPMO,,Michael Jordan
+41,893,Michael,Jordan,Chicago Bulls,NBA Player of the Month,,1987-88,01/01/1988,,,Award,Kia Motors,KIPMO,,Michael Jordan
+42,893,Michael,Jordan,Chicago Bulls,NBA Player of the Month,,1987-88,11/01/1987,,,Award,Kia Motors,KIPMO,,Michael Jordan
+43,893,Michael,Jordan,Chicago Bulls,NBA Player of the Month,,1988-89,03/01/1989,,,Award,Kia Motors,KIPMO,,Michael Jordan
+44,893,Michael,Jordan,Chicago Bulls,NBA Player of the Month,,1988-89,12/01/1988,,,Award,Kia Motors,KIPMO,,Michael Jordan
+45,893,Michael,Jordan,Chicago Bulls,NBA Player of the Month,,1989-90,03/01/1990,,,Award,Kia Motors,KIPMO,,Michael Jordan
+46,893,Michael,Jordan,Chicago Bulls,NBA Player of the Month,,1989-90,12/01/1989,,,Award,Kia Motors,KIPMO,,Michael Jordan
+47,893,Michael,Jordan,Chicago Bulls,NBA Player of the Month,,1990-91,03/01/1991,,,Award,Kia Motors,KIPMO,,Michael Jordan
+48,893,Michael,Jordan,Chicago Bulls,NBA Player of the Month,,1990-91,04/01/1991,,,Award,Kia Motors,KIPMO,,Michael Jordan
+49,893,Michael,Jordan,Chicago Bulls,NBA Player of the Month,,1991-92,03/01/1992,,,Award,Kia Motors,KIPMO,,Michael Jordan
+50,893,Michael,Jordan,Chicago Bulls,NBA Player of the Month,,1992-93,11/01/1992,,,Award,Kia Motors,KIPMO,,Michael Jordan
+51,893,Michael,Jordan,Chicago Bulls,NBA Player of the Month,,1995-96,01/01/1996,,,Award,Kia Motors,KIPMO,,Michael Jordan
+52,893,Michael,Jordan,Chicago Bulls,NBA Player of the Month,,1996-97,11/01/1996,,,Award,Kia Motors,KIPMO,,Michael Jordan
+53,893,Michael,Jordan,Chicago Bulls,NBA Player of the Month,,1997-98,03/01/1998,,,Award,Kia Motors,KIPMO,,Michael Jordan
+54,893,Michael,Jordan,Chicago Bulls,NBA Player of the Month,,1997-98,12/01/1997,,,Award,Kia Motors,KIPMO,,Michael Jordan
+55,893,Michael,Jordan,Chicago Bulls,NBA Player of the Week,,1984-85,,1985-01-20T00:00:00,,Award,Kia Motors,KIPWK,,Michael Jordan
+56,893,Michael,Jordan,Chicago Bulls,NBA Player of the Week,,1986-87,,1986-11-09T00:00:00,,Award,Kia Motors,KIPWK,,Michael Jordan
+57,893,Michael,Jordan,Chicago Bulls,NBA Player of the Week,,1986-87,,1987-03-01T00:00:00,,Award,Kia Motors,KIPWK,,Michael Jordan
+58,893,Michael,Jordan,Chicago Bulls,NBA Player of the Week,,1986-87,,1987-04-12T00:00:00,,Award,Kia Motors,KIPWK,,Michael Jordan
+59,893,Michael,Jordan,Chicago Bulls,NBA Player of the Week,,1987-88,,1988-01-24T00:00:00,,Award,Kia Motors,KIPWK,,Michael Jordan
+60,893,Michael,Jordan,Chicago Bulls,NBA Player of the Week,,1987-88,,1988-03-27T00:00:00,,Award,Kia Motors,KIPWK,,Michael Jordan
+61,893,Michael,Jordan,Chicago Bulls,NBA Player of the Week,,1987-88,,1988-04-03T00:00:00,,Award,Kia Motors,KIPWK,,Michael Jordan
+62,893,Michael,Jordan,Chicago Bulls,NBA Player of the Week,,1988-89,,1988-11-20T00:00:00,,Award,Kia Motors,KIPWK,,Michael Jordan
+63,893,Michael,Jordan,Chicago Bulls,NBA Player of the Week,,1988-89,,1989-01-15T00:00:00,,Award,Kia Motors,KIPWK,,Michael Jordan
+64,893,Michael,Jordan,Chicago Bulls,NBA Player of the Week,,1988-89,,1989-03-26T00:00:00,,Award,Kia Motors,KIPWK,,Michael Jordan
+65,893,Michael,Jordan,Chicago Bulls,NBA Player of the Week,,1988-89,,1989-04-02T00:00:00,,Award,Kia Motors,KIPWK,,Michael Jordan
+66,893,Michael,Jordan,Chicago Bulls,NBA Player of the Week,,1989-90,,1989-12-10T00:00:00,,Award,Kia Motors,KIPWK,,Michael Jordan
+67,893,Michael,Jordan,Chicago Bulls,NBA Player of the Week,,1989-90,,1990-04-01T00:00:00,,Award,Kia Motors,KIPWK,,Michael Jordan
+68,893,Michael,Jordan,Chicago Bulls,NBA Player of the Week,,1990-91,,1990-12-02T00:00:00,,Award,Kia Motors,KIPWK,,Michael Jordan
+69,893,Michael,Jordan,Chicago Bulls,NBA Player of the Week,,1990-91,,1990-12-25T00:00:00,,Award,Kia Motors,KIPWK,,Michael Jordan
+70,893,Michael,Jordan,Chicago Bulls,NBA Player of the Week,,1991-92,,1992-01-12T00:00:00,,Award,Kia Motors,KIPWK,,Michael Jordan
+71,893,Michael,Jordan,Chicago Bulls,NBA Player of the Week,,1992-93,,1992-11-22T00:00:00,,Award,Kia Motors,KIPWK,,Michael Jordan
+72,893,Michael,Jordan,Chicago Bulls,NBA Player of the Week,,1995-96,,1995-12-24T00:00:00,,Award,Kia Motors,KIPWK,,Michael Jordan
+73,893,Michael,Jordan,Chicago Bulls,NBA Player of the Week,,1995-96,,1996-01-21T00:00:00,,Award,Kia Motors,KIPWK,,Michael Jordan
+74,893,Michael,Jordan,Chicago Bulls,NBA Player of the Week,,1995-96,,1996-03-10T00:00:00,,Award,Kia Motors,KIPWK,,Michael Jordan
+75,893,Michael,Jordan,Chicago Bulls,NBA Player of the Week,,1997-98,,1997-11-23T00:00:00,,Award,Kia Motors,KIPWK,,Michael Jordan
+76,893,Michael,Jordan,Chicago Bulls,NBA Player of the Week,,1997-98,,1997-12-21T00:00:00,,Award,Kia Motors,KIPWK,,Michael Jordan
+77,893,Michael,Jordan,Chicago Bulls,NBA Player of the Week,,1997-98,,1998-04-05T00:00:00,,Award,Kia Motors,KIPWK,,Michael Jordan
+78,893,Michael,Jordan,Washington Wizards,NBA Player of the Week,,2002-03,,2003-01-05T00:00:00,East,Award,Kia Motors,KIPWK,,Michael Jordan
+79,893,Michael,Jordan,Washington Wizards,NBA Player of the Week,,2002-03,,2003-03-02T00:00:00,East,Award,Kia Motors,KIPWK,,Michael Jordan
+80,893,Michael,Jordan,Chicago Bulls,NBA Rookie of the Month,,1984-85,01/01/1985,,,Award,Kia Motors,KIRMO,,Michael Jordan
+81,893,Michael,Jordan,Chicago Bulls,NBA Rookie of the Month,,1984-85,03/01/1985,,,Award,Kia Motors,KIRMO,,Michael Jordan
+82,893,Michael,Jordan,Chicago Bulls,NBA Rookie of the Month,,1984-85,11/01/1984,,,Award,Kia Motors,KIRMO,,Michael Jordan
+83,893,Michael,Jordan,Chicago Bulls,NBA Rookie of the Year,,1984-85,,,,Award,Kia Motors,KIROY,,Michael Jordan
+84,893,Michael,Jordan,Chicago Bulls,NBA Sporting News Most Valuable Player of the Year,,1987-88,,,,Award,Sporting News,SNMVP,,Michael Jordan
+85,893,Michael,Jordan,Chicago Bulls,NBA Sporting News Most Valuable Player of the Year,,1988-89,,,,Award,Sporting News,SNMVP,,Michael Jordan
+86,893,Michael,Jordan,Chicago Bulls,NBA Sporting News Most Valuable Player of the Year,,1990-91,,,,Award,Sporting News,SNMVP,,Michael Jordan
+87,893,Michael,Jordan,Chicago Bulls,NBA Sporting News Most Valuable Player of the Year,,1991-92,,,,Award,Sporting News,SNMVP,,Michael Jordan
+88,893,Michael,Jordan,Chicago Bulls,NBA Sporting News Most Valuable Player of the Year,,1995-96,,,,Award,Sporting News,SNMVP,,Michael Jordan
+89,893,Michael,Jordan,Chicago Bulls,NBA Sporting News Most Valuable Player of the Year,,1996-97,,,,Award,Sporting News,SNMVP,,Michael Jordan
+90,893,Michael,Jordan,Chicago Bulls,NBA Sporting News Most Valuable Player of the Year,,1997-98,,,,Award,Sporting News,SNMVP,,Michael Jordan
+91,893,Michael,Jordan,Chicago Bulls,NBA Sporting News Rookie of the Year,,1984-85,,,,Award,Sporting News,SNROY,,Michael Jordan
+92,893,Michael,Jordan,USA,Olympic Gold Medal,,1984,,,,Award,Olympic,Gold,,Michael Jordan
+93,893,Michael,Jordan,USA,Olympic Gold Medal,,1992,,,,Award,Olympic,Gold,,Michael Jordan
+94,2544,LeBron,James,Cleveland Cavaliers,All-Defensive Team,1,2008-09,,,1610612739,Award,Kia Motors,KIADT,,LeBron James
+95,2544,LeBron,James,Cleveland Cavaliers,All-Defensive Team,1,2009-10,,,1610612739,Award,Kia Motors,KIADT,,LeBron James
+96,2544,LeBron,James,Miami Heat,All-Defensive Team,1,2010-11,,,1610612748,Award,Kia Motors,KIADT,,LeBron James
+97,2544,LeBron,James,Miami Heat,All-Defensive Team,1,2011-12,,,1610612748,Award,Kia Motors,KIADT,,LeBron James
+98,2544,LeBron,James,Miami Heat,All-Defensive Team,1,2012-13,,,1610612748,Award,Kia Motors,KIADT,,LeBron James
+99,2544,LeBron,James,Miami Heat,All-Defensive Team,2,2013-14,,,1610612748,Award,Kia Motors,KIADT,,LeBron James
+100,2544,LeBron,James,Cleveland Cavaliers,All-NBA,2,2004-05,,,1610612739,Award,Kia Motors,KIANT,,LeBron James
+101,2544,LeBron,James,Cleveland Cavaliers,All-NBA,1,2005-06,,,1610612739,Award,Kia Motors,KIANT,,LeBron James
+102,2544,LeBron,James,Cleveland Cavaliers,All-NBA,2,2006-07,,,1610612739,Award,Kia Motors,KIANT,,LeBron James
+103,2544,LeBron,James,Cleveland Cavaliers,All-NBA,1,2007-08,,,1610612739,Award,Kia Motors,KIANT,,LeBron James
+104,2544,LeBron,James,Cleveland Cavaliers,All-NBA,1,2008-09,,,1610612739,Award,Kia Motors,KIANT,,LeBron James
+105,2544,LeBron,James,Cleveland Cavaliers,All-NBA,1,2009-10,,,1610612739,Award,Kia Motors,KIANT,,LeBron James
+106,2544,LeBron,James,Miami Heat,All-NBA,1,2010-11,,,1610612748,Award,Kia Motors,KIANT,,LeBron James
+107,2544,LeBron,James,Miami Heat,All-NBA,1,2011-12,,,1610612748,Award,Kia Motors,KIANT,,LeBron James
+108,2544,LeBron,James,Miami Heat,All-NBA,1,2012-13,,,1610612748,Award,Kia Motors,KIANT,,LeBron James
+109,2544,LeBron,James,Miami Heat,All-NBA,1,2013-14,,,1610612748,Award,Kia Motors,KIANT,,LeBron James
+110,2544,LeBron,James,Cleveland Cavaliers,All-NBA,1,2014-15,,,1610612739,Award,Kia Motors,KIANT,,LeBron James
+111,2544,LeBron,James,Cleveland Cavaliers,All-NBA,1,2015-16,,,East,Award,Kia Motors,KIANT,,LeBron James
+112,2544,LeBron,James,Cleveland Cavaliers,All-NBA,1,2016-17,,,East,Award,Kia Motors,KIANT,,LeBron James
+113,2544,LeBron,James,Cleveland Cavaliers,All-NBA,1,2017-18,,,East,Award,Kia Motors,KIANT,,LeBron James
+114,2544,LeBron,James,Los Angeles Lakers,All-NBA,3,2018-19,,,West,Award,Kia Motors,KIANT,,LeBron James
+115,2544,LeBron,James,Los Angeles Lakers,All-NBA,1,2019-20,,,West,Award,Kia Motors,KIANT,,LeBron James
+116,2544,LeBron,James,Los Angeles Lakers,All-NBA,2,2020-21,,,West,Award,Kia Motors,KIANT,,LeBron James
+117,2544,LeBron,James,Cleveland Cavaliers,All-Rookie Team,1,2003-04,,,1610612739,Award,Kia Motors,KIART,,LeBron James
+118,2544,LeBron,James,Cleveland Cavaliers,NBA All-Star Most Valuable Player,,2005-06,,,,Award,Kia Motors,KAMVP,,LeBron James
+119,2544,LeBron,James,Cleveland Cavaliers,NBA All-Star Most Valuable Player,,2007-08,,,,Award,Kia Motors,KAMVP,,LeBron James
+120,2544,LeBron,James,Cleveland Cavaliers,NBA All-Star Most Valuable Player,,2017-18,,,,Award,Kia Motors,KAMVP,,LeBron James
+121,2544,LeBron,James,Miami Heat,NBA Finals Most Valuable Player,,2011-12,,,,Award,Kia Motors,KFMVP,,LeBron James
+122,2544,LeBron,James,Miami Heat,NBA Finals Most Valuable Player,,2012-13,,,,Award,Kia Motors,KFMVP,,LeBron James
+123,2544,LeBron,James,Cleveland Cavaliers,NBA Finals Most Valuable Player,,2015-16,,,,Award,Kia Motors,KFMVP,,LeBron James
+124,2544,LeBron,James,Los Angeles Lakers,NBA Finals Most Valuable Player,,2019-20,,,,Award,Kia Motors,KFMVP,,LeBron James
+125,2544,LeBron,James,Cleveland Cavaliers,NBA Most Valuable Player,,2008-09,,,,Award,Kia Motors,KIMVP,,LeBron James
+126,2544,LeBron,James,Cleveland Cavaliers,NBA Most Valuable Player,,2009-10,,,,Award,Kia Motors,KIMVP,,LeBron James
+127,2544,LeBron,James,Miami Heat,NBA Most Valuable Player,,2011-12,,,,Award,Kia Motors,KIMVP,,LeBron James
+128,2544,LeBron,James,Miami Heat,NBA Most Valuable Player,,2012-13,,,,Award,Kia Motors,KIMVP,,LeBron James
+129,2544,LeBron,James,Cleveland Cavaliers,NBA Player of the Month,,2004-05,01/01/2005,,East,Award,Kia Motors,KIPMO,,LeBron James
+130,2544,LeBron,James,Cleveland Cavaliers,NBA Player of the Month,,2004-05,11/01/2004,,East,Award,Kia Motors,KIPMO,,LeBron James
+131,2544,LeBron,James,Cleveland Cavaliers,NBA Player of the Month,,2005-06,03/01/2006,,East,Award,Kia Motors,KIPMO,,LeBron James
+132,2544,LeBron,James,Cleveland Cavaliers,NBA Player of the Month,,2005-06,11/01/2005,,East,Award,Kia Motors,KIPMO,,LeBron James
+133,2544,LeBron,James,Cleveland Cavaliers,NBA Player of the Month,,2006-07,03/01/2007,,East,Award,Kia Motors,KIPMO,,LeBron James
+134,2544,LeBron,James,Cleveland Cavaliers,NBA Player of the Month,,2007-08,01/01/2008,,East,Award,Kia Motors,KIPMO,,LeBron James
+135,2544,LeBron,James,Cleveland Cavaliers,NBA Player of the Month,,2007-08,02/01/2008,,East,Award,Kia Motors,KIPMO,,LeBron James
+136,2544,LeBron,James,Cleveland Cavaliers,NBA Player of the Month,,2008-09,01/01/2009,,East,Award,Kia Motors,KIPMO,,LeBron James
+137,2544,LeBron,James,Cleveland Cavaliers,NBA Player of the Month,,2008-09,03/01/2009,,East,Award,Kia Motors,KIPMO,,LeBron James
+138,2544,LeBron,James,Cleveland Cavaliers,NBA Player of the Month,,2008-09,04/01/2009,,East,Award,Kia Motors,KIPMO,,LeBron James
+139,2544,LeBron,James,Cleveland Cavaliers,NBA Player of the Month,,2008-09,11/01/2008,,East,Award,Kia Motors,KIPMO,,LeBron James
+140,2544,LeBron,James,Cleveland Cavaliers,NBA Player of the Month,,2009-10,01/01/2010,,East,Award,Kia Motors,KIPMO,,LeBron James
+141,2544,LeBron,James,Cleveland Cavaliers,NBA Player of the Month,,2009-10,02/01/2010,,East,Award,Kia Motors,KIPMO,,LeBron James
+142,2544,LeBron,James,Cleveland Cavaliers,NBA Player of the Month,,2009-10,11/01/2009,,East,Award,Kia Motors,KIPMO,,LeBron James
+143,2544,LeBron,James,Cleveland Cavaliers,NBA Player of the Month,,2009-10,12/01/2009,,East,Award,Kia Motors,KIPMO,,LeBron James
+144,2544,LeBron,James,Miami Heat,NBA Player of the Month,,2010-11,01/01/2011,,East,Award,Kia Motors,KIPMO,,LeBron James
+145,2544,LeBron,James,Miami Heat,NBA Player of the Month,,2010-11,04/01/2011,,East,Award,Kia Motors,KIPMO,,LeBron James
+146,2544,LeBron,James,Miami Heat,NBA Player of the Month,,2010-11,12/01/2010,,East,Award,Kia Motors,KIPMO,,LeBron James
+147,2544,LeBron,James,Miami Heat,NBA Player of the Month,,2011-12,01/01/2012,,East,Award,Kia Motors,KIPMO,,LeBron James
+148,2544,LeBron,James,Miami Heat,NBA Player of the Month,,2011-12,02/01/2012,,East,Award,Kia Motors,KIPMO,,LeBron James
+149,2544,LeBron,James,Miami Heat,NBA Player of the Month,,2012-13,01/01/2013,,East,Award,Kia Motors,KIPMO,,LeBron James
+150,2544,LeBron,James,Miami Heat,NBA Player of the Month,,2012-13,02/01/2013,,East,Award,Kia Motors,KIPMO,,LeBron James
+151,2544,LeBron,James,Miami Heat,NBA Player of the Month,,2012-13,03/01/2013,,East,Award,Kia Motors,KIPMO,,LeBron James
+152,2544,LeBron,James,Miami Heat,NBA Player of the Month,,2012-13,12/01/2012,,East,Award,Kia Motors,KIPMO,,LeBron James
+153,2544,LeBron,James,Miami Heat,NBA Player of the Month,,2013-14,12/1/2013,,East,Award,Kia Motors,KIPMO,,LeBron James
+154,2544,LeBron,James,Miami Heat,NBA Player of the Month,,2013-14,2/1/2014,,East,Award,Kia Motors,KIPMO,,LeBron James
+155,2544,LeBron,James,Cleveland Cavaliers,NBA Player of the Month,,2014-15,2/1/2015,,East,Award,Kia Motors,KIPMO,,LeBron James
+156,2544,LeBron,James,Cleveland Cavaliers,NBA Player of the Month,,2014-15,3/1/2015,,East,Award,Kia Motors,KIPMO,,LeBron James
+157,2544,LeBron,James,Cleveland Cavaliers,NBA Player of the Month,,2015-16,2/1/2016,,East,Award,Kia Motors,KIPMO,,LeBron James
+158,2544,LeBron,James,Cleveland Cavaliers,NBA Player of the Month,,2015-16,3/1/2016,,East,Award,Kia Motors,KIPMO,,LeBron James
+159,2544,LeBron,James,Cleveland Cavaliers,NBA Player of the Month,,2015-16,4/1/2016,,East,Award,Kia Motors,KIPMO,,LeBron James
+160,2544,LeBron,James,Cleveland Cavaliers,NBA Player of the Month,,2016-17,11/1/2016,,East,Award,Kia Motors,KIPMO,,LeBron James
+161,2544,LeBron,James,Cleveland Cavaliers,NBA Player of the Month,,2016-17,2/1/2017,,East,Award,Kia Motors,KIPMO,,LeBron James
+162,2544,LeBron,James,Cleveland Cavaliers,NBA Player of the Month,,2017-18,11/1/2017,,East,Award,Kia Motors,KIPMO,,LeBron James
+163,2544,LeBron,James,Cleveland Cavaliers,NBA Player of the Month,,2017-18,12/1/2017,,East,Award,Kia Motors,KIPMO,,LeBron James
+164,2544,LeBron,James,Cleveland Cavaliers,NBA Player of the Month,,2017-18,2/1/2018,,East,Award,Kia Motors,KIPMO,,LeBron James
+165,2544,LeBron,James,Cleveland Cavaliers,NBA Player of the Month,,2017-18,3/1/2018,,East,Award,Kia Motors,KIPMO,,LeBron James
+166,2544,LeBron,James,Los Angeles Lakers,NBA Player of the Month,,2019-20,1/1/2020,,West,Award,Kia Motors,KIPMO,,LeBron James
+167,2544,LeBron,James,Los Angeles Lakers,NBA Player of the Month,,2019-20,2/1/2020,,West,Award,Kia Motors,KIPMO,,LeBron James
+168,2544,LeBron,James,Cleveland Cavaliers,NBA Player of the Week,,2004-05,,2004-11-14T00:00:00,East,Award,Kia Motors,KIPWK,,LeBron James
+169,2544,LeBron,James,Cleveland Cavaliers,NBA Player of the Week,,2004-05,,2004-11-28T00:00:00,East,Award,Kia Motors,KIPWK,,LeBron James
+170,2544,LeBron,James,Cleveland Cavaliers,NBA Player of the Week,,2004-05,,2005-01-23T00:00:00,East,Award,Kia Motors,KIPWK,,LeBron James
+171,2544,LeBron,James,Cleveland Cavaliers,NBA Player of the Week,,2005-06,,2005-11-21T00:00:00,East,Award,Kia Motors,KIPWK,,LeBron James
+172,2544,LeBron,James,Cleveland Cavaliers,NBA Player of the Week,,2005-06,,2006-01-30T00:00:00,East,Award,Kia Motors,KIPWK,,LeBron James
+173,2544,LeBron,James,Cleveland Cavaliers,NBA Player of the Week,,2005-06,,2006-03-19T00:00:00,East,Award,Kia Motors,KIPWK,,LeBron James
+174,2544,LeBron,James,Cleveland Cavaliers,NBA Player of the Week,,2005-06,,2006-03-26T00:00:00,East,Award,Kia Motors,KIPWK,,LeBron James
+175,2544,LeBron,James,Cleveland Cavaliers,NBA Player of the Week,,2005-06,,2006-04-02T00:00:00,East,Award,Kia Motors,KIPWK,,LeBron James
+176,2544,LeBron,James,Cleveland Cavaliers,NBA Player of the Week,,2006-07,,2006-11-19T00:00:00,East,Award,Kia Motors,KIPWK,,LeBron James
+177,2544,LeBron,James,Cleveland Cavaliers,NBA Player of the Week,,2006-07,,2007-03-11T00:00:00,East,Award,Kia Motors,KIPWK,,LeBron James
+178,2544,LeBron,James,Cleveland Cavaliers,NBA Player of the Week,,2007-08,,2007-11-25T00:00:00,East,Award,Kia Motors,KIPWK,,LeBron James
+179,2544,LeBron,James,Cleveland Cavaliers,NBA Player of the Week,,2007-08,,2008-01-06T00:00:00,East,Award,Kia Motors,KIPWK,,LeBron James
+180,2544,LeBron,James,Cleveland Cavaliers,NBA Player of the Week,,2007-08,,2008-02-24T00:00:00,East,Award,Kia Motors,KIPWK,,LeBron James
+181,2544,LeBron,James,Cleveland Cavaliers,NBA Player of the Week,,2008-09,,2008-11-10T00:00:00,East,Award,Kia Motors,KIPWK,,LeBron James
+182,2544,LeBron,James,Cleveland Cavaliers,NBA Player of the Week,,2008-09,,2008-11-17T00:00:00,East,Award,Kia Motors,KIPWK,,LeBron James
+183,2544,LeBron,James,Cleveland Cavaliers,NBA Player of the Week,,2008-09,,2008-12-29T00:00:00,East,Award,Kia Motors,KIPWK,,LeBron James
+184,2544,LeBron,James,Cleveland Cavaliers,NBA Player of the Week,,2008-09,,2009-01-26T00:00:00,East,Award,Kia Motors,KIPWK,,LeBron James
+185,2544,LeBron,James,Cleveland Cavaliers,NBA Player of the Week,,2008-09,,2009-02-09T00:00:00,East,Award,Kia Motors,KIPWK,,LeBron James
+186,2544,LeBron,James,Cleveland Cavaliers,NBA Player of the Week,,2008-09,,2009-03-16T00:00:00,East,Award,Kia Motors,KIPWK,,LeBron James
+187,2544,LeBron,James,Cleveland Cavaliers,NBA Player of the Week,,2008-09,,2009-03-23T00:00:00,East,Award,Kia Motors,KIPWK,,LeBron James
+188,2544,LeBron,James,Cleveland Cavaliers,NBA Player of the Week,,2009-10,,2009-11-23T00:00:00,East,Award,Kia Motors,KIPWK,,LeBron James
+189,2544,LeBron,James,Cleveland Cavaliers,NBA Player of the Week,,2009-10,,2009-12-28T00:00:00,East,Award,Kia Motors,KIPWK,,LeBron James
+190,2544,LeBron,James,Cleveland Cavaliers,NBA Player of the Week,,2009-10,,2010-01-11T00:00:00,East,Award,Kia Motors,KIPWK,,LeBron James
+191,2544,LeBron,James,Cleveland Cavaliers,NBA Player of the Week,,2009-10,,2010-01-26T00:00:00,East,Award,Kia Motors,KIPWK,,LeBron James
+192,2544,LeBron,James,Cleveland Cavaliers,NBA Player of the Week,,2009-10,,2010-02-08T00:00:00,East,Award,Kia Motors,KIPWK,,LeBron James
+193,2544,LeBron,James,Cleveland Cavaliers,NBA Player of the Week,,2009-10,,2010-03-01T00:00:00,East,Award,Kia Motors,KIPWK,,LeBron James
+194,2544,LeBron,James,Miami Heat,NBA Player of the Week,,2010-11,,2010-12-27T00:00:00,East,Award,Kia Motors,KIPWK,,LeBron James
+195,2544,LeBron,James,Miami Heat,NBA Player of the Week,,2010-11,,2011-01-10T00:00:00,East,Award,Kia Motors,KIPWK,,LeBron James
+196,2544,LeBron,James,Miami Heat,NBA Player of the Week,,2010-11,,2011-01-31T00:00:00,East,Award,Kia Motors,KIPWK,,LeBron James
+197,2544,LeBron,James,Miami Heat,NBA Player of the Week,,2010-11,,2011-02-07T00:00:00,East,Award,Kia Motors,KIPWK,,LeBron James
+198,2544,LeBron,James,Miami Heat,NBA Player of the Week,,2011-12,,2011-12-25T00:00:00,East,Award,Kia Motors,KIPWK,,LeBron James
+199,2544,LeBron,James,Miami Heat,NBA Player of the Week,,2011-12,,2012-01-02T00:00:00,East,Award,Kia Motors,KIPWK,,LeBron James
+200,2544,LeBron,James,Miami Heat,NBA Player of the Week,,2011-12,,2012-01-23T00:00:00,East,Award,Kia Motors,KIPWK,,LeBron James
+201,2544,LeBron,James,Miami Heat,NBA Player of the Week,,2011-12,,2012-02-13T00:00:00,East,Award,Kia Motors,KIPWK,,LeBron James
+202,2544,LeBron,James,Miami Heat,NBA Player of the Week,,2011-12,,2012-04-02T00:00:00,East,Award,Kia Motors,KIPWK,,LeBron James
+203,2544,LeBron,James,Miami Heat,NBA Player of the Week,,2011-12,,2012-04-16T00:00:00,East,Award,Kia Motors,KIPWK,,LeBron James
+204,2544,LeBron,James,Miami Heat,NBA Player of the Week,,2012-13,,2012-11-05T00:00:00,East,Award,Kia Motors,KIPWK,,LeBron James
+205,2544,LeBron,James,Miami Heat,NBA Player of the Week,,2012-13,,2012-11-12T00:00:00,East,Award,Kia Motors,KIPWK,,LeBron James
+206,2544,LeBron,James,Miami Heat,NBA Player of the Week,,2012-13,,2012-12-17T00:00:00,East,Award,Kia Motors,KIPWK,,LeBron James
+207,2544,LeBron,James,Miami Heat,NBA Player of the Week,,2012-13,,2013-02-04T00:00:00,East,Award,Kia Motors,KIPWK,,LeBron James
+208,2544,LeBron,James,Miami Heat,NBA Player of the Week,,2012-13,,2013-02-19T00:00:00,East,Award,Kia Motors,KIPWK,,LeBron James
+209,2544,LeBron,James,Miami Heat,NBA Player of the Week,,2012-13,,2013-03-18T00:00:00,East,Award,Kia Motors,KIPWK,,LeBron James
+210,2544,LeBron,James,Miami Heat,NBA Player of the Week,,2013-14,,2013-11-18T00:00:00,East,Award,Kia Motors,KIPWK,,LeBron James
+211,2544,LeBron,James,Miami Heat,NBA Player of the Week,,2013-14,,2013-12-02T00:00:00,East,Award,Kia Motors,KIPWK,,LeBron James
+212,2544,LeBron,James,Cleveland Cavaliers,NBA Player of the Week,,2014-15,,2014-11-10T00:00:00,East,Award,Kia Motors,KIPWK,,LeBron James
+213,2544,LeBron,James,Cleveland Cavaliers,NBA Player of the Week,,2014-15,,2014-11-24T00:00:00,East,Award,Kia Motors,KIPWK,,LeBron James
+214,2544,LeBron,James,Cleveland Cavaliers,NBA Player of the Week,,2014-15,,2015-01-17T00:00:00,East,Award,Kia Motors,KIPWK,,LeBron James
+215,2544,LeBron,James,Cleveland Cavaliers,NBA Player of the Week,,2015-16,,2015-11-23T00:00:00,East,Award,Kia Motors,KIPWK,,LeBron James
+216,2544,LeBron,James,Cleveland Cavaliers,NBA Player of the Week,,2015-16,,2016-01-11T00:00:00,East,Award,Kia Motors,KIPWK,,LeBron James
+217,2544,LeBron,James,Cleveland Cavaliers,NBA Player of the Week,,2015-16,,2016-03-07T00:00:00,East,Award,Kia Motors,KIPWK,,LeBron James
+218,2544,LeBron,James,Cleveland Cavaliers,NBA Player of the Week,,2015-16,,2016-03-28T00:00:00,East,Award,Kia Motors,KIPWK,,LeBron James
+219,2544,LeBron,James,Cleveland Cavaliers,NBA Player of the Week,,2015-16,,2016-04-04T00:00:00,East,Award,Kia Motors,KIPWK,,LeBron James
+220,2544,LeBron,James,Cleveland Cavaliers,NBA Player of the Week,,2016-17,,2016-10-31T00:00:00,East,Award,Kia Motors,KIPWK,,LeBron James
+221,2544,LeBron,James,Cleveland Cavaliers,NBA Player of the Week,,2016-17,,2016-11-07T00:00:00,East,Award,Kia Motors,KIPWK,,LeBron James
+222,2544,LeBron,James,Cleveland Cavaliers,NBA Player of the Week,,2016-17,,2016-12-12T00:00:00,East,Award,Kia Motors,KIPWK,,LeBron James
+223,2544,LeBron,James,Cleveland Cavaliers,NBA Player of the Week,,2016-17,,2017-02-13T00:00:00,East,Award,Kia Motors,KIPWK,,LeBron James
+224,2544,LeBron,James,Cleveland Cavaliers,NBA Player of the Week,,2017-18,,2017-11-27T00:00:00,East,Award,Kia Motors,KIPWK,,LeBron James
+225,2544,LeBron,James,Cleveland Cavaliers,NBA Player of the Week,,2017-18,,2017-12-11T00:00:00,East,Award,Kia Motors,KIPWK,,LeBron James
+226,2544,LeBron,James,Cleveland Cavaliers,NBA Player of the Week,,2017-18,,2018-03-12T00:00:00,East,Award,Kia Motors,KIPWK,,LeBron James
+227,2544,LeBron,James,Cleveland Cavaliers,NBA Player of the Week,,2017-18,,2018-03-19T00:00:00,East,Award,Kia Motors,KIPWK,,LeBron James
+228,2544,LeBron,James,Los Angeles Lakers,NBA Player of the Week,,2019-20,,2019-12-09T00:00:00,West,Award,Kia Motors,KIPWK,,LeBron James
+229,2544,LeBron,James,Los Angeles Lakers,NBA Player of the Week,,2019-20,,2019-12-30T00:00:00,West,Award,Kia Motors,KIPWK,,LeBron James
+230,2544,LeBron,James,Los Angeles Lakers,NBA Player of the Week,,2019-20,,2020-03-02T00:00:00,West,Award,Kia Motors,KIPWK,,LeBron James
+231,2544,LeBron,James,Cleveland Cavaliers,NBA Rookie of the Month,,2003-04,01/01/2004,,East,Award,Kia Motors,KIRMO,,LeBron James
+232,2544,LeBron,James,Cleveland Cavaliers,NBA Rookie of the Month,,2003-04,02/01/2004,,East,Award,Kia Motors,KIRMO,,LeBron James
+233,2544,LeBron,James,Cleveland Cavaliers,NBA Rookie of the Month,,2003-04,03/01/2004,,East,Award,Kia Motors,KIRMO,,LeBron James
+234,2544,LeBron,James,Cleveland Cavaliers,NBA Rookie of the Month,,2003-04,04/01/2004,,East,Award,Kia Motors,KIRMO,,LeBron James
+235,2544,LeBron,James,Cleveland Cavaliers,NBA Rookie of the Month,,2003-04,11/01/2003,,East,Award,Kia Motors,KIRMO,,LeBron James
+236,2544,LeBron,James,Cleveland Cavaliers,NBA Rookie of the Month,,2003-04,12/01/2003,,East,Award,Kia Motors,KIRMO,,LeBron James
+237,2544,LeBron,James,Cleveland Cavaliers,NBA Rookie of the Year,,2003-04,,,,Award,Kia Motors,KIROY,,LeBron James
+238,2544,LeBron,James,Cleveland Cavaliers,NBA Sporting News Most Valuable Player of the Year,,2005-06,,,,Award,Sporting News,SNMVP,,LeBron James
+239,2544,LeBron,James,Cleveland Cavaliers,NBA Sporting News Rookie of the Year,,2003-04,,,,Award,Sporting News,SNROY,,LeBron James
+240,2544,LeBron,James,USA,Olympic Bronze Medal,,2004,,,,Award,Olympic,Bronze,,LeBron James
+241,2544,LeBron,James,USA,Olympic Gold Medal,,2008,,,,Award,Olympic,Gold,,LeBron James
+242,2544,LeBron,James,USA,Olympic Gold Medal,,2012,,,,Award,Olympic,Gold,,LeBron James
+243,2544,LeBron,James,Los Angeles Lakers,NBA Player of the Week,,2021-22,,2021-12-06T00:00:00,West,Award,Kia Motors,KIPWK,,LeBron James
+244,2544,LeBron,James,Los Angeles Lakers,All-NBA,3,2021-22,,,West,Award,Kia Motors,KIANT,,LeBron James
+245,2544,LeBron,James,Los Angeles Lakers,NBA Player of the Week,,2022-23,,2023-01-16T00:00:00,West,Award,Kia Motors,KIPWK,,LeBron James
+246,2544,LeBron,James,Los Angeles Lakers,NBA Player of the Week,,2022-23,,2023-01-02T00:00:00,West,Award,Kia Motors,KIPWK,,LeBron James
+247,2544,LeBron,James,Los Angeles Lakers,All-NBA,3,2022-23,,,West,Award,Kia Motors,KIANT,,LeBron James
+248,76003,Kareem,Abdul-Jabbar,Milwaukee Bucks,All-Defensive Team,2,1969-70,,,1610612749,Award,Kia Motors,KIADT,,Kareem Abdul-Jabbar
+249,76003,Kareem,Abdul-Jabbar,Milwaukee Bucks,All-Defensive Team,2,1970-71,,,1610612749,Award,Kia Motors,KIADT,,Kareem Abdul-Jabbar
+250,76003,Kareem,Abdul-Jabbar,Milwaukee Bucks,All-Defensive Team,1,1973-74,,,1610612749,Award,Kia Motors,KIADT,,Kareem Abdul-Jabbar
+251,76003,Kareem,Abdul-Jabbar,Milwaukee Bucks,All-Defensive Team,1,1974-75,,,1610612749,Award,Kia Motors,KIADT,,Kareem Abdul-Jabbar
+252,76003,Kareem,Abdul-Jabbar,Los Angeles Lakers,All-Defensive Team,2,1975-76,,,1610612747,Award,Kia Motors,KIADT,,Kareem Abdul-Jabbar
+253,76003,Kareem,Abdul-Jabbar,Los Angeles Lakers,All-Defensive Team,2,1976-77,,,1610612747,Award,Kia Motors,KIADT,,Kareem Abdul-Jabbar
+254,76003,Kareem,Abdul-Jabbar,Los Angeles Lakers,All-Defensive Team,2,1977-78,,,1610612747,Award,Kia Motors,KIADT,,Kareem Abdul-Jabbar
+255,76003,Kareem,Abdul-Jabbar,Los Angeles Lakers,All-Defensive Team,1,1978-79,,,1610612747,Award,Kia Motors,KIADT,,Kareem Abdul-Jabbar
+256,76003,Kareem,Abdul-Jabbar,Los Angeles Lakers,All-Defensive Team,1,1979-80,,,1610612747,Award,Kia Motors,KIADT,,Kareem Abdul-Jabbar
+257,76003,Kareem,Abdul-Jabbar,Los Angeles Lakers,All-Defensive Team,1,1980-81,,,1610612747,Award,Kia Motors,KIADT,,Kareem Abdul-Jabbar
+258,76003,Kareem,Abdul-Jabbar,Los Angeles Lakers,All-Defensive Team,2,1983-84,,,1610612747,Award,Kia Motors,KIADT,,Kareem Abdul-Jabbar
+259,76003,Kareem,Abdul-Jabbar,Milwaukee Bucks,All-NBA,2,1969-70,,,1610612749,Award,Kia Motors,KIANT,,Kareem Abdul-Jabbar
+260,76003,Kareem,Abdul-Jabbar,Milwaukee Bucks,All-NBA,1,1970-71,,,1610612749,Award,Kia Motors,KIANT,,Kareem Abdul-Jabbar
+261,76003,Kareem,Abdul-Jabbar,Milwaukee Bucks,All-NBA,1,1971-72,,,1610612749,Award,Kia Motors,KIANT,,Kareem Abdul-Jabbar
+262,76003,Kareem,Abdul-Jabbar,Milwaukee Bucks,All-NBA,1,1972-73,,,1610612749,Award,Kia Motors,KIANT,,Kareem Abdul-Jabbar
+263,76003,Kareem,Abdul-Jabbar,Milwaukee Bucks,All-NBA,1,1973-74,,,1610612749,Award,Kia Motors,KIANT,,Kareem Abdul-Jabbar
+264,76003,Kareem,Abdul-Jabbar,Los Angeles Lakers,All-NBA,1,1975-76,,,1610612747,Award,Kia Motors,KIANT,,Kareem Abdul-Jabbar
+265,76003,Kareem,Abdul-Jabbar,Los Angeles Lakers,All-NBA,1,1976-77,,,1610612747,Award,Kia Motors,KIANT,,Kareem Abdul-Jabbar
+266,76003,Kareem,Abdul-Jabbar,Los Angeles Lakers,All-NBA,2,1977-78,,,1610612747,Award,Kia Motors,KIANT,,Kareem Abdul-Jabbar
+267,76003,Kareem,Abdul-Jabbar,Los Angeles Lakers,All-NBA,2,1978-79,,,1610612747,Award,Kia Motors,KIANT,,Kareem Abdul-Jabbar
+268,76003,Kareem,Abdul-Jabbar,Los Angeles Lakers,All-NBA,1,1979-80,,,1610612747,Award,Kia Motors,KIANT,,Kareem Abdul-Jabbar
+269,76003,Kareem,Abdul-Jabbar,Los Angeles Lakers,All-NBA,1,1980-81,,,1610612747,Award,Kia Motors,KIANT,,Kareem Abdul-Jabbar
+270,76003,Kareem,Abdul-Jabbar,Los Angeles Lakers,All-NBA,2,1982-83,,,1610612747,Award,Kia Motors,KIANT,,Kareem Abdul-Jabbar
+271,76003,Kareem,Abdul-Jabbar,Los Angeles Lakers,All-NBA,1,1983-84,,,1610612747,Award,Kia Motors,KIANT,,Kareem Abdul-Jabbar
+272,76003,Kareem,Abdul-Jabbar,Los Angeles Lakers,All-NBA,2,1984-85,,,1610612747,Award,Kia Motors,KIANT,,Kareem Abdul-Jabbar
+273,76003,Kareem,Abdul-Jabbar,Los Angeles Lakers,All-NBA,1,1985-86,,,1610612747,Award,Kia Motors,KIANT,,Kareem Abdul-Jabbar
+274,76003,Kareem,Abdul-Jabbar,Milwaukee Bucks,All-Rookie Team,1,1969-70,,,1610612749,Award,Kia Motors,KIART,,Kareem Abdul-Jabbar
+275,76003,Kareem,Abdul-Jabbar,,Hall of Fame Inductee,,1995,,,,Award,Hall of Fame,,,Kareem Abdul-Jabbar
+276,76003,Kareem,Abdul-Jabbar,Milwaukee Bucks,NBA Finals Most Valuable Player,,1970-71,,,,Award,Kia Motors,KFMVP,,Kareem Abdul-Jabbar
+277,76003,Kareem,Abdul-Jabbar,Los Angeles Lakers,NBA Finals Most Valuable Player,,1984-85,,,,Award,Kia Motors,KFMVP,,Kareem Abdul-Jabbar
+278,76003,Kareem,Abdul-Jabbar,Milwaukee Bucks,NBA Most Valuable Player,,1970-71,,,,Award,Kia Motors,KIMVP,,Kareem Abdul-Jabbar
+279,76003,Kareem,Abdul-Jabbar,Milwaukee Bucks,NBA Most Valuable Player,,1971-72,,,,Award,Kia Motors,KIMVP,,Kareem Abdul-Jabbar
+280,76003,Kareem,Abdul-Jabbar,Milwaukee Bucks,NBA Most Valuable Player,,1973-74,,,,Award,Kia Motors,KIMVP,,Kareem Abdul-Jabbar
+281,76003,Kareem,Abdul-Jabbar,Los Angeles Lakers,NBA Most Valuable Player,,1975-76,,,,Award,Kia Motors,KIMVP,,Kareem Abdul-Jabbar
+282,76003,Kareem,Abdul-Jabbar,Los Angeles Lakers,NBA Most Valuable Player,,1976-77,,,,Award,Kia Motors,KIMVP,,Kareem Abdul-Jabbar
+283,76003,Kareem,Abdul-Jabbar,Los Angeles Lakers,NBA Most Valuable Player,,1979-80,,,,Award,Kia Motors,KIMVP,,Kareem Abdul-Jabbar
+284,76003,Kareem,Abdul-Jabbar,Los Angeles Lakers,NBA Player of the Month,,1979-80,12/01/1979,,,Award,Kia Motors,KIPMO,,Kareem Abdul-Jabbar
+285,76003,Kareem,Abdul-Jabbar,Los Angeles Lakers,NBA Player of the Month,,1983-84,03/01/1984,,,Award,Kia Motors,KIPMO,,Kareem Abdul-Jabbar
+286,76003,Kareem,Abdul-Jabbar,Los Angeles Lakers,NBA Player of the Week,,1979-80,,1979-12-09T00:00:00,,Award,Kia Motors,KIPWK,,Kareem Abdul-Jabbar
+287,76003,Kareem,Abdul-Jabbar,Los Angeles Lakers,NBA Player of the Week,,1979-80,,1980-02-17T00:00:00,,Award,Kia Motors,KIPWK,,Kareem Abdul-Jabbar
+288,76003,Kareem,Abdul-Jabbar,Los Angeles Lakers,NBA Player of the Week,,1980-81,,1980-12-21T00:00:00,,Award,Kia Motors,KIPWK,,Kareem Abdul-Jabbar
+289,76003,Kareem,Abdul-Jabbar,Los Angeles Lakers,NBA Player of the Week,,1981-82,,1982-02-28T00:00:00,,Award,Kia Motors,KIPWK,,Kareem Abdul-Jabbar
+290,76003,Kareem,Abdul-Jabbar,Los Angeles Lakers,NBA Player of the Week,,1983-84,,1984-02-12T00:00:00,,Award,Kia Motors,KIPWK,,Kareem Abdul-Jabbar
+291,76003,Kareem,Abdul-Jabbar,Los Angeles Lakers,NBA Player of the Week,,1983-84,,1984-04-08T00:00:00,,Award,Kia Motors,KIPWK,,Kareem Abdul-Jabbar
+292,76003,Kareem,Abdul-Jabbar,Los Angeles Lakers,NBA Player of the Week,,1984-85,,1985-03-24T00:00:00,,Award,Kia Motors,KIPWK,,Kareem Abdul-Jabbar
+293,76003,Kareem,Abdul-Jabbar,Milwaukee Bucks,NBA Rookie of the Year,,1969-70,,,,Award,Kia Motors,KIROY,,Kareem Abdul-Jabbar
+294,76003,Kareem,Abdul-Jabbar,Milwaukee Bucks,NBA Sporting News Most Valuable Player of the Year,,1970-71,,,,Award,Sporting News,SNMVP,,Kareem Abdul-Jabbar
+295,76003,Kareem,Abdul-Jabbar,Milwaukee Bucks,NBA Sporting News Most Valuable Player of the Year,,1971-72,,,,Award,Sporting News,SNMVP,,Kareem Abdul-Jabbar
+296,76003,Kareem,Abdul-Jabbar,Milwaukee Bucks,NBA Sporting News Most Valuable Player of the Year,,1973-74,,,,Award,Sporting News,SNMVP,,Kareem Abdul-Jabbar
+297,76003,Kareem,Abdul-Jabbar,Los Angeles Lakers,NBA Sporting News Most Valuable Player of the Year,,1975-76,,,,Award,Sporting News,SNMVP,,Kareem Abdul-Jabbar
+298,76003,Kareem,Abdul-Jabbar,Los Angeles Lakers,NBA Sporting News Most Valuable Player of the Year,,1976-77,,,,Award,Sporting News,SNMVP,,Kareem Abdul-Jabbar
+299,76003,Kareem,Abdul-Jabbar,Los Angeles Lakers,NBA Sporting News Most Valuable Player of the Year,,1979-80,,,,Award,Sporting News,SNMVP,,Kareem Abdul-Jabbar
+300,76003,Kareem,Abdul-Jabbar,Milwaukee Bucks,NBA Sporting News Rookie of the Year,,1969-70,,,,Award,Sporting News,SNROY,,Kareem Abdul-Jabbar
+301,77142,Magic,Johnson,Los Angeles Lakers,All-NBA,2,1981-82,,,1610612747,Award,Kia Motors,KIANT,,Magic Johnson
+302,77142,Magic,Johnson,Los Angeles Lakers,All-NBA,1,1982-83,,,1610612747,Award,Kia Motors,KIANT,,Magic Johnson
+303,77142,Magic,Johnson,Los Angeles Lakers,All-NBA,1,1983-84,,,1610612747,Award,Kia Motors,KIANT,,Magic Johnson
+304,77142,Magic,Johnson,Los Angeles Lakers,All-NBA,1,1984-85,,,1610612747,Award,Kia Motors,KIANT,,Magic Johnson
+305,77142,Magic,Johnson,Los Angeles Lakers,All-NBA,1,1985-86,,,1610612747,Award,Kia Motors,KIANT,,Magic Johnson
+306,77142,Magic,Johnson,Los Angeles Lakers,All-NBA,1,1986-87,,,1610612747,Award,Kia Motors,KIANT,,Magic Johnson
+307,77142,Magic,Johnson,Los Angeles Lakers,All-NBA,1,1987-88,,,1610612747,Award,Kia Motors,KIANT,,Magic Johnson
+308,77142,Magic,Johnson,Los Angeles Lakers,All-NBA,1,1988-89,,,1610612747,Award,Kia Motors,KIANT,,Magic Johnson
+309,77142,Magic,Johnson,Los Angeles Lakers,All-NBA,1,1989-90,,,1610612747,Award,Kia Motors,KIANT,,Magic Johnson
+310,77142,Magic,Johnson,Los Angeles Lakers,All-NBA,1,1990-91,,,1610612747,Award,Kia Motors,KIANT,,Magic Johnson
+311,77142,Magic,Johnson,Los Angeles Lakers,All-Rookie Team,1,1979-80,,,1610612747,Award,Kia Motors,KIART,,Magic Johnson
+312,77142,Magic,Johnson,,Hall of Fame Inductee,,2002,,,,Award,Hall of Fame,,,Magic Johnson
+313,77142,Magic,Johnson,Los Angeles Lakers,IBM Award,,1983-84,,,,Award,IBM,IBMAW,,Magic Johnson
+314,77142,Magic,Johnson,Los Angeles Lakers,J. Walter Kennedy Citizenship,,1991-92,,,,Award,Kia Motors,KIWKC,,Magic Johnson
+315,77142,Magic,Johnson,Los Angeles Lakers,NBA All-Star Most Valuable Player,,1989-90,,,,Award,Kia Motors,KAMVP,,Magic Johnson
+316,77142,Magic,Johnson,Los Angeles Lakers,NBA All-Star Most Valuable Player,,1991-92,,,,Award,Kia Motors,KAMVP,,Magic Johnson
+317,77142,Magic,Johnson,Los Angeles Lakers,NBA Finals Most Valuable Player,,1979-80,,,,Award,Kia Motors,KFMVP,,Magic Johnson
+318,77142,Magic,Johnson,Los Angeles Lakers,NBA Finals Most Valuable Player,,1981-82,,,,Award,Kia Motors,KFMVP,,Magic Johnson
+319,77142,Magic,Johnson,Los Angeles Lakers,NBA Finals Most Valuable Player,,1986-87,,,,Award,Kia Motors,KFMVP,,Magic Johnson
+320,77142,Magic,Johnson,Los Angeles Lakers,NBA Most Valuable Player,,1986-87,,,,Award,Kia Motors,KIMVP,,Magic Johnson
+321,77142,Magic,Johnson,Los Angeles Lakers,NBA Most Valuable Player,,1988-89,,,,Award,Kia Motors,KIMVP,,Magic Johnson
+322,77142,Magic,Johnson,Los Angeles Lakers,NBA Most Valuable Player,,1989-90,,,,Award,Kia Motors,KIMVP,,Magic Johnson
+323,77142,Magic,Johnson,Los Angeles Lakers,NBA Player of the Month,,1980-81,10/01/1980,,,Award,Kia Motors,KIPMO,,Magic Johnson
+324,77142,Magic,Johnson,Los Angeles Lakers,NBA Player of the Month,,1983-84,11/01/1983,,,Award,Kia Motors,KIPMO,,Magic Johnson
+325,77142,Magic,Johnson,Los Angeles Lakers,NBA Player of the Month,,1984-85,02/01/1985,,,Award,Kia Motors,KIPMO,,Magic Johnson
+326,77142,Magic,Johnson,Los Angeles Lakers,NBA Player of the Month,,1986-87,03/01/1987,,,Award,Kia Motors,KIPMO,,Magic Johnson
+327,77142,Magic,Johnson,Los Angeles Lakers,NBA Player of the Month,,1986-87,12/01/1986,,,Award,Kia Motors,KIPMO,,Magic Johnson
+328,77142,Magic,Johnson,Los Angeles Lakers,NBA Player of the Month,,1989-90,02/01/1990,,,Award,Kia Motors,KIPMO,,Magic Johnson
+329,77142,Magic,Johnson,Los Angeles Lakers,NBA Player of the Week,,1979-80,,1979-11-11T00:00:00,,Award,Kia Motors,KIPWK,,Magic Johnson
+330,77142,Magic,Johnson,Los Angeles Lakers,NBA Player of the Week,,1979-80,,1980-03-16T00:00:00,,Award,Kia Motors,KIPWK,,Magic Johnson
+331,77142,Magic,Johnson,Los Angeles Lakers,NBA Player of the Week,,1982-83,,1983-03-13T00:00:00,,Award,Kia Motors,KIPWK,,Magic Johnson
+332,77142,Magic,Johnson,Los Angeles Lakers,NBA Player of the Week,,1982-83,,1983-04-10T00:00:00,,Award,Kia Motors,KIPWK,,Magic Johnson
+333,77142,Magic,Johnson,Los Angeles Lakers,NBA Player of the Week,,1983-84,,1983-11-13T00:00:00,,Award,Kia Motors,KIPWK,,Magic Johnson
+334,77142,Magic,Johnson,Los Angeles Lakers,NBA Player of the Week,,1983-84,,1984-02-26T00:00:00,,Award,Kia Motors,KIPWK,,Magic Johnson
+335,77142,Magic,Johnson,Los Angeles Lakers,NBA Player of the Week,,1984-85,,1985-02-17T00:00:00,,Award,Kia Motors,KIPWK,,Magic Johnson
+336,77142,Magic,Johnson,Los Angeles Lakers,NBA Player of the Week,,1985-86,,1986-03-09T00:00:00,,Award,Kia Motors,KIPWK,,Magic Johnson
+337,77142,Magic,Johnson,Los Angeles Lakers,NBA Player of the Week,,1986-87,,1986-12-21T00:00:00,,Award,Kia Motors,KIPWK,,Magic Johnson
+338,77142,Magic,Johnson,Los Angeles Lakers,NBA Player of the Week,,1986-87,,1987-02-15T00:00:00,,Award,Kia Motors,KIPWK,,Magic Johnson
+339,77142,Magic,Johnson,Los Angeles Lakers,NBA Player of the Week,,1986-87,,1987-03-08T00:00:00,,Award,Kia Motors,KIPWK,,Magic Johnson
+340,77142,Magic,Johnson,Los Angeles Lakers,NBA Player of the Week,,1986-87,,1987-03-22T00:00:00,,Award,Kia Motors,KIPWK,,Magic Johnson
+341,77142,Magic,Johnson,Los Angeles Lakers,NBA Player of the Week,,1986-87,,1987-04-05T00:00:00,,Award,Kia Motors,KIPWK,,Magic Johnson
+342,77142,Magic,Johnson,Los Angeles Lakers,NBA Player of the Week,,1987-88,,1987-12-13T00:00:00,,Award,Kia Motors,KIPWK,,Magic Johnson
+343,77142,Magic,Johnson,Los Angeles Lakers,NBA Player of the Week,,1988-89,,1988-12-04T00:00:00,,Award,Kia Motors,KIPWK,,Magic Johnson
+344,77142,Magic,Johnson,Los Angeles Lakers,NBA Player of the Week,,1988-89,,1989-01-01T00:00:00,,Award,Kia Motors,KIPWK,,Magic Johnson
+345,77142,Magic,Johnson,Los Angeles Lakers,NBA Player of the Week,,1989-90,,1990-04-15T00:00:00,,Award,Kia Motors,KIPWK,,Magic Johnson
+346,77142,Magic,Johnson,Los Angeles Lakers,NBA Player of the Week,,1990-91,,1991-04-07T00:00:00,,Award,Kia Motors,KIPWK,,Magic Johnson
+347,77142,Magic,Johnson,Los Angeles Lakers,NBA Sporting News Most Valuable Player of the Year,,1986-87,,,,Award,Sporting News,SNMVP,,Magic Johnson
+348,77142,Magic,Johnson,USA,Olympic Gold Medal,,1992,,,,Award,Olympic,Gold,,Magic Johnson
+349,76375,Wilt,Chamberlain,Los Angeles Lakers,All-Defensive Team,1,1971-72,,,1610612747,Award,Kia Motors,KIADT,,Wilt Chamberlain
+350,76375,Wilt,Chamberlain,Los Angeles Lakers,All-Defensive Team,1,1972-73,,,1610612747,Award,Kia Motors,KIADT,,Wilt Chamberlain
+351,76375,Wilt,Chamberlain,Philadelphia Warriors,All-NBA,1,1959-60,,,1610612744,Award,Kia Motors,KIANT,,Wilt Chamberlain
+352,76375,Wilt,Chamberlain,Philadelphia Warriors,All-NBA,1,1960-61,,,1610612744,Award,Kia Motors,KIANT,,Wilt Chamberlain
+353,76375,Wilt,Chamberlain,Philadelphia Warriors,All-NBA,1,1961-62,,,1610612744,Award,Kia Motors,KIANT,,Wilt Chamberlain
+354,76375,Wilt,Chamberlain,San Francisco Warriors,All-NBA,2,1962-63,,,1610612744,Award,Kia Motors,KIANT,,Wilt Chamberlain
+355,76375,Wilt,Chamberlain,San Francisco Warriors,All-NBA,1,1963-64,,,1610612744,Award,Kia Motors,KIANT,,Wilt Chamberlain
+356,76375,Wilt,Chamberlain,San Francisco Warriors / Philadelphia 76ers,All-NBA,2,1964-65,,,1610612744,Award,Kia Motors,KIANT,,Wilt Chamberlain
+357,76375,Wilt,Chamberlain,Philadelphia 76ers,All-NBA,1,1965-66,,,1610612755,Award,Kia Motors,KIANT,,Wilt Chamberlain
+358,76375,Wilt,Chamberlain,Philadelphia 76ers,All-NBA,1,1966-67,,,1610612755,Award,Kia Motors,KIANT,,Wilt Chamberlain
+359,76375,Wilt,Chamberlain,Philadelphia 76ers,All-NBA,1,1967-68,,,1610612755,Award,Kia Motors,KIANT,,Wilt Chamberlain
+360,76375,Wilt,Chamberlain,Los Angeles Lakers,All-NBA,2,1971-72,,,1610612747,Award,Kia Motors,KIANT,,Wilt Chamberlain
+361,76375,Wilt,Chamberlain,,Hall of Fame Inductee,,1979,,,,Award,Hall of Fame,,,Wilt Chamberlain
+362,76375,Wilt,Chamberlain,Philadelphia Warriors,NBA All-Star Most Valuable Player,,1959-60,,,,Award,Kia Motors,KAMVP,,Wilt Chamberlain
+363,76375,Wilt,Chamberlain,Los Angeles Lakers,NBA Finals Most Valuable Player,,1971-72,,,,Award,Kia Motors,KFMVP,,Wilt Chamberlain
+364,76375,Wilt,Chamberlain,Philadelphia Warriors,NBA Most Valuable Player,,1959-60,,,,Award,Kia Motors,KIMVP,,Wilt Chamberlain
+365,76375,Wilt,Chamberlain,Philadelphia 76ers,NBA Most Valuable Player,,1965-66,,,,Award,Kia Motors,KIMVP,,Wilt Chamberlain
+366,76375,Wilt,Chamberlain,Philadelphia 76ers,NBA Most Valuable Player,,1966-67,,,,Award,Kia Motors,KIMVP,,Wilt Chamberlain
+367,76375,Wilt,Chamberlain,Philadelphia 76ers,NBA Most Valuable Player,,1967-68,,,,Award,Kia Motors,KIMVP,,Wilt Chamberlain
+368,76375,Wilt,Chamberlain,Philadelphia Warriors,NBA Rookie of the Year,,1959-60,,,,Award,Kia Motors,KIROY,,Wilt Chamberlain
+369,76375,Wilt,Chamberlain,Philadelphia Warriors,NBA Sporting News Most Valuable Player of the Year,,1959-60,,,,Award,Sporting News,SNMVP,,Wilt Chamberlain
+370,76375,Wilt,Chamberlain,Philadelphia 76ers,NBA Sporting News Most Valuable Player of the Year,,1965-66,,,,Award,Sporting News,SNMVP,,Wilt Chamberlain
+371,76375,Wilt,Chamberlain,Philadelphia 76ers,NBA Sporting News Most Valuable Player of the Year,,1966-67,,,,Award,Sporting News,SNMVP,,Wilt Chamberlain
+372,76375,Wilt,Chamberlain,Philadelphia 76ers,NBA Sporting News Most Valuable Player of the Year,,1967-68,,,,Award,Sporting News,SNMVP,,Wilt Chamberlain
+373,76375,Wilt,Chamberlain,Philadelphia Warriors,NBA Sporting News Rookie of the Year,,1959-60,,,,Award,Sporting News,SNROY,,Wilt Chamberlain
+374,78049,Bill,Russell,Boston Celtics,All-Defensive Team,1,1968-69,,,1610612738,Award,Kia Motors,KIADT,,Bill Russell
+375,78049,Bill,Russell,Boston Celtics,All-NBA,2,1957-58,,,1610612738,Award,Kia Motors,KIANT,,Bill Russell
+376,78049,Bill,Russell,Boston Celtics,All-NBA,1,1958-59,,,1610612738,Award,Kia Motors,KIANT,,Bill Russell
+377,78049,Bill,Russell,Boston Celtics,All-NBA,2,1959-60,,,1610612738,Award,Kia Motors,KIANT,,Bill Russell
+378,78049,Bill,Russell,Boston Celtics,All-NBA,2,1960-61,,,1610612738,Award,Kia Motors,KIANT,,Bill Russell
+379,78049,Bill,Russell,Boston Celtics,All-NBA,2,1961-62,,,1610612738,Award,Kia Motors,KIANT,,Bill Russell
+380,78049,Bill,Russell,Boston Celtics,All-NBA,1,1962-63,,,1610612738,Award,Kia Motors,KIANT,,Bill Russell
+381,78049,Bill,Russell,Boston Celtics,All-NBA,2,1963-64,,,1610612738,Award,Kia Motors,KIANT,,Bill Russell
+382,78049,Bill,Russell,Boston Celtics,All-NBA,1,1964-65,,,1610612738,Award,Kia Motors,KIANT,,Bill Russell
+383,78049,Bill,Russell,Boston Celtics,All-NBA,2,1965-66,,,1610612738,Award,Kia Motors,KIANT,,Bill Russell
+384,78049,Bill,Russell,Boston Celtics,All-NBA,2,1966-67,,,1610612738,Award,Kia Motors,KIANT,,Bill Russell
+385,78049,Bill,Russell,Boston Celtics,All-NBA,2,1967-68,,,1610612738,Award,Kia Motors,KIANT,,Bill Russell
+386,78049,Bill,Russell,,Hall of Fame Inductee,,1975,,,,Award,Hall of Fame,,,Bill Russell
+387,78049,Bill,Russell,Boston Celtics,NBA All-Star Most Valuable Player,,1962-63,,,,Award,Kia Motors,KAMVP,,Bill Russell
+388,78049,Bill,Russell,Boston Celtics,NBA Most Valuable Player,,1957-58,,,,Award,Kia Motors,KIMVP,,Bill Russell
+389,78049,Bill,Russell,Boston Celtics,NBA Most Valuable Player,,1960-61,,,,Award,Kia Motors,KIMVP,,Bill Russell
+390,78049,Bill,Russell,Boston Celtics,NBA Most Valuable Player,,1961-62,,,,Award,Kia Motors,KIMVP,,Bill Russell
+391,78049,Bill,Russell,Boston Celtics,NBA Most Valuable Player,,1962-63,,,,Award,Kia Motors,KIMVP,,Bill Russell
+392,78049,Bill,Russell,Boston Celtics,NBA Most Valuable Player,,1964-65,,,,Award,Kia Motors,KIMVP,,Bill Russell
+393,78049,Bill,Russell,Boston Celtics,NBA Sporting News Most Valuable Player of the Year,,1960-61,,,,Award,Sporting News,SNMVP,,Bill Russell
+394,78049,Bill,Russell,Boston Celtics,NBA Sporting News Most Valuable Player of the Year,,1961-62,,,,Award,Sporting News,SNMVP,,Bill Russell
+395,78049,Bill,Russell,Boston Celtics,NBA Sporting News Most Valuable Player of the Year,,1962-63,,,,Award,Sporting News,SNMVP,,Bill Russell
+396,78049,Bill,Russell,Boston Celtics,NBA Sporting News Most Valuable Player of the Year,,1964-65,,,,Award,Sporting News,SNMVP,,Bill Russell
+397,78049,Bill,Russell,USA,Olympic Gold Medal,,1956,,,,Award,Olympic,Gold,,Bill Russell
+398,1449,Larry,Bird,Boston Celtics,All-Defensive Team,2,1981-82,,,1610612738,Award,Kia Motors,KIADT,,Larry Bird
+399,1449,Larry,Bird,Boston Celtics,All-Defensive Team,2,1982-83,,,1610612738,Award,Kia Motors,KIADT,,Larry Bird
+400,1449,Larry,Bird,Boston Celtics,All-Defensive Team,2,1983-84,,,1610612738,Award,Kia Motors,KIADT,,Larry Bird
+401,1449,Larry,Bird,Boston Celtics,All-NBA,1,1979-80,,,1610612738,Award,Kia Motors,KIANT,,Larry Bird
+402,1449,Larry,Bird,Boston Celtics,All-NBA,1,1980-81,,,1610612738,Award,Kia Motors,KIANT,,Larry Bird
+403,1449,Larry,Bird,Boston Celtics,All-NBA,1,1981-82,,,1610612738,Award,Kia Motors,KIANT,,Larry Bird
+404,1449,Larry,Bird,Boston Celtics,All-NBA,1,1982-83,,,1610612738,Award,Kia Motors,KIANT,,Larry Bird
+405,1449,Larry,Bird,Boston Celtics,All-NBA,1,1983-84,,,1610612738,Award,Kia Motors,KIANT,,Larry Bird
+406,1449,Larry,Bird,Boston Celtics,All-NBA,1,1984-85,,,1610612738,Award,Kia Motors,KIANT,,Larry Bird
+407,1449,Larry,Bird,Boston Celtics,All-NBA,1,1985-86,,,1610612738,Award,Kia Motors,KIANT,,Larry Bird
+408,1449,Larry,Bird,Boston Celtics,All-NBA,1,1986-87,,,1610612738,Award,Kia Motors,KIANT,,Larry Bird
+409,1449,Larry,Bird,Boston Celtics,All-NBA,1,1987-88,,,1610612738,Award,Kia Motors,KIANT,,Larry Bird
+410,1449,Larry,Bird,Boston Celtics,All-NBA,2,1989-90,,,1610612738,Award,Kia Motors,KIANT,,Larry Bird
+411,1449,Larry,Bird,Boston Celtics,All-Rookie Team,1,1979-80,,,1610612738,Award,Kia Motors,KIART,,Larry Bird
+412,1449,Larry,Bird,,Hall of Fame Inductee,,1998,,,,Award,Hall of Fame,,,Larry Bird
+413,1449,Larry,Bird,Boston Celtics,NBA All-Star Most Valuable Player,,1981-82,,,,Award,Kia Motors,KAMVP,,Larry Bird
+414,1449,Larry,Bird,Boston Celtics,NBA Finals Most Valuable Player,,1983-84,,,,Award,Kia Motors,KFMVP,,Larry Bird
+415,1449,Larry,Bird,Boston Celtics,NBA Finals Most Valuable Player,,1985-86,,,,Award,Kia Motors,KFMVP,,Larry Bird
+416,1449,Larry,Bird,Boston Celtics,NBA Most Valuable Player,,1983-84,,,,Award,Kia Motors,KIMVP,,Larry Bird
+417,1449,Larry,Bird,Boston Celtics,NBA Most Valuable Player,,1984-85,,,,Award,Kia Motors,KIMVP,,Larry Bird
+418,1449,Larry,Bird,Boston Celtics,NBA Most Valuable Player,,1985-86,,,,Award,Kia Motors,KIMVP,,Larry Bird
+419,1449,Larry,Bird,Boston Celtics,NBA Player of the Month,,1979-80,02/01/1980,,,Award,Kia Motors,KIPMO,,Larry Bird
+420,1449,Larry,Bird,Boston Celtics,NBA Player of the Month,,1981-82,01/01/1982,,,Award,Kia Motors,KIPMO,,Larry Bird
+421,1449,Larry,Bird,Boston Celtics,NBA Player of the Month,,1982-83,11/01/1982,,,Award,Kia Motors,KIPMO,,Larry Bird
+422,1449,Larry,Bird,Boston Celtics,NBA Player of the Month,,1984-85,03/01/1985,,,Award,Kia Motors,KIPMO,,Larry Bird
+423,1449,Larry,Bird,Boston Celtics,NBA Player of the Month,,1984-85,12/01/1984,,,Award,Kia Motors,KIPMO,,Larry Bird
+424,1449,Larry,Bird,Boston Celtics,NBA Player of the Month,,1985-86,02/01/1986,,,Award,Kia Motors,KIPMO,,Larry Bird
+425,1449,Larry,Bird,Boston Celtics,NBA Player of the Month,,1985-86,03/01/1986,,,Award,Kia Motors,KIPMO,,Larry Bird
+426,1449,Larry,Bird,Boston Celtics,NBA Player of the Week,,1979-80,,1980-03-02T00:00:00,,Award,Kia Motors,KIPWK,,Larry Bird
+427,1449,Larry,Bird,Boston Celtics,NBA Player of the Week,,1981-82,,1981-12-27T00:00:00,,Award,Kia Motors,KIPWK,,Larry Bird
+428,1449,Larry,Bird,Boston Celtics,NBA Player of the Week,,1981-82,,1982-01-17T00:00:00,,Award,Kia Motors,KIPWK,,Larry Bird
+429,1449,Larry,Bird,Boston Celtics,NBA Player of the Week,,1982-83,,1982-11-28T00:00:00,,Award,Kia Motors,KIPWK,,Larry Bird
+430,1449,Larry,Bird,Boston Celtics,NBA Player of the Week,,1982-83,,1982-12-12T00:00:00,,Award,Kia Motors,KIPWK,,Larry Bird
+431,1449,Larry,Bird,Boston Celtics,NBA Player of the Week,,1982-83,,1983-04-03T00:00:00,,Award,Kia Motors,KIPWK,,Larry Bird
+432,1449,Larry,Bird,Boston Celtics,NBA Player of the Week,,1983-84,,1984-02-19T00:00:00,,Award,Kia Motors,KIPWK,,Larry Bird
+433,1449,Larry,Bird,Boston Celtics,NBA Player of the Week,,1983-84,,1984-03-11T00:00:00,,Award,Kia Motors,KIPWK,,Larry Bird
+434,1449,Larry,Bird,Boston Celtics,NBA Player of the Week,,1984-85,,1985-03-17T00:00:00,,Award,Kia Motors,KIPWK,,Larry Bird
+435,1449,Larry,Bird,Boston Celtics,NBA Player of the Week,,1985-86,,1985-12-01T00:00:00,,Award,Kia Motors,KIPWK,,Larry Bird
+436,1449,Larry,Bird,Boston Celtics,NBA Player of the Week,,1985-86,,1986-01-19T00:00:00,,Award,Kia Motors,KIPWK,,Larry Bird
+437,1449,Larry,Bird,Boston Celtics,NBA Player of the Week,,1985-86,,1986-02-16T00:00:00,,Award,Kia Motors,KIPWK,,Larry Bird
+438,1449,Larry,Bird,Boston Celtics,NBA Player of the Week,,1985-86,,1986-03-16T00:00:00,,Award,Kia Motors,KIPWK,,Larry Bird
+439,1449,Larry,Bird,Boston Celtics,NBA Player of the Week,,1987-87,,1987-01-04T00:00:00,,Award,Kia Motors,KIPWK,,Larry Bird
+440,1449,Larry,Bird,Boston Celtics,NBA Player of the Week,,1987-88,,1987-11-15T00:00:00,,Award,Kia Motors,KIPWK,,Larry Bird
+441,1449,Larry,Bird,Boston Celtics,NBA Rookie of the Year,,1979-80,,,,Award,Kia Motors,KIROY,,Larry Bird
+442,1449,Larry,Bird,Boston Celtics,NBA Sporting News Most Valuable Player of the Year,,1984-85,,,,Award,Sporting News,SNMVP,,Larry Bird
+443,1449,Larry,Bird,Boston Celtics,NBA Sporting News Most Valuable Player of the Year,,1985-86,,,,Award,Sporting News,SNMVP,,Larry Bird
+444,1449,Larry,Bird,Boston Celtics,NBA Sporting News Rookie of the Year,,1979-80,,,,Award,Sporting News,SNROY,,Larry Bird
+445,1449,Larry,Bird,USA,Olympic Gold Medal,,1992,,,,Award,Olympic,Gold,,Larry Bird
+446,1495,Tim,Duncan,San Antonio Spurs,All-Defensive Team,2,1997-98,,,1610612759,Award,Kia Motors,KIADT,,Tim Duncan
+447,1495,Tim,Duncan,San Antonio Spurs,All-Defensive Team,1,1998-99,,,1610612759,Award,Kia Motors,KIADT,,Tim Duncan
+448,1495,Tim,Duncan,San Antonio Spurs,All-Defensive Team,1,1999-00,,,1610612759,Award,Kia Motors,KIADT,,Tim Duncan
+449,1495,Tim,Duncan,San Antonio Spurs,All-Defensive Team,1,2000-01,,,1610612759,Award,Kia Motors,KIADT,,Tim Duncan
+450,1495,Tim,Duncan,San Antonio Spurs,All-Defensive Team,1,2001-02,,,1610612759,Award,Kia Motors,KIADT,,Tim Duncan
+451,1495,Tim,Duncan,San Antonio Spurs,All-Defensive Team,1,2002-03,,,1610612759,Award,Kia Motors,KIADT,,Tim Duncan
+452,1495,Tim,Duncan,San Antonio Spurs,All-Defensive Team,2,2003-04,,,1610612759,Award,Kia Motors,KIADT,,Tim Duncan
+453,1495,Tim,Duncan,San Antonio Spurs,All-Defensive Team,1,2004-05,,,1610612759,Award,Kia Motors,KIADT,,Tim Duncan
+454,1495,Tim,Duncan,San Antonio Spurs,All-Defensive Team,2,2005-06,,,1610612759,Award,Kia Motors,KIADT,,Tim Duncan
+455,1495,Tim,Duncan,San Antonio Spurs,All-Defensive Team,1,2006-07,,,1610612759,Award,Kia Motors,KIADT,,Tim Duncan
+456,1495,Tim,Duncan,San Antonio Spurs,All-Defensive Team,1,2007-08,,,1610612759,Award,Kia Motors,KIADT,,Tim Duncan
+457,1495,Tim,Duncan,San Antonio Spurs,All-Defensive Team,2,2008-09,,,1610612759,Award,Kia Motors,KIADT,,Tim Duncan
+458,1495,Tim,Duncan,San Antonio Spurs,All-Defensive Team,2,2009-10,,,1610612759,Award,Kia Motors,KIADT,,Tim Duncan
+459,1495,Tim,Duncan,San Antonio Spurs,All-Defensive Team,2,2012-13,,,1610612759,Award,Kia Motors,KIADT,,Tim Duncan
+460,1495,Tim,Duncan,San Antonio Spurs,All-Defensive Team,2,2014-15,,,1610612759,Award,Kia Motors,KIADT,,Tim Duncan
+461,1495,Tim,Duncan,San Antonio Spurs,All-NBA,1,1997-98,,,1610612759,Award,Kia Motors,KIANT,,Tim Duncan
+462,1495,Tim,Duncan,San Antonio Spurs,All-NBA,1,1998-99,,,1610612759,Award,Kia Motors,KIANT,,Tim Duncan
+463,1495,Tim,Duncan,San Antonio Spurs,All-NBA,1,1999-00,,,1610612759,Award,Kia Motors,KIANT,,Tim Duncan
+464,1495,Tim,Duncan,San Antonio Spurs,All-NBA,1,2000-01,,,1610612759,Award,Kia Motors,KIANT,,Tim Duncan
+465,1495,Tim,Duncan,San Antonio Spurs,All-NBA,1,2001-02,,,1610612759,Award,Kia Motors,KIANT,,Tim Duncan
+466,1495,Tim,Duncan,San Antonio Spurs,All-NBA,1,2002-03,,,1610612759,Award,Kia Motors,KIANT,,Tim Duncan
+467,1495,Tim,Duncan,San Antonio Spurs,All-NBA,1,2003-04,,,1610612759,Award,Kia Motors,KIANT,,Tim Duncan
+468,1495,Tim,Duncan,San Antonio Spurs,All-NBA,1,2004-05,,,1610612759,Award,Kia Motors,KIANT,,Tim Duncan
+469,1495,Tim,Duncan,San Antonio Spurs,All-NBA,2,2005-06,,,1610612759,Award,Kia Motors,KIANT,,Tim Duncan
+470,1495,Tim,Duncan,San Antonio Spurs,All-NBA,1,2006-07,,,1610612759,Award,Kia Motors,KIANT,,Tim Duncan
+471,1495,Tim,Duncan,San Antonio Spurs,All-NBA,2,2007-08,,,1610612759,Award,Kia Motors,KIANT,,Tim Duncan
+472,1495,Tim,Duncan,San Antonio Spurs,All-NBA,2,2008-09,,,1610612759,Award,Kia Motors,KIANT,,Tim Duncan
+473,1495,Tim,Duncan,San Antonio Spurs,All-NBA,3,2009-10,,,1610612759,Award,Kia Motors,KIANT,,Tim Duncan
+474,1495,Tim,Duncan,San Antonio Spurs,All-NBA,1,2012-13,,,1610612759,Award,Kia Motors,KIANT,,Tim Duncan
+475,1495,Tim,Duncan,San Antonio Spurs,All-NBA,3,2014-15,,,1610612759,Award,Kia Motors,KIANT,,Tim Duncan
+476,1495,Tim,Duncan,San Antonio Spurs,All-Rookie Team,1,1997-98,,,1610612759,Award,Kia Motors,KIART,,Tim Duncan
+477,1495,Tim,Duncan,San Antonio Spurs,IBM Award,,2001-02,,,,Award,IBM,IBMAW,,Tim Duncan
+478,1495,Tim,Duncan,San Antonio Spurs,NBA All-Star Most Valuable Player,,1999-00,,,,Award,Kia Motors,KAMVP,,Tim Duncan
+479,1495,Tim,Duncan,San Antonio Spurs,NBA Finals Most Valuable Player,,1998-99,,,,Award,Kia Motors,KFMVP,,Tim Duncan
+480,1495,Tim,Duncan,San Antonio Spurs,NBA Finals Most Valuable Player,,2002-03,,,,Award,Kia Motors,KFMVP,,Tim Duncan
+481,1495,Tim,Duncan,San Antonio Spurs,NBA Finals Most Valuable Player,,2004-05,,,,Award,Kia Motors,KFMVP,,Tim Duncan
+482,1495,Tim,Duncan,San Antonio Spurs,NBA Most Valuable Player,,2001-02,,,,Award,Kia Motors,KIMVP,,Tim Duncan
+483,1495,Tim,Duncan,San Antonio Spurs,NBA Most Valuable Player,,2002-03,,,,Award,Kia Motors,KIMVP,,Tim Duncan
+484,1495,Tim,Duncan,San Antonio Spurs,NBA Player of the Month,,1998-99,03/01/1999,,,Award,Kia Motors,KIPMO,,Tim Duncan
+485,1495,Tim,Duncan,San Antonio Spurs,NBA Player of the Month,,2001-02,04/01/2002,,West,Award,Kia Motors,KIPMO,,Tim Duncan
+486,1495,Tim,Duncan,San Antonio Spurs,NBA Player of the Month,,2001-02,12/01/2001,,West,Award,Kia Motors,KIPMO,,Tim Duncan
+487,1495,Tim,Duncan,San Antonio Spurs,NBA Player of the Week,,1997-98,,1998-03-01T00:00:00,,Award,Kia Motors,KIPWK,,Tim Duncan
+488,1495,Tim,Duncan,San Antonio Spurs,NBA Player of the Week,,1998-99,,1999-03-07T00:00:00,,Award,Kia Motors,KIPWK,,Tim Duncan
+489,1495,Tim,Duncan,San Antonio Spurs,NBA Player of the Week,,1999-00,,1999-11-28T00:00:00,,Award,Kia Motors,KIPWK,,Tim Duncan
+490,1495,Tim,Duncan,San Antonio Spurs,NBA Player of the Week,,1999-00,,2000-04-03T00:00:00,,Award,Kia Motors,KIPWK,,Tim Duncan
+491,1495,Tim,Duncan,San Antonio Spurs,NBA Player of the Week,,2000-01,,2001-01-28T00:00:00,,Award,Kia Motors,KIPWK,,Tim Duncan
+492,1495,Tim,Duncan,San Antonio Spurs,NBA Player of the Week,,2001-02,,2001-11-11T00:00:00,West,Award,Kia Motors,KIPWK,,Tim Duncan
+493,1495,Tim,Duncan,San Antonio Spurs,NBA Player of the Week,,2001-02,,2001-11-25T00:00:00,West,Award,Kia Motors,KIPWK,,Tim Duncan
+494,1495,Tim,Duncan,San Antonio Spurs,NBA Player of the Week,,2001-02,,2001-12-30T00:00:00,West,Award,Kia Motors,KIPWK,,Tim Duncan
+495,1495,Tim,Duncan,San Antonio Spurs,NBA Player of the Week,,2001-02,,2002-03-17T00:00:00,West,Award,Kia Motors,KIPWK,,Tim Duncan
+496,1495,Tim,Duncan,San Antonio Spurs,NBA Player of the Week,,2001-02,,2002-03-24T00:00:00,West,Award,Kia Motors,KIPWK,,Tim Duncan
+497,1495,Tim,Duncan,San Antonio Spurs,NBA Player of the Week,,2001-02,,2002-04-07T00:00:00,West,Award,Kia Motors,KIPWK,,Tim Duncan
+498,1495,Tim,Duncan,San Antonio Spurs,NBA Player of the Week,,2002-03,,2002-12-22T00:00:00,West,Award,Kia Motors,KIPWK,,Tim Duncan
+499,1495,Tim,Duncan,San Antonio Spurs,NBA Player of the Week,,2002-03,,2002-12-29T00:00:00,West,Award,Kia Motors,KIPWK,,Tim Duncan
+500,1495,Tim,Duncan,San Antonio Spurs,NBA Player of the Week,,2002-03,,2003-01-26T00:00:00,West,Award,Kia Motors,KIPWK,,Tim Duncan
+501,1495,Tim,Duncan,San Antonio Spurs,NBA Player of the Week,,2002-03,,2003-02-16T00:00:00,West,Award,Kia Motors,KIPWK,,Tim Duncan
+502,1495,Tim,Duncan,San Antonio Spurs,NBA Player of the Week,,2002-03,,2003-03-30T00:00:00,West,Award,Kia Motors,KIPWK,,Tim Duncan
+503,1495,Tim,Duncan,San Antonio Spurs,NBA Player of the Week,,2003-04,,2004-02-08T00:00:00,West,Award,Kia Motors,KIPWK,,Tim Duncan
+504,1495,Tim,Duncan,San Antonio Spurs,NBA Player of the Week,,2006-07,,2007-04-08T00:00:00,West,Award,Kia Motors,KIPWK,,Tim Duncan
+505,1495,Tim,Duncan,San Antonio Spurs,NBA Player of the Week,,2008-09,,2008-12-15T00:00:00,West,Award,Kia Motors,KIPWK,,Tim Duncan
+506,1495,Tim,Duncan,San Antonio Spurs,NBA Player of the Week,,2009-10,,2009-11-30T00:00:00,West,Award,Kia Motors,KIPWK,,Tim Duncan
+507,1495,Tim,Duncan,San Antonio Spurs,NBA Player of the Week,,2012-13,,2012-11-19T00:00:00,West,Award,Kia Motors,KIPWK,,Tim Duncan
+508,1495,Tim,Duncan,San Antonio Spurs,NBA Player of the Week,,2013-14,,2014-03-31T00:00:00,West,Award,Kia Motors,KIPWK,,Tim Duncan
+509,1495,Tim,Duncan,San Antonio Spurs,NBA Player of the Week,,2014-15,,2015-04-06T00:00:00,West,Award,Kia Motors,KIPWK,,Tim Duncan
+510,1495,Tim,Duncan,San Antonio Spurs,NBA Rookie of the Month,,1997-98,01/01/1998,,,Award,Kia Motors,KIRMO,,Tim Duncan
+511,1495,Tim,Duncan,San Antonio Spurs,NBA Rookie of the Month,,1997-98,02/01/1998,,,Award,Kia Motors,KIRMO,,Tim Duncan
+512,1495,Tim,Duncan,San Antonio Spurs,NBA Rookie of the Month,,1997-98,03/01/1998,,,Award,Kia Motors,KIRMO,,Tim Duncan
+513,1495,Tim,Duncan,San Antonio Spurs,NBA Rookie of the Month,,1997-98,04/01/1998,,,Award,Kia Motors,KIRMO,,Tim Duncan
+514,1495,Tim,Duncan,San Antonio Spurs,NBA Rookie of the Month,,1997-98,11/01/1997,,,Award,Kia Motors,KIRMO,,Tim Duncan
+515,1495,Tim,Duncan,San Antonio Spurs,NBA Rookie of the Month,,1997-98,12/01/1997,,,Award,Kia Motors,KIRMO,,Tim Duncan
+516,1495,Tim,Duncan,San Antonio Spurs,NBA Rookie of the Year,,1997-98,,,,Award,Kia Motors,KIROY,,Tim Duncan
+517,1495,Tim,Duncan,San Antonio Spurs,NBA Sporting News Most Valuable Player of the Year,,2001-02,,,,Award,Sporting News,SNMVP,,Tim Duncan
+518,1495,Tim,Duncan,San Antonio Spurs,NBA Sporting News Most Valuable Player of the Year,,2002-03,,,,Award,Sporting News,SNMVP,,Tim Duncan
+519,1495,Tim,Duncan,San Antonio Spurs,NBA Sporting News Rookie of the Year,,1997-98,,,,Award,Sporting News,SNROY,,Tim Duncan
+520,1495,Tim,Duncan,USA,Olympic Bronze Medal,,2004,,,,Award,Olympic,Bronze,,Tim Duncan
+521,600015,Oscar,Robertson,Cincinnati Royals,All-NBA,1,1960-61,,,1610612758,Award,Kia Motors,KIANT,,Oscar Robertson
+522,600015,Oscar,Robertson,Cincinnati Royals,All-NBA,1,1961-62,,,1610612758,Award,Kia Motors,KIANT,,Oscar Robertson
+523,600015,Oscar,Robertson,Cincinnati Royals,All-NBA,1,1962-63,,,1610612758,Award,Kia Motors,KIANT,,Oscar Robertson
+524,600015,Oscar,Robertson,Cincinnati Royals,All-NBA,1,1963-64,,,1610612758,Award,Kia Motors,KIANT,,Oscar Robertson
+525,600015,Oscar,Robertson,Cincinnati Royals,All-NBA,1,1964-65,,,1610612758,Award,Kia Motors,KIANT,,Oscar Robertson
+526,600015,Oscar,Robertson,Cincinnati Royals,All-NBA,1,1965-66,,,1610612758,Award,Kia Motors,KIANT,,Oscar Robertson
+527,600015,Oscar,Robertson,Cincinnati Royals,All-NBA,1,1966-67,,,1610612758,Award,Kia Motors,KIANT,,Oscar Robertson
+528,600015,Oscar,Robertson,Cincinnati Royals,All-NBA,1,1967-68,,,1610612758,Award,Kia Motors,KIANT,,Oscar Robertson
+529,600015,Oscar,Robertson,Cincinnati Royals,All-NBA,1,1968-69,,,1610612758,Award,Kia Motors,KIANT,,Oscar Robertson
+530,600015,Oscar,Robertson,Cincinnati Royals,All-NBA,2,1969-70,,,1610612758,Award,Kia Motors,KIANT,,Oscar Robertson
+531,600015,Oscar,Robertson,Milwaukee Bucks,All-NBA,2,1970-71,,,1610612749,Award,Kia Motors,KIANT,,Oscar Robertson
+532,600015,Oscar,Robertson,,Hall of Fame Inductee,,1980,,,,Award,Hall of Fame,,,Oscar Robertson
+533,600015,Oscar,Robertson,Cincinnati Royals,NBA All-Star Most Valuable Player,,1960-61,,,,Award,Kia Motors,KAMVP,,Oscar Robertson
+534,600015,Oscar,Robertson,Cincinnati Royals,NBA All-Star Most Valuable Player,,1963-64,,,,Award,Kia Motors,KAMVP,,Oscar Robertson
+535,600015,Oscar,Robertson,Cincinnati Royals,NBA All-Star Most Valuable Player,,1968-69,,,,Award,Kia Motors,KAMVP,,Oscar Robertson
+536,600015,Oscar,Robertson,Cincinnati Royals,NBA Most Valuable Player,,1963-64,,,,Award,Kia Motors,KIMVP,,Oscar Robertson
+537,600015,Oscar,Robertson,Cincinnati Royals,NBA Rookie of the Year,,1960-61,,,,Award,Kia Motors,KIROY,,Oscar Robertson
+538,600015,Oscar,Robertson,Cincinnati Royals,NBA Sporting News Most Valuable Player of the Year,,1963-64,,,,Award,Sporting News,SNMVP,,Oscar Robertson
+539,600015,Oscar,Robertson,Cincinnati Royals,NBA Sporting News Rookie of the Year,,1960-61,,,,Award,Sporting News,SNROY,,Oscar Robertson
+540,600015,Oscar,Robertson,USA,Olympic Gold Medal,,1960,,,,Award,Olympic,Gold,,Oscar Robertson
+541,977,Kobe,Bryant,Los Angeles Lakers,All-Defensive Team,1,1999-00,,,1610612747,Award,Kia Motors,KIADT,,Kobe Bryant
+542,977,Kobe,Bryant,Los Angeles Lakers,All-Defensive Team,2,2000-01,,,1610612747,Award,Kia Motors,KIADT,,Kobe Bryant
+543,977,Kobe,Bryant,Los Angeles Lakers,All-Defensive Team,2,2001-02,,,1610612747,Award,Kia Motors,KIADT,,Kobe Bryant
+544,977,Kobe,Bryant,Los Angeles Lakers,All-Defensive Team,1,2002-03,,,1610612747,Award,Kia Motors,KIADT,,Kobe Bryant
+545,977,Kobe,Bryant,Los Angeles Lakers,All-Defensive Team,1,2003-04,,,1610612747,Award,Kia Motors,KIADT,,Kobe Bryant
+546,977,Kobe,Bryant,Los Angeles Lakers,All-Defensive Team,1,2005-06,,,1610612747,Award,Kia Motors,KIADT,,Kobe Bryant
+547,977,Kobe,Bryant,Los Angeles Lakers,All-Defensive Team,1,2006-07,,,1610612747,Award,Kia Motors,KIADT,,Kobe Bryant
+548,977,Kobe,Bryant,Los Angeles Lakers,All-Defensive Team,1,2007-08,,,1610612747,Award,Kia Motors,KIADT,,Kobe Bryant
+549,977,Kobe,Bryant,Los Angeles Lakers,All-Defensive Team,1,2008-09,,,1610612747,Award,Kia Motors,KIADT,,Kobe Bryant
+550,977,Kobe,Bryant,Los Angeles Lakers,All-Defensive Team,1,2009-10,,,1610612747,Award,Kia Motors,KIADT,,Kobe Bryant
+551,977,Kobe,Bryant,Los Angeles Lakers,All-Defensive Team,1,2010-11,,,1610612747,Award,Kia Motors,KIADT,,Kobe Bryant
+552,977,Kobe,Bryant,Los Angeles Lakers,All-Defensive Team,2,2011-12,,,1610612747,Award,Kia Motors,KIADT,,Kobe Bryant
+553,977,Kobe,Bryant,Los Angeles Lakers,All-NBA,3,1998-99,,,1610612747,Award,Kia Motors,KIANT,,Kobe Bryant
+554,977,Kobe,Bryant,Los Angeles Lakers,All-NBA,2,1999-00,,,1610612747,Award,Kia Motors,KIANT,,Kobe Bryant
+555,977,Kobe,Bryant,Los Angeles Lakers,All-NBA,2,2000-01,,,1610612747,Award,Kia Motors,KIANT,,Kobe Bryant
+556,977,Kobe,Bryant,Los Angeles Lakers,All-NBA,1,2001-02,,,1610612747,Award,Kia Motors,KIANT,,Kobe Bryant
+557,977,Kobe,Bryant,Los Angeles Lakers,All-NBA,1,2002-03,,,1610612747,Award,Kia Motors,KIANT,,Kobe Bryant
+558,977,Kobe,Bryant,Los Angeles Lakers,All-NBA,1,2003-04,,,1610612747,Award,Kia Motors,KIANT,,Kobe Bryant
+559,977,Kobe,Bryant,Los Angeles Lakers,All-NBA,3,2004-05,,,1610612747,Award,Kia Motors,KIANT,,Kobe Bryant
+560,977,Kobe,Bryant,Los Angeles Lakers,All-NBA,1,2005-06,,,1610612747,Award,Kia Motors,KIANT,,Kobe Bryant
+561,977,Kobe,Bryant,Los Angeles Lakers,All-NBA,1,2006-07,,,1610612747,Award,Kia Motors,KIANT,,Kobe Bryant
+562,977,Kobe,Bryant,Los Angeles Lakers,All-NBA,1,2007-08,,,1610612747,Award,Kia Motors,KIANT,,Kobe Bryant
+563,977,Kobe,Bryant,Los Angeles Lakers,All-NBA,1,2008-09,,,1610612747,Award,Kia Motors,KIANT,,Kobe Bryant
+564,977,Kobe,Bryant,Los Angeles Lakers,All-NBA,1,2009-10,,,1610612747,Award,Kia Motors,KIANT,,Kobe Bryant
+565,977,Kobe,Bryant,Los Angeles Lakers,All-NBA,1,2010-11,,,1610612747,Award,Kia Motors,KIANT,,Kobe Bryant
+566,977,Kobe,Bryant,Los Angeles Lakers,All-NBA,1,2011-12,,,1610612747,Award,Kia Motors,KIANT,,Kobe Bryant
+567,977,Kobe,Bryant,Los Angeles Lakers,All-NBA,1,2012-13,,,1610612747,Award,Kia Motors,KIANT,,Kobe Bryant
+568,977,Kobe,Bryant,Los Angeles Lakers,All-Rookie Team,2,1996-97,,,1610612747,Award,Kia Motors,KIART,,Kobe Bryant
+569,977,Kobe,Bryant,Los Angeles Lakers,NBA All-Star Most Valuable Player,,2001-02,,,,Award,Kia Motors,KAMVP,,Kobe Bryant
+570,977,Kobe,Bryant,Los Angeles Lakers,NBA All-Star Most Valuable Player,,2006-07,,,,Award,Kia Motors,KAMVP,,Kobe Bryant
+571,977,Kobe,Bryant,Los Angeles Lakers,NBA All-Star Most Valuable Player,,2008-09,,,,Award,Kia Motors,KAMVP,,Kobe Bryant
+572,977,Kobe,Bryant,Los Angeles Lakers,NBA All-Star Most Valuable Player,,2010-11,,,,Award,Kia Motors,KAMVP,,Kobe Bryant
+573,977,Kobe,Bryant,Los Angeles Lakers,NBA Finals Most Valuable Player,,2008-09,,,,Award,Kia Motors,KFMVP,,Kobe Bryant
+574,977,Kobe,Bryant,Los Angeles Lakers,NBA Finals Most Valuable Player,,2009-10,,,,Award,Kia Motors,KFMVP,,Kobe Bryant
+575,977,Kobe,Bryant,Los Angeles Lakers,NBA Most Valuable Player,,2007-08,,,,Award,Kia Motors,KIMVP,,Kobe Bryant
+576,977,Kobe,Bryant,Los Angeles Lakers,NBA Player of the Month,,2000-01,12/01/2000,,,Award,Kia Motors,KIPMO,,Kobe Bryant
+577,977,Kobe,Bryant,Los Angeles Lakers,NBA Player of the Month,,2001-02,11/01/2001,,West,Award,Kia Motors,KIPMO,,Kobe Bryant
+578,977,Kobe,Bryant,Los Angeles Lakers,NBA Player of the Month,,2002-03,01/01/2003,,West,Award,Kia Motors,KIPMO,,Kobe Bryant
+579,977,Kobe,Bryant,Los Angeles Lakers,NBA Player of the Month,,2003-04,03/01/2004,,West,Award,Kia Motors,KIPMO,,Kobe Bryant
+580,977,Kobe,Bryant,Los Angeles Lakers,NBA Player of the Month,,2005-06,01/01/2006,,West,Award,Kia Motors,KIPMO,,Kobe Bryant
+581,977,Kobe,Bryant,Los Angeles Lakers,NBA Player of the Month,,2005-06,04/01/2006,,West,Award,Kia Motors,KIPMO,,Kobe Bryant
+582,977,Kobe,Bryant,Los Angeles Lakers,NBA Player of the Month,,2006-07,03/01/2007,,West,Award,Kia Motors,KIPMO,,Kobe Bryant
+583,977,Kobe,Bryant,Los Angeles Lakers,NBA Player of the Month,,2006-07,04/01/2007,,West,Award,Kia Motors,KIPMO,,Kobe Bryant
+584,977,Kobe,Bryant,Los Angeles Lakers,NBA Player of the Month,,2006-07,12/01/2006,,West,Award,Kia Motors,KIPMO,,Kobe Bryant
+585,977,Kobe,Bryant,Los Angeles Lakers,NBA Player of the Month,,2007-08,02/01/2008,,West,Award,Kia Motors,KIPMO,,Kobe Bryant
+586,977,Kobe,Bryant,Los Angeles Lakers,NBA Player of the Month,,2007-08,04/01/2008,,West,Award,Kia Motors,KIPMO,,Kobe Bryant
+587,977,Kobe,Bryant,Los Angeles Lakers,NBA Player of the Month,,2008-09,01/01/2009,,West,Award,Kia Motors,KIPMO,,Kobe Bryant
+588,977,Kobe,Bryant,Los Angeles Lakers,NBA Player of the Month,,2008-09,12/01/2008,,West,Award,Kia Motors,KIPMO,,Kobe Bryant
+589,977,Kobe,Bryant,Los Angeles Lakers,NBA Player of the Month,,2009-10,12/01/2009,,West,Award,Kia Motors,KIPMO,,Kobe Bryant
+590,977,Kobe,Bryant,Los Angeles Lakers,NBA Player of the Month,,2010-11,03/01/2011,,West,Award,Kia Motors,KIPMO,,Kobe Bryant
+591,977,Kobe,Bryant,Los Angeles Lakers,NBA Player of the Month,,2011-12,01/01/2012,,West,Award,Kia Motors,KIPMO,,Kobe Bryant
+592,977,Kobe,Bryant,Los Angeles Lakers,NBA Player of the Month,,2012-13,02/01/2013,,West,Award,Kia Motors,KIPMO,,Kobe Bryant
+593,977,Kobe,Bryant,Los Angeles Lakers,NBA Player of the Week,,1999-00,,2000-04-17T00:00:00,,Award,Kia Motors,KIPWK,,Kobe Bryant
+594,977,Kobe,Bryant,Los Angeles Lakers,NBA Player of the Week,,2000-01,,2000-12-24T00:00:00,,Award,Kia Motors,KIPWK,,Kobe Bryant
+595,977,Kobe,Bryant,Los Angeles Lakers,NBA Player of the Week,,2001-02,,2001-11-04T00:00:00,West,Award,Kia Motors,KIPWK,,Kobe Bryant
+596,977,Kobe,Bryant,Los Angeles Lakers,NBA Player of the Week,,2001-02,,2002-01-20T00:00:00,West,Award,Kia Motors,KIPWK,,Kobe Bryant
+597,977,Kobe,Bryant,Los Angeles Lakers,NBA Player of the Week,,2002-03,,2002-11-03T00:00:00,West,Award,Kia Motors,KIPWK,,Kobe Bryant
+598,977,Kobe,Bryant,Los Angeles Lakers,NBA Player of the Week,,2002-03,,2002-12-08T00:00:00,West,Award,Kia Motors,KIPWK,,Kobe Bryant
+599,977,Kobe,Bryant,Los Angeles Lakers,NBA Player of the Week,,2002-03,,2003-01-12T00:00:00,West,Award,Kia Motors,KIPWK,,Kobe Bryant
+600,977,Kobe,Bryant,Los Angeles Lakers,NBA Player of the Week,,2002-03,,2003-02-02T00:00:00,West,Award,Kia Motors,KIPWK,,Kobe Bryant
+601,977,Kobe,Bryant,Los Angeles Lakers,NBA Player of the Week,,2002-03,,2003-02-23T00:00:00,West,Award,Kia Motors,KIPWK,,Kobe Bryant
+602,977,Kobe,Bryant,Los Angeles Lakers,NBA Player of the Week,,2003-04,,2004-02-22T00:00:00,West,Award,Kia Motors,KIPWK,,Kobe Bryant
+603,977,Kobe,Bryant,Los Angeles Lakers,NBA Player of the Week,,2003-04,,2004-03-29T00:00:00,West,Award,Kia Motors,KIPWK,,Kobe Bryant
+604,977,Kobe,Bryant,Los Angeles Lakers,NBA Player of the Week,,2005-06,,2005-11-07T00:00:00,West,Award,Kia Motors,KIPWK,,Kobe Bryant
+605,977,Kobe,Bryant,Los Angeles Lakers,NBA Player of the Week,,2005-06,,2005-12-19T00:00:00,West,Award,Kia Motors,KIPWK,,Kobe Bryant
+606,977,Kobe,Bryant,Los Angeles Lakers,NBA Player of the Week,,2005-06,,2005-12-26T00:00:00,West,Award,Kia Motors,KIPWK,,Kobe Bryant
+607,977,Kobe,Bryant,Los Angeles Lakers,NBA Player of the Week,,2005-06,,2006-01-22T00:00:00,West,Award,Kia Motors,KIPWK,,Kobe Bryant
+608,977,Kobe,Bryant,Los Angeles Lakers,NBA Player of the Week,,2005-06,,2006-04-16T00:00:00,West,Award,Kia Motors,KIPWK,,Kobe Bryant
+609,977,Kobe,Bryant,Los Angeles Lakers,NBA Player of the Week,,2006-07,,2007-03-18T00:00:00,West,Award,Kia Motors,KIPWK,,Kobe Bryant
+610,977,Kobe,Bryant,Los Angeles Lakers,NBA Player of the Week,,2006-07,,2007-03-25T00:00:00,West,Award,Kia Motors,KIPWK,,Kobe Bryant
+611,977,Kobe,Bryant,Los Angeles Lakers,NBA Player of the Week,,2007-08,,2008-01-13T00:00:00,West,Award,Kia Motors,KIPWK,,Kobe Bryant
+612,977,Kobe,Bryant,Los Angeles Lakers,NBA Player of the Week,,2007-08,,2008-03-02T00:00:00,West,Award,Kia Motors,KIPWK,,Kobe Bryant
+613,977,Kobe,Bryant,Los Angeles Lakers,NBA Player of the Week,,2007-08,,2008-04-06T00:00:00,West,Award,Kia Motors,KIPWK,,Kobe Bryant
+614,977,Kobe,Bryant,Los Angeles Lakers,NBA Player of the Week,,2008-09,,2008-12-29T00:00:00,West,Award,Kia Motors,KIPWK,,Kobe Bryant
+615,977,Kobe,Bryant,Los Angeles Lakers,NBA Player of the Week,,2008-09,,2009-01-12T00:00:00,West,Award,Kia Motors,KIPWK,,Kobe Bryant
+616,977,Kobe,Bryant,Los Angeles Lakers,NBA Player of the Week,,2008-09,,2009-03-16T00:00:00,West,Award,Kia Motors,KIPWK,,Kobe Bryant
+617,977,Kobe,Bryant,Los Angeles Lakers,NBA Player of the Week,,2009-10,,2009-11-23T00:00:00,West,Award,Kia Motors,KIPWK,,Kobe Bryant
+618,977,Kobe,Bryant,Los Angeles Lakers,NBA Player of the Week,,2009-10,,2009-12-21T00:00:00,West,Award,Kia Motors,KIPWK,,Kobe Bryant
+619,977,Kobe,Bryant,Los Angeles Lakers,NBA Player of the Week,,2009-10,,2009-12-28T00:00:00,West,Award,Kia Motors,KIPWK,,Kobe Bryant
+620,977,Kobe,Bryant,Los Angeles Lakers,NBA Player of the Week,,2011-12,,2012-01-02T00:00:00,West,Award,Kia Motors,KIPWK,,Kobe Bryant
+621,977,Kobe,Bryant,Los Angeles Lakers,NBA Player of the Week,,2011-12,,2012-01-09T00:00:00,West,Award,Kia Motors,KIPWK,,Kobe Bryant
+622,977,Kobe,Bryant,Los Angeles Lakers,NBA Player of the Week,,2012-13,,2013-02-19T00:00:00,West,Award,Kia Motors,KIPWK,,Kobe Bryant
+623,977,Kobe,Bryant,Los Angeles Lakers,NBA Player of the Week,,2012-13,,2013-03-04T00:00:00,West,Award,Kia Motors,KIPWK,,Kobe Bryant
+624,977,Kobe,Bryant,Los Angeles Lakers,NBA Player of the Week,,2012-13,,2013-04-08T00:00:00,,Award,Kia Motors,KIPWK,,Kobe Bryant
+625,977,Kobe,Bryant,USA,Olympic Gold Medal,,2008,,,,Award,Olympic,Gold,,Kobe Bryant
+626,977,Kobe,Bryant,USA,Olympic Gold Medal,,2012,,,,Award,Olympic,Gold,,Kobe Bryant
+627,406,Shaquille,O'Neal,Los Angeles Lakers,All-Defensive Team,2,1999-00,,,1610612747,Award,Kia Motors,KIADT,,Shaquille O'Neal
+628,406,Shaquille,O'Neal,Los Angeles Lakers,All-Defensive Team,2,2000-01,,,1610612747,Award,Kia Motors,KIADT,,Shaquille O'Neal
+629,406,Shaquille,O'Neal,Los Angeles Lakers,All-Defensive Team,2,2002-03,,,1610612747,Award,Kia Motors,KIADT,,Shaquille O'Neal
+630,406,Shaquille,O'Neal,Orlando Magic,All-NBA,3,1993-94,,,1610612753,Award,Kia Motors,KIANT,,Shaquille O'Neal
+631,406,Shaquille,O'Neal,Orlando Magic,All-NBA,2,1994-95,,,1610612753,Award,Kia Motors,KIANT,,Shaquille O'Neal
+632,406,Shaquille,O'Neal,Orlando Magic,All-NBA,3,1995-96,,,1610612753,Award,Kia Motors,KIANT,,Shaquille O'Neal
+633,406,Shaquille,O'Neal,Los Angeles Lakers,All-NBA,3,1996-97,,,1610612747,Award,Kia Motors,KIANT,,Shaquille O'Neal
+634,406,Shaquille,O'Neal,Los Angeles Lakers,All-NBA,1,1997-98,,,1610612747,Award,Kia Motors,KIANT,,Shaquille O'Neal
+635,406,Shaquille,O'Neal,Los Angeles Lakers,All-NBA,2,1998-99,,,1610612747,Award,Kia Motors,KIANT,,Shaquille O'Neal
+636,406,Shaquille,O'Neal,Los Angeles Lakers,All-NBA,1,1999-00,,,1610612747,Award,Kia Motors,KIANT,,Shaquille O'Neal
+637,406,Shaquille,O'Neal,Los Angeles Lakers,All-NBA,1,2000-01,,,1610612747,Award,Kia Motors,KIANT,,Shaquille O'Neal
+638,406,Shaquille,O'Neal,Los Angeles Lakers,All-NBA,1,2001-02,,,1610612747,Award,Kia Motors,KIANT,,Shaquille O'Neal
+639,406,Shaquille,O'Neal,Los Angeles Lakers,All-NBA,1,2002-03,,,1610612747,Award,Kia Motors,KIANT,,Shaquille O'Neal
+640,406,Shaquille,O'Neal,Los Angeles Lakers,All-NBA,1,2003-04,,,1610612747,Award,Kia Motors,KIANT,,Shaquille O'Neal
+641,406,Shaquille,O'Neal,Miami Heat,All-NBA,1,2004-05,,,1610612748,Award,Kia Motors,KIANT,,Shaquille O'Neal
+642,406,Shaquille,O'Neal,Miami Heat,All-NBA,1,2005-06,,,1610612748,Award,Kia Motors,KIANT,,Shaquille O'Neal
+643,406,Shaquille,O'Neal,Phoenix Suns,All-NBA,3,2008-09,,,1610612756,Award,Kia Motors,KIANT,,Shaquille O'Neal
+644,406,Shaquille,O'Neal,Orlando Magic,All-Rookie Team,1,1992-93,,,1610612753,Award,Kia Motors,KIART,,Shaquille O'Neal
+645,406,Shaquille,O'Neal,,Hall of Fame Inductee,,2016,,,,Award,Hall of Fame,,,Shaquille O'Neal
+646,406,Shaquille,O'Neal,Los Angeles Lakers,IBM Award,,1999-00,,,,Award,IBM,IBMAW,,Shaquille O'Neal
+647,406,Shaquille,O'Neal,Los Angeles Lakers,IBM Award,,2000-01,,,,Award,IBM,IBMAW,,Shaquille O'Neal
+648,406,Shaquille,O'Neal,Los Angeles Lakers,NBA All-Star Most Valuable Player,,1999-00,,,,Award,Kia Motors,KAMVP,,Shaquille O'Neal
+649,406,Shaquille,O'Neal,Los Angeles Lakers,NBA All-Star Most Valuable Player,,2003-04,,,,Award,Kia Motors,KAMVP,,Shaquille O'Neal
+650,406,Shaquille,O'Neal,Phoenix Suns,NBA All-Star Most Valuable Player,,2008-09,,,,Award,Kia Motors,KAMVP,,Shaquille O'Neal
+651,406,Shaquille,O'Neal,Los Angeles Lakers,NBA Finals Most Valuable Player,,1999-00,,,,Award,Kia Motors,KFMVP,,Shaquille O'Neal
+652,406,Shaquille,O'Neal,Los Angeles Lakers,NBA Finals Most Valuable Player,,2000-01,,,,Award,Kia Motors,KFMVP,,Shaquille O'Neal
+653,406,Shaquille,O'Neal,Los Angeles Lakers,NBA Finals Most Valuable Player,,2001-02,,,,Award,Kia Motors,KFMVP,,Shaquille O'Neal
+654,406,Shaquille,O'Neal,Los Angeles Lakers,NBA Most Valuable Player,,1999-00,,,,Award,Kia Motors,KIMVP,,Shaquille O'Neal
+655,406,Shaquille,O'Neal,Orlando Magic,NBA Player of the Month,,1993-94,03/01/1994,,,Award,Kia Motors,KIPMO,,Shaquille O'Neal
+656,406,Shaquille,O'Neal,Orlando Magic,NBA Player of the Month,,1993-94,12/01/1993,,,Award,Kia Motors,KIPMO,,Shaquille O'Neal
+657,406,Shaquille,O'Neal,Orlando Magic,NBA Player of the Month,,1994-95,11/01/1994,,,Award,Kia Motors,KIPMO,,Shaquille O'Neal
+658,406,Shaquille,O'Neal,Los Angeles Lakers,NBA Player of the Month,,1996-97,12/01/1996,,,Award,Kia Motors,KIPMO,,Shaquille O'Neal
+659,406,Shaquille,O'Neal,Los Angeles Lakers,NBA Player of the Month,,1997-98,01/01/1998,,,Award,Kia Motors,KIPMO,,Shaquille O'Neal
+660,406,Shaquille,O'Neal,Los Angeles Lakers,NBA Player of the Month,,1997-98,04/01/1998,,,Award,Kia Motors,KIPMO,,Shaquille O'Neal
+661,406,Shaquille,O'Neal,Los Angeles Lakers,NBA Player of the Month,,1999-00,02/01/2000,,,Award,Kia Motors,KIPMO,,Shaquille O'Neal
+662,406,Shaquille,O'Neal,Los Angeles Lakers,NBA Player of the Month,,1999-00,03/01/2000,,,Award,Kia Motors,KIPMO,,Shaquille O'Neal
+663,406,Shaquille,O'Neal,Los Angeles Lakers,NBA Player of the Month,,1999-00,11/01/1999,,,Award,Kia Motors,KIPMO,,Shaquille O'Neal
+664,406,Shaquille,O'Neal,Los Angeles Lakers,NBA Player of the Month,,2000-01,04/01/2001,,,Award,Kia Motors,KIPMO,,Shaquille O'Neal
+665,406,Shaquille,O'Neal,Los Angeles Lakers,NBA Player of the Month,,2002-03,03/01/2003,,West,Award,Kia Motors,KIPMO,,Shaquille O'Neal
+666,406,Shaquille,O'Neal,Miami Heat,NBA Player of the Month,,2004-05,03/01/2005,,East,Award,Kia Motors,KIPMO,,Shaquille O'Neal
+667,406,Shaquille,O'Neal,Orlando Magic,NBA Player of the Week,,1992-93,,1992-11-15T00:00:00,,Award,Kia Motors,KIPWK,,Shaquille O'Neal
+668,406,Shaquille,O'Neal,Orlando Magic,NBA Player of the Week,,1993-94,,1993-12-12T00:00:00,,Award,Kia Motors,KIPWK,,Shaquille O'Neal
+669,406,Shaquille,O'Neal,Orlando Magic,NBA Player of the Week,,1994-95,,1994-12-04T00:00:00,,Award,Kia Motors,KIPWK,,Shaquille O'Neal
+670,406,Shaquille,O'Neal,Orlando Magic,NBA Player of the Week,,1994-95,,1995-03-05T00:00:00,,Award,Kia Motors,KIPWK,,Shaquille O'Neal
+671,406,Shaquille,O'Neal,Orlando Magic,NBA Player of the Week,,1995-96,,1996-03-03T00:00:00,,Award,Kia Motors,KIPWK,,Shaquille O'Neal
+672,406,Shaquille,O'Neal,Los Angeles Lakers,NBA Player of the Week,,1996-97,,1996-12-15T00:00:00,,Award,Kia Motors,KIPWK,,Shaquille O'Neal
+673,406,Shaquille,O'Neal,Los Angeles Lakers,NBA Player of the Week,,1997-98,,1998-03-22T00:00:00,,Award,Kia Motors,KIPWK,,Shaquille O'Neal
+674,406,Shaquille,O'Neal,Los Angeles Lakers,NBA Player of the Week,,1999-00,,1999-12-05T00:00:00,,Award,Kia Motors,KIPWK,,Shaquille O'Neal
+675,406,Shaquille,O'Neal,Los Angeles Lakers,NBA Player of the Week,,1999-00,,2000-02-22T00:00:00,,Award,Kia Motors,KIPWK,,Shaquille O'Neal
+676,406,Shaquille,O'Neal,Los Angeles Lakers,NBA Player of the Week,,1999-00,,2000-03-13T00:00:00,,Award,Kia Motors,KIPWK,,Shaquille O'Neal
+677,406,Shaquille,O'Neal,Los Angeles Lakers,NBA Player of the Week,,2000-01,,2001-04-08T00:00:00,,Award,Kia Motors,KIPWK,,Shaquille O'Neal
+678,406,Shaquille,O'Neal,Los Angeles Lakers,NBA Player of the Week,,2001-02,,2002-02-03T00:00:00,West,Award,Kia Motors,KIPWK,,Shaquille O'Neal
+679,406,Shaquille,O'Neal,Los Angeles Lakers,NBA Player of the Week,,2001-02,,2002-02-24T00:00:00,West,Award,Kia Motors,KIPWK,,Shaquille O'Neal
+680,406,Shaquille,O'Neal,Los Angeles Lakers,NBA Player of the Week,,2001-02,,2002-03-10T00:00:00,West,Award,Kia Motors,KIPWK,,Shaquille O'Neal
+681,406,Shaquille,O'Neal,Los Angeles Lakers,NBA Player of the Week,,2002-03,,2003-03-09T00:00:00,West,Award,Kia Motors,KIPWK,,Shaquille O'Neal
+682,406,Shaquille,O'Neal,Los Angeles Lakers,NBA Player of the Week,,2002-03,,2003-04-06T00:00:00,West,Award,Kia Motors,KIPWK,,Shaquille O'Neal
+683,406,Shaquille,O'Neal,Los Angeles Lakers,NBA Player of the Week,,2003-04,,2003-12-07T00:00:00,West,Award,Kia Motors,KIPWK,,Shaquille O'Neal
+684,406,Shaquille,O'Neal,Los Angeles Lakers,NBA Player of the Week,,2003-04,,2004-03-21T00:00:00,West,Award,Kia Motors,KIPWK,,Shaquille O'Neal
+685,406,Shaquille,O'Neal,Miami Heat,NBA Player of the Week,,2004-05,,2004-12-19T00:00:00,East,Award,Kia Motors,KIPWK,,Shaquille O'Neal
+686,406,Shaquille,O'Neal,Orlando Magic,NBA Rookie of the Month,,1992-93,01/01/1993,,,Award,Kia Motors,KIRMO,,Shaquille O'Neal
+687,406,Shaquille,O'Neal,Orlando Magic,NBA Rookie of the Month,,1992-93,02/01/1993,,,Award,Kia Motors,KIRMO,,Shaquille O'Neal
+688,406,Shaquille,O'Neal,Orlando Magic,NBA Rookie of the Month,,1992-93,11/01/1992,,,Award,Kia Motors,KIRMO,,Shaquille O'Neal
+689,406,Shaquille,O'Neal,Orlando Magic,NBA Rookie of the Month,,1992-93,12/01/1992,,,Award,Kia Motors,KIRMO,,Shaquille O'Neal
+690,406,Shaquille,O'Neal,Orlando Magic,NBA Rookie of the Year,,1992-93,,,,Award,Kia Motors,KIROY,,Shaquille O'Neal
+691,406,Shaquille,O'Neal,Los Angeles Lakers,NBA Sporting News Most Valuable Player of the Year,,1999-00,,,,Award,Sporting News,SNMVP,,Shaquille O'Neal
+692,406,Shaquille,O'Neal,Miami Heat,NBA Sporting News Most Valuable Player of the Year,,2004-05,,,,Award,Sporting News,SNMVP,,Shaquille O'Neal
+693,406,Shaquille,O'Neal,Orlando Magic,NBA Sporting News Rookie of the Year,,1992-93,,,,Award,Sporting News,SNROY,,Shaquille O'Neal
+694,406,Shaquille,O'Neal,USA,Olympic Gold Medal,,1996,,,,Award,Olympic,Gold,,Shaquille O'Neal
+695,201142,Kevin,Durant,Oklahoma City Thunder,All-NBA,1,2009-10,,,1610612760,Award,Kia Motors,KIANT,,Kevin Durant
+696,201142,Kevin,Durant,Oklahoma City Thunder,All-NBA,1,2010-11,,,1610612760,Award,Kia Motors,KIANT,,Kevin Durant
+697,201142,Kevin,Durant,Oklahoma City Thunder,All-NBA,1,2011-12,,,1610612760,Award,Kia Motors,KIANT,,Kevin Durant
+698,201142,Kevin,Durant,Oklahoma City Thunder,All-NBA,1,2012-13,,,1610612760,Award,Kia Motors,KIANT,,Kevin Durant
+699,201142,Kevin,Durant,Oklahoma City Thunder,All-NBA,1,2013-14,,,1610612760,Award,Kia Motors,KIANT,,Kevin Durant
+700,201142,Kevin,Durant,Oklahoma City Thunder,All-NBA,2,2015-16,,,West,Award,Kia Motors,KIANT,,Kevin Durant
+701,201142,Kevin,Durant,Golden State Warriors,All-NBA,2,2016-17,,,West,Award,Kia Motors,KIANT,,Kevin Durant
+702,201142,Kevin,Durant,Golden State Warriors,All-NBA,1,2017-18,,,West,Award,Kia Motors,KIANT,,Kevin Durant
+703,201142,Kevin,Durant,Golden State Warriors,All-NBA,2,2018-19,,,West,Award,Kia Motors,KIANT,,Kevin Durant
+704,201142,Kevin,Durant,Seattle SuperSonics,All-Rookie Team,1,2007-08,,,1610612760,Award,Kia Motors,KIART,,Kevin Durant
+705,201142,Kevin,Durant,Oklahoma City Thunder,NBA All-Star Most Valuable Player,,2011-12,,,,Award,Kia Motors,KAMVP,,Kevin Durant
+706,201142,Kevin,Durant,Golden State Warriors,NBA All-Star Most Valuable Player,,2018-19,,,,Award,Kia Motors,KAMVP,,Kevin Durant
+707,201142,Kevin,Durant,Golden State Warriors,NBA Finals Most Valuable Player,,2016-17,,,,Award,Kia Motors,KFMVP,,Kevin Durant
+708,201142,Kevin,Durant,Golden State Warriors,NBA Finals Most Valuable Player,,2017-18,,,,Award,Kia Motors,KFMVP,,Kevin Durant
+709,201142,Kevin,Durant,Oklahoma City Thunder,NBA Most Valuable Player,,2013-14,,,,Award,Kia Motors,KIMVP,,Kevin Durant
+710,201142,Kevin,Durant,Oklahoma City Thunder,NBA Player of the Month,,2009-10,04/01/2010,,West,Award,Kia Motors,KIPMO,,Kevin Durant
+711,201142,Kevin,Durant,Oklahoma City Thunder,NBA Player of the Month,,2010-11,04/01/2011,,West,Award,Kia Motors,KIPMO,,Kevin Durant
+712,201142,Kevin,Durant,Oklahoma City Thunder,NBA Player of the Month,,2010-11,12/01/2010,,West,Award,Kia Motors,KIPMO,,Kevin Durant
+713,201142,Kevin,Durant,Oklahoma City Thunder,NBA Player of the Month,,2011-12,02/01/2012,,West,Award,Kia Motors,KIPMO,,Kevin Durant
+714,201142,Kevin,Durant,Oklahoma City Thunder,NBA Player of the Month,,2011-12,03/01/2012,,West,Award,Kia Motors,KIPMO,,Kevin Durant
+715,201142,Kevin,Durant,Oklahoma City Thunder,NBA Player of the Month,,2012-13,03/01/2013,,West,Award,Kia Motors,KIPMO,,Kevin Durant
+716,201142,Kevin,Durant,Oklahoma City Thunder,NBA Player of the Month,,2013-14,1/1/2014,,West,Award,Kia Motors,KIPMO,,Kevin Durant
+717,201142,Kevin,Durant,Oklahoma City Thunder,NBA Player of the Month,,2013-14,11/1/2013,,West,Award,Kia Motors,KIPMO,,Kevin Durant
+718,201142,Kevin,Durant,Oklahoma City Thunder,NBA Player of the Month,,2013-14,12/1/2013,,West,Award,Kia Motors,KIPMO,,Kevin Durant
+719,201142,Kevin,Durant,Oklahoma City Thunder,NBA Player of the Month,,2013-14,3/1/2014,,West,Award,Kia Motors,KIPMO,,Kevin Durant
+720,201142,Kevin,Durant,Oklahoma City Thunder,NBA Player of the Month,,2015-16,1/1/2016,,West,Award,Kia Motors,KIPMO,,Kevin Durant
+721,201142,Kevin,Durant,Oklahoma City Thunder,NBA Player of the Month,,2015-16,12/1/2015,,West,Award,Kia Motors,KIPMO,,Kevin Durant
+722,201142,Kevin,Durant,Golden State Warriors,NBA Player of the Month,,2016-17,1/1/2017,,West,Award,Kia Motors,KIPMO,,Kevin Durant
+723,201142,Kevin,Durant,Oklahoma City Thunder,NBA Player of the Week,,2009-10,,2010-01-04T00:00:00,West,Award,Kia Motors,KIPWK,,Kevin Durant
+724,201142,Kevin,Durant,Oklahoma City Thunder,NBA Player of the Week,,2009-10,,2010-02-01T00:00:00,West,Award,Kia Motors,KIPWK,,Kevin Durant
+725,201142,Kevin,Durant,Oklahoma City Thunder,NBA Player of the Week,,2009-10,,2010-04-05T00:00:00,West,Award,Kia Motors,KIPWK,,Kevin Durant
+726,201142,Kevin,Durant,Oklahoma City Thunder,NBA Player of the Week,,2010-11,,2011-02-07T00:00:00,West,Award,Kia Motors,KIPWK,,Kevin Durant
+727,201142,Kevin,Durant,Oklahoma City Thunder,NBA Player of the Week,,2011-12,,2011-12-25T00:00:00,West,Award,Kia Motors,KIPWK,,Kevin Durant
+728,201142,Kevin,Durant,Oklahoma City Thunder,NBA Player of the Week,,2011-12,,2012-02-13T00:00:00,West,Award,Kia Motors,KIPWK,,Kevin Durant
+729,201142,Kevin,Durant,Oklahoma City Thunder,NBA Player of the Week,,2011-12,,2012-03-19T00:00:00,West,Award,Kia Motors,KIPWK,,Kevin Durant
+730,201142,Kevin,Durant,Oklahoma City Thunder,NBA Player of the Week,,2012-13,,2012-11-12T00:00:00,West,Award,Kia Motors,KIPWK,,Kevin Durant
+731,201142,Kevin,Durant,Oklahoma City Thunder,NBA Player of the Week,,2012-13,,2012-11-26T00:00:00,West,Award,Kia Motors,KIPWK,,Kevin Durant
+732,201142,Kevin,Durant,Oklahoma City Thunder,NBA Player of the Week,,2012-13,,2013-01-14T00:00:00,West,Award,Kia Motors,KIPWK,,Kevin Durant
+733,201142,Kevin,Durant,Oklahoma City Thunder,NBA Player of the Week,,2013-14,,2013-12-02T00:00:00,West,Award,Kia Motors,KIPWK,,Kevin Durant
+734,201142,Kevin,Durant,Oklahoma City Thunder,NBA Player of the Week,,2013-14,,2013-12-30T00:00:00,West,Award,Kia Motors,KIPWK,,Kevin Durant
+735,201142,Kevin,Durant,Oklahoma City Thunder,NBA Player of the Week,,2013-14,,2014-01-20T00:00:00,,Award,Kia Motors,KIPWK,,Kevin Durant
+736,201142,Kevin,Durant,Oklahoma City Thunder,NBA Player of the Week,,2013-14,,2014-01-27T00:00:00,West,Award,Kia Motors,KIPWK,,Kevin Durant
+737,201142,Kevin,Durant,Oklahoma City Thunder,NBA Player of the Week,,2013-14,,2014-02-10T00:00:00,West,Award,Kia Motors,KIPWK,,Kevin Durant
+738,201142,Kevin,Durant,Oklahoma City Thunder,NBA Player of the Week,,2013-14,,2014-03-24T00:00:00,West,Award,Kia Motors,KIPWK,,Kevin Durant
+739,201142,Kevin,Durant,Oklahoma City Thunder,NBA Player of the Week,,2014-15,,2014-12-29T00:00:00,West,Award,Kia Motors,KIPWK,,Kevin Durant
+740,201142,Kevin,Durant,Oklahoma City Thunder,NBA Player of the Week,,2015-16,,2015-11-30T00:00:00,West,Award,Kia Motors,KIPWK,,Kevin Durant
+741,201142,Kevin,Durant,Oklahoma City Thunder,NBA Player of the Week,,2015-16,,2015-12-14T00:00:00,West,Award,Kia Motors,KIPWK,,Kevin Durant
+742,201142,Kevin,Durant,Oklahoma City Thunder,NBA Player of the Week,,2015-16,,2016-01-18T00:00:00,West,Award,Kia Motors,KIPWK,,Kevin Durant
+743,201142,Kevin,Durant,Oklahoma City Thunder,NBA Player of the Week,,2015-16,,2016-02-01T00:00:00,West,Award,Kia Motors,KIPWK,,Kevin Durant
+744,201142,Kevin,Durant,Oklahoma City Thunder,NBA Player of the Week,,2015-16,,2016-03-21T00:00:00,West,Award,Kia Motors,KIPWK,,Kevin Durant
+745,201142,Kevin,Durant,Golden State Warriors,NBA Player of the Week,,2016-17,,2016-11-28T00:00:00,West,Award,Kia Motors,KIPWK,,Kevin Durant
+746,201142,Kevin,Durant,Golden State Warriors,NBA Player of the Week,,2017-18,,2017-12-04T00:00:00,West,Award,Kia Motors,KIPWK,,Kevin Durant
+747,201142,Kevin,Durant,Brooklyn Nets,NBA Player of the Week,,2020-21,,2021-01-11T00:00:00,East,Award,Kia Motors,KIPWK,,Kevin Durant
+748,201142,Kevin,Durant,Seattle SuperSonics,NBA Rookie of the Month,,2007-08,01/01/2008,,West,Award,Kia Motors,KIRMO,,Kevin Durant
+749,201142,Kevin,Durant,Seattle SuperSonics,NBA Rookie of the Month,,2007-08,03/01/2008,,West,Award,Kia Motors,KIRMO,,Kevin Durant
+750,201142,Kevin,Durant,Seattle SuperSonics,NBA Rookie of the Month,,2007-08,04/01/2008,,West,Award,Kia Motors,KIRMO,,Kevin Durant
+751,201142,Kevin,Durant,Seattle SuperSonics,NBA Rookie of the Month,,2007-08,11/01/2007,,West,Award,Kia Motors,KIRMO,,Kevin Durant
+752,201142,Kevin,Durant,Seattle SuperSonics,NBA Rookie of the Month,,2007-08,12/01/2007,,West,Award,Kia Motors,KIRMO,,Kevin Durant
+753,201142,Kevin,Durant,Seattle SuperSonics,NBA Rookie of the Year,,2007-08,,,,Award,Kia Motors,KIROY,,Kevin Durant
+754,201142,Kevin,Durant,USA,Olympic Gold Medal,,2012,,,,Award,Olympic,Gold,,Kevin Durant
+755,201142,Kevin,Durant,,Olympic Gold Medal,,2016,,,,Award,Olympic,Gold,,Kevin Durant
+756,201142,Kevin,Durant,Brooklyn Nets,NBA Player of the Week,,2021-22,,2021-11-08T00:00:00,East,Award,Kia Motors,KIPWK,,Kevin Durant
+757,201142,Kevin,Durant,Brooklyn Nets,NBA Player of the Month,,2021-22,11/1/2021,,East,Award,Kia Motors,KIPMO,,Kevin Durant
+758,201142,Kevin,Durant,Brooklyn Nets,NBA Player of the Week,,2021-22,,2022-03-07T00:00:00,East,Award,Kia Motors,KIPWK,,Kevin Durant
+759,201142,Kevin,Durant,Brooklyn Nets,All-NBA,2,2021-22,,,East,Award,Kia Motors,KIANT,,Kevin Durant
+760,201142,Kevin,Durant,Brooklyn Nets,NBA Player of the Week,,2022-23,,2022-11-28T00:00:00,East,Award,Kia Motors,KIPWK,,Kevin Durant
+761,201142,Kevin,Durant,Brooklyn Nets,NBA Player of the Week,,2022-23,,2022-10-31T00:00:00,East,Award,Kia Motors,KIPWK,,Kevin Durant
+762,165,Hakeem,Olajuwon,Houston Rockets,All-Defensive Team,2,1984-85,,,1610612745,Award,Kia Motors,KIADT,,Hakeem Olajuwon
+763,165,Hakeem,Olajuwon,Houston Rockets,All-Defensive Team,1,1986-87,,,1610612745,Award,Kia Motors,KIADT,,Hakeem Olajuwon
+764,165,Hakeem,Olajuwon,Houston Rockets,All-Defensive Team,1,1987-88,,,1610612745,Award,Kia Motors,KIADT,,Hakeem Olajuwon
+765,165,Hakeem,Olajuwon,Houston Rockets,All-Defensive Team,1,1989-90,,,1610612745,Award,Kia Motors,KIADT,,Hakeem Olajuwon
+766,165,Hakeem,Olajuwon,Houston Rockets,All-Defensive Team,2,1990-91,,,1610612745,Award,Kia Motors,KIADT,,Hakeem Olajuwon
+767,165,Hakeem,Olajuwon,Houston Rockets,All-Defensive Team,1,1992-93,,,1610612745,Award,Kia Motors,KIADT,,Hakeem Olajuwon
+768,165,Hakeem,Olajuwon,Houston Rockets,All-Defensive Team,1,1993-94,,,1610612745,Award,Kia Motors,KIADT,,Hakeem Olajuwon
+769,165,Hakeem,Olajuwon,Houston Rockets,All-Defensive Team,2,1995-96,,,1610612745,Award,Kia Motors,KIADT,,Hakeem Olajuwon
+770,165,Hakeem,Olajuwon,Houston Rockets,All-Defensive Team,2,1996-97,,,1610612745,Award,Kia Motors,KIADT,,Hakeem Olajuwon
+771,165,Hakeem,Olajuwon,Houston Rockets,All-NBA,2,1985-86,,,1610612745,Award,Kia Motors,KIANT,,Hakeem Olajuwon
+772,165,Hakeem,Olajuwon,Houston Rockets,All-NBA,1,1986-87,,,1610612745,Award,Kia Motors,KIANT,,Hakeem Olajuwon
+773,165,Hakeem,Olajuwon,Houston Rockets,All-NBA,1,1987-88,,,1610612745,Award,Kia Motors,KIANT,,Hakeem Olajuwon
+774,165,Hakeem,Olajuwon,Houston Rockets,All-NBA,1,1988-89,,,1610612745,Award,Kia Motors,KIANT,,Hakeem Olajuwon
+775,165,Hakeem,Olajuwon,Houston Rockets,All-NBA,2,1989-90,,,1610612745,Award,Kia Motors,KIANT,,Hakeem Olajuwon
+776,165,Hakeem,Olajuwon,Houston Rockets,All-NBA,3,1990-91,,,1610612745,Award,Kia Motors,KIANT,,Hakeem Olajuwon
+777,165,Hakeem,Olajuwon,Houston Rockets,All-NBA,1,1992-93,,,1610612745,Award,Kia Motors,KIANT,,Hakeem Olajuwon
+778,165,Hakeem,Olajuwon,Houston Rockets,All-NBA,1,1993-94,,,1610612745,Award,Kia Motors,KIANT,,Hakeem Olajuwon
+779,165,Hakeem,Olajuwon,Houston Rockets,All-NBA,3,1994-95,,,1610612745,Award,Kia Motors,KIANT,,Hakeem Olajuwon
+780,165,Hakeem,Olajuwon,Houston Rockets,All-NBA,2,1995-96,,,1610612745,Award,Kia Motors,KIANT,,Hakeem Olajuwon
+781,165,Hakeem,Olajuwon,Houston Rockets,All-NBA,1,1996-97,,,1610612745,Award,Kia Motors,KIANT,,Hakeem Olajuwon
+782,165,Hakeem,Olajuwon,Houston Rockets,All-NBA,3,1998-99,,,1610612745,Award,Kia Motors,KIANT,,Hakeem Olajuwon
+783,165,Hakeem,Olajuwon,Houston Rockets,All-Rookie Team,1,1984-85,,,1610612745,Award,Kia Motors,KIART,,Hakeem Olajuwon
+784,165,Hakeem,Olajuwon,,Hall of Fame Inductee,,2008,,,,Award,Hall of Fame,,,Hakeem Olajuwon
+785,165,Hakeem,Olajuwon,Houston Rockets,IBM Award,,1992-93,,,,Award,IBM,IBMAW,,Hakeem Olajuwon
+786,165,Hakeem,Olajuwon,Houston Rockets,NBA Defensive Player of the Year,,1992-93,,,,Award,Kia Motors,KDPYR,,Hakeem Olajuwon
+787,165,Hakeem,Olajuwon,Houston Rockets,NBA Defensive Player of the Year,,1993-94,,,,Award,Kia Motors,KDPYR,,Hakeem Olajuwon
+788,165,Hakeem,Olajuwon,Houston Rockets,NBA Finals Most Valuable Player,,1993-94,,,,Award,Kia Motors,KFMVP,,Hakeem Olajuwon
+789,165,Hakeem,Olajuwon,Houston Rockets,NBA Finals Most Valuable Player,,1994-95,,,,Award,Kia Motors,KFMVP,,Hakeem Olajuwon
+790,165,Hakeem,Olajuwon,Houston Rockets,NBA Most Valuable Player,,1993-94,,,,Award,Kia Motors,KIMVP,,Hakeem Olajuwon
+791,165,Hakeem,Olajuwon,Houston Rockets,NBA Player of the Month,,1985-86,11/01/1985,,,Award,Kia Motors,KIPMO,,Hakeem Olajuwon
+792,165,Hakeem,Olajuwon,Houston Rockets,NBA Player of the Month,,1989-90,04/01/1990,,,Award,Kia Motors,KIPMO,,Hakeem Olajuwon
+793,165,Hakeem,Olajuwon,Houston Rockets,NBA Player of the Month,,1992-93,01/01/1993,,,Award,Kia Motors,KIPMO,,Hakeem Olajuwon
+794,165,Hakeem,Olajuwon,Houston Rockets,NBA Player of the Month,,1992-93,04/01/1993,,,Award,Kia Motors,KIPMO,,Hakeem Olajuwon
+795,165,Hakeem,Olajuwon,Houston Rockets,NBA Player of the Month,,1993-94,11/01/1993,,,Award,Kia Motors,KIPMO,,Hakeem Olajuwon
+796,165,Hakeem,Olajuwon,Houston Rockets,NBA Player of the Month,,1994-95,02/01/1995,,,Award,Kia Motors,KIPMO,,Hakeem Olajuwon
+797,165,Hakeem,Olajuwon,Houston Rockets,NBA Player of the Week,,1988-89,,1988-11-13T00:00:00,,Award,Kia Motors,KIPWK,,Hakeem Olajuwon
+798,165,Hakeem,Olajuwon,Houston Rockets,NBA Player of the Week,,1988-89,,1989-02-19T00:00:00,,Award,Kia Motors,KIPWK,,Hakeem Olajuwon
+799,165,Hakeem,Olajuwon,Houston Rockets,NBA Player of the Week,,1989-90,,1990-03-04T00:00:00,,Award,Kia Motors,KIPWK,,Hakeem Olajuwon
+800,165,Hakeem,Olajuwon,Houston Rockets,NBA Player of the Week,,1992-93,,1993-01-17T00:00:00,,Award,Kia Motors,KIPWK,,Hakeem Olajuwon
+801,165,Hakeem,Olajuwon,Houston Rockets,NBA Player of the Week,,1992-93,,1993-02-28T00:00:00,,Award,Kia Motors,KIPWK,,Hakeem Olajuwon
+802,165,Hakeem,Olajuwon,Houston Rockets,NBA Player of the Week,,1992-93,,1993-04-11T00:00:00,,Award,Kia Motors,KIPWK,,Hakeem Olajuwon
+803,165,Hakeem,Olajuwon,Houston Rockets,NBA Player of the Week,,1993-94,,1993-11-14T00:00:00,,Award,Kia Motors,KIPWK,,Hakeem Olajuwon
+804,165,Hakeem,Olajuwon,Houston Rockets,NBA Player of the Week,,1993-94,,1994-03-20T00:00:00,,Award,Kia Motors,KIPWK,,Hakeem Olajuwon
+805,165,Hakeem,Olajuwon,Houston Rockets,NBA Player of the Week,,1994-95,,1995-01-01T00:00:00,,Award,Kia Motors,KIPWK,,Hakeem Olajuwon
+806,165,Hakeem,Olajuwon,Houston Rockets,NBA Player of the Week,,1994-95,,1995-02-05T00:00:00,,Award,Kia Motors,KIPWK,,Hakeem Olajuwon
+807,165,Hakeem,Olajuwon,Houston Rockets,NBA Player of the Week,,1995-96,,1996-03-03T00:00:00,,Award,Kia Motors,KIPWK,,Hakeem Olajuwon
+808,165,Hakeem,Olajuwon,Houston Rockets,NBA Player of the Week,,1996-97,,1996-11-10T00:00:00,,Award,Kia Motors,KIPWK,,Hakeem Olajuwon
+809,165,Hakeem,Olajuwon,Houston Rockets,NBA Rookie of the Month,,1984-85,02/01/1985,,,Award,Kia Motors,KIRMO,,Hakeem Olajuwon
+810,165,Hakeem,Olajuwon,Houston Rockets,NBA Rookie of the Month,,1984-85,03/01/1985,,,Award,Kia Motors,KIRMO,,Hakeem Olajuwon
+811,165,Hakeem,Olajuwon,Houston Rockets,NBA Rookie of the Month,,1984-85,12/01/1984,,,Award,Kia Motors,KIRMO,,Hakeem Olajuwon
+812,165,Hakeem,Olajuwon,Houston Rockets,NBA Sporting News Most Valuable Player of the Year,,1993-94,,,,Award,Sporting News,SNMVP,,Hakeem Olajuwon
+813,165,Hakeem,Olajuwon,USA,Olympic Gold Medal,,1996,,,,Award,Olympic,Gold,,Hakeem Olajuwon
+814,76681,Julius,Erving,Philadelphia 76ers,All-NBA,2,1976-77,,,1610612755,Award,Kia Motors,KIANT,,Julius Erving
+815,76681,Julius,Erving,Philadelphia 76ers,All-NBA,1,1977-78,,,1610612755,Award,Kia Motors,KIANT,,Julius Erving
+816,76681,Julius,Erving,Philadelphia 76ers,All-NBA,1,1979-80,,,1610612755,Award,Kia Motors,KIANT,,Julius Erving
+817,76681,Julius,Erving,Philadelphia 76ers,All-NBA,1,1980-81,,,1610612755,Award,Kia Motors,KIANT,,Julius Erving
+818,76681,Julius,Erving,Philadelphia 76ers,All-NBA,1,1981-82,,,1610612755,Award,Kia Motors,KIANT,,Julius Erving
+819,76681,Julius,Erving,Philadelphia 76ers,All-NBA,1,1982-83,,,1610612755,Award,Kia Motors,KIANT,,Julius Erving
+820,76681,Julius,Erving,Philadelphia 76ers,All-NBA,2,1983-84,,,1610612755,Award,Kia Motors,KIANT,,Julius Erving
+821,76681,Julius,Erving,,Hall of Fame Inductee,,1993,,,,Award,Hall of Fame,,,Julius Erving
+822,76681,Julius,Erving,Philadelphia 76ers,J. Walter Kennedy Citizenship,,1982-83,,,,Award,Kia Motors,KIWKC,,Julius Erving
+823,76681,Julius,Erving,Philadelphia 76ers,NBA All-Star Most Valuable Player,,1976-77,,,,Award,Kia Motors,KAMVP,,Julius Erving
+824,76681,Julius,Erving,Philadelphia 76ers,NBA All-Star Most Valuable Player,,1982-83,,,,Award,Kia Motors,KAMVP,,Julius Erving
+825,76681,Julius,Erving,Philadelphia 76ers,NBA Most Valuable Player,,1980-81,,,,Award,Kia Motors,KIMVP,,Julius Erving
+826,76681,Julius,Erving,Philadelphia 76ers,NBA Player of the Month,,1979-80,03/01/1980,,,Award,Kia Motors,KIPMO,,Julius Erving
+827,76681,Julius,Erving,Philadelphia 76ers,NBA Player of the Month,,1980-81,11/01/1980,,,Award,Kia Motors,KIPMO,,Julius Erving
+828,76681,Julius,Erving,Philadelphia 76ers,NBA Player of the Month,,1981-82,11/01/1981,,,Award,Kia Motors,KIPMO,,Julius Erving
+829,76681,Julius,Erving,Philadelphia 76ers,NBA Player of the Week,,1979-80,,1979-10-21T00:00:00,,Award,Kia Motors,KIPWK,,Julius Erving
+830,76681,Julius,Erving,Philadelphia 76ers,NBA Player of the Week,,1980-81,,1981-01-18T00:00:00,,Award,Kia Motors,KIPWK,,Julius Erving
+831,76681,Julius,Erving,Philadelphia 76ers,NBA Player of the Week,,1986-87,,1987-04-19T00:00:00,,Award,Kia Motors,KIPWK,,Julius Erving
+832,76681,Julius,Erving,Philadelphia 76ers,NBA Sporting News Most Valuable Player of the Year,,1980-81,,,,Award,Sporting News,SNMVP,,Julius Erving
+833,77449,Moses,Malone,Houston Rockets,All-Defensive Team,2,1978-79,,,1610612745,Award,Kia Motors,KIADT,,Moses Malone
+834,77449,Moses,Malone,Philadelphia 76ers,All-Defensive Team,1,1982-83,,,1610612755,Award,Kia Motors,KIADT,,Moses Malone
+835,77449,Moses,Malone,Houston Rockets,All-NBA,1,1978-79,,,1610612745,Award,Kia Motors,KIANT,,Moses Malone
+836,77449,Moses,Malone,Houston Rockets,All-NBA,2,1979-80,,,1610612745,Award,Kia Motors,KIANT,,Moses Malone
+837,77449,Moses,Malone,Houston Rockets,All-NBA,2,1980-81,,,1610612745,Award,Kia Motors,KIANT,,Moses Malone
+838,77449,Moses,Malone,Houston Rockets,All-NBA,1,1981-82,,,1610612745,Award,Kia Motors,KIANT,,Moses Malone
+839,77449,Moses,Malone,Philadelphia 76ers,All-NBA,1,1982-83,,,1610612755,Award,Kia Motors,KIANT,,Moses Malone
+840,77449,Moses,Malone,Philadelphia 76ers,All-NBA,2,1983-84,,,1610612755,Award,Kia Motors,KIANT,,Moses Malone
+841,77449,Moses,Malone,Philadelphia 76ers,All-NBA,1,1984-85,,,1610612755,Award,Kia Motors,KIANT,,Moses Malone
+842,77449,Moses,Malone,Washington Bullets,All-NBA,2,1986-87,,,1610612764,Award,Kia Motors,KIANT,,Moses Malone
+843,77449,Moses,Malone,,Hall of Fame Inductee,,2001,,,,Award,Hall of Fame,,,Moses Malone
+844,77449,Moses,Malone,Philadelphia 76ers,NBA Finals Most Valuable Player,,1982-83,,,,Award,Kia Motors,KFMVP,,Moses Malone
+845,77449,Moses,Malone,Houston Rockets,NBA Most Valuable Player,,1978-79,,,,Award,Kia Motors,KIMVP,,Moses Malone
+846,77449,Moses,Malone,Houston Rockets,NBA Most Valuable Player,,1981-82,,,,Award,Kia Motors,KIMVP,,Moses Malone
+847,77449,Moses,Malone,Philadelphia 76ers,NBA Most Valuable Player,,1982-83,,,,Award,Kia Motors,KIMVP,,Moses Malone
+848,77449,Moses,Malone,Houston Rockets,NBA Player of the Month,,1979-80,11/01/1979,,,Award,Kia Motors,KIPMO,,Moses Malone
+849,77449,Moses,Malone,Houston Rockets,NBA Player of the Month,,1981-82,02/01/1982,,,Award,Kia Motors,KIPMO,,Moses Malone
+850,77449,Moses,Malone,Philadelphia 76ers,NBA Player of the Month,,1982-83,02/01/1983,,,Award,Kia Motors,KIPMO,,Moses Malone
+851,77449,Moses,Malone,Philadelphia 76ers,NBA Player of the Month,,1982-83,12/01/1982,,,Award,Kia Motors,KIPMO,,Moses Malone
+852,77449,Moses,Malone,Houston Rockets,NBA Player of the Week,,1980-81,,1981-03-15T00:00:00,,Award,Kia Motors,KIPWK,,Moses Malone
+853,77449,Moses,Malone,Houston Rockets,NBA Player of the Week,,1981-82,,1982-02-07T00:00:00,,Award,Kia Motors,KIPWK,,Moses Malone
+854,77449,Moses,Malone,Houston Rockets,NBA Player of the Week,,1981-82,,1982-03-28T00:00:00,,Award,Kia Motors,KIPWK,,Moses Malone
+855,77449,Moses,Malone,Philadelphia 76ers,NBA Player of the Week,,1982-83,,1983-02-06T00:00:00,,Award,Kia Motors,KIPWK,,Moses Malone
+856,77449,Moses,Malone,Philadelphia 76ers,NBA Player of the Week,,1983-84,,1984-03-25T00:00:00,,Award,Kia Motors,KIPWK,,Moses Malone
+857,77449,Moses,Malone,Philadelphia 76ers,NBA Player of the Week,,1984-85,,1984-11-18T00:00:00,,Award,Kia Motors,KIPWK,,Moses Malone
+858,77449,Moses,Malone,Washington Wizards,NBA Player of the Week,,1986-87,,1987-02-22T00:00:00,,Award,Kia Motors,KIPWK,,Moses Malone
+859,77449,Moses,Malone,Houston Rockets,NBA Sporting News Most Valuable Player of the Year,,1978-79,,,,Award,Sporting News,SNMVP,,Moses Malone
+860,77449,Moses,Malone,Houston Rockets,NBA Sporting News Most Valuable Player of the Year,,1981-82,,,,Award,Sporting News,SNMVP,,Moses Malone
+861,77449,Moses,Malone,Philadelphia 76ers,NBA Sporting News Most Valuable Player of the Year,,1982-83,,,,Award,Sporting News,SNMVP,,Moses Malone
+862,201939,Stephen,Curry,Golden State Warriors,All-NBA,2,2013-14,,,1610612744,Award,Kia Motors,KIANT,,Stephen Curry
+863,201939,Stephen,Curry,Golden State Warriors,All-NBA,1,2014-15,,,1610612744,Award,Kia Motors,KIANT,,Stephen Curry
+864,201939,Stephen,Curry,Golden State Warriors,All-NBA,1,2015-16,,,West,Award,Kia Motors,KIANT,,Stephen Curry
+865,201939,Stephen,Curry,Golden State Warriors,All-NBA,2,2016-17,,,West,Award,Kia Motors,KIANT,,Stephen Curry
+866,201939,Stephen,Curry,Golden State Warriors,All-NBA,3,2017-18,,,West,Award,Kia Motors,KIANT,,Stephen Curry
+867,201939,Stephen,Curry,Golden State Warriors,All-NBA,1,2018-19,,,West,Award,Kia Motors,KIANT,,Stephen Curry
+868,201939,Stephen,Curry,Golden State Warriors,All-NBA,1,2020-21,,,West,Award,Kia Motors,KIANT,,Stephen Curry
+869,201939,Stephen,Curry,Golden State Warriors,All-Rookie Team,1,2009-10,,,1610612744,Award,Kia Motors,KIART,,Stephen Curry
+870,201939,Stephen,Curry,Golden State Warriors,NBA Most Valuable Player,,2014-15,,,,Award,Kia Motors,KIMVP,,Stephen Curry
+871,201939,Stephen,Curry,Golden State Warriors,NBA Most Valuable Player,,2015-16,,,West,Award,Kia Motors,KIMVP,,Stephen Curry
+872,201939,Stephen,Curry,Golden State Warriors,NBA Player of the Month,,2012-13,04/01/2013,,West,Award,Kia Motors,KIPMO,,Stephen Curry
+873,201939,Stephen,Curry,Golden State Warriors,NBA Player of the Month,,2012-13,4/1/2014,,West,Award,Kia Motors,KIPMO,,Stephen Curry
+874,201939,Stephen,Curry,Golden State Warriors,NBA Player of the Month,,2014-15,11/1/2014,,West,Award,Kia Motors,KIPMO,,Stephen Curry
+875,201939,Stephen,Curry,Golden State Warriors,NBA Player of the Month,,2015-16,11/1/2015,,West,Award,Kia Motors,KIPMO,,Stephen Curry
+876,201939,Stephen,Curry,Golden State Warriors,NBA Player of the Month,,2015-16,2/1/2016,,West,Award,Kia Motors,KIPMO,,Stephen Curry
+877,201939,Stephen,Curry,Golden State Warriors,NBA Player of the Month,,2016-17,1/1/2017,,West,Award,Kia Motors,KIPMO,,Stephen Curry
+878,201939,Stephen,Curry,Golden State Warriors,NBA Player of the Month,,2017-18,1/1/2018,,West,Award,Kia Motors,KIPMO,,Stephen Curry
+879,201939,Stephen,Curry,Golden State Warriors,NBA Player of the Month,,2020-21,4/1/2021,,West,Award,Kia Motors,KIPMO,,Stephen Curry
+880,201939,Stephen,Curry,Golden State Warriors,NBA Player of the Month,,2020-21,5/1/2021,,West,Award,Kia Motors,KIPMO,,Stephen Curry
+881,201939,Stephen,Curry,Golden State Warriors,NBA Player of the Week,,2014-15,,2014-11-03T00:00:00,West,Award,Kia Motors,KIPWK,,Stephen Curry
+882,201939,Stephen,Curry,Golden State Warriors,NBA Player of the Week,,2014-15,,2015-03-23T00:00:00,West,Award,Kia Motors,KIPWK,,Stephen Curry
+883,201939,Stephen,Curry,Golden State Warriors,NBA Player of the Week,,2015-16,,2015-11-02T00:00:00,West,Award,Kia Motors,KIPWK,,Stephen Curry
+884,201939,Stephen,Curry,Golden State Warriors,NBA Player of the Week,,2015-16,,2015-11-23T00:00:00,West,Award,Kia Motors,KIPWK,,Stephen Curry
+885,201939,Stephen,Curry,Golden State Warriors,NBA Player of the Week,,2015-16,,2015-12-07T00:00:00,West,Award,Kia Motors,KIPWK,,Stephen Curry
+886,201939,Stephen,Curry,Golden State Warriors,NBA Player of the Week,,2015-16,,2016-02-29T00:00:00,West,Award,Kia Motors,KIPWK,,Stephen Curry
+887,201939,Stephen,Curry,Golden State Warriors,NBA Player of the Week,,2015-16,,2016-03-14T00:00:00,West,Award,Kia Motors,KIPWK,,Stephen Curry
+888,201939,Stephen,Curry,Golden State Warriors,NBA Player of the Week,,2016-17,,2017-01-09T00:00:00,West,Award,Kia Motors,KIPWK,,Stephen Curry
+889,201939,Stephen,Curry,Golden State Warriors,NBA Player of the Week,,2016-17,,2017-02-06T00:00:00,West,Award,Kia Motors,KIPWK,,Stephen Curry
+890,201939,Stephen,Curry,Golden State Warriors,NBA Player of the Week,,2016-17,,2017-04-03T00:00:00,West,Award,Kia Motors,KIPWK,,Stephen Curry
+891,201939,Stephen,Curry,Golden State Warriors,NBA Player of the Week,,2017-18,,2018-01-01T00:00:00,West,Award,Kia Motors,KIPWK,,Stephen Curry
+892,201939,Stephen,Curry,Golden State Warriors,NBA Player of the Week,,2017-18,,2018-01-22T00:00:00,West,Award,Kia Motors,KIPWK,,Stephen Curry
+893,201939,Stephen,Curry,Golden State Warriors,NBA Player of the Week,,2018-19,,2018-12-03T00:00:00,West,Award,Kia Motors,KIPWK,,Stephen Curry
+894,201939,Stephen,Curry,Golden State Warriors,NBA Player of the Week,,2020-21,,2020-12-28T00:00:00,West,Award,Kia Motors,KIPWK,,Stephen Curry
+895,201939,Stephen,Curry,Golden State Warriors,NBA Player of the Week,,2020-21,,2021-04-12T00:00:00,West,Award,Kia Motors,KIPWK,,Stephen Curry
+896,201939,Stephen,Curry,Golden State Warriors,NBA Rookie of the Month,,2009-10,01/01/2010,,West,Award,Kia Motors,KIRMO,,Stephen Curry
+897,201939,Stephen,Curry,Golden State Warriors,NBA Rookie of the Month,,2009-10,03/01/2010,,West,Award,Kia Motors,KIRMO,,Stephen Curry
+898,201939,Stephen,Curry,Golden State Warriors,NBA Rookie of the Month,,2009-10,04/01/2010,,West,Award,Kia Motors,KIRMO,,Stephen Curry
+899,201939,Stephen,Curry,Golden State Warriors,NBA Sportsmanship,,2010-11,,,,Award,Kia Motors,KSPRT,,Stephen Curry
+900,201939,Stephen,Curry,Golden State Warriors,NBA Player of the Week,,2021-22,,2021-10-18T00:00:00,West,Award,Kia Motors,KIPWK,,Stephen Curry
+901,201939,Stephen,Curry,Golden State Warriors,NBA Player of the Week,,2021-22,,2021-11-08T00:00:00,West,Award,Kia Motors,KIPWK,,Stephen Curry
+902,201939,Stephen,Curry,Golden State Warriors,NBA Player of the Month,,2021-22,11/1/2021,,West,Award,Kia Motors,KIPMO,,Stephen Curry
+903,201939,Stephen,Curry,Golden State Warriors,NBA All-Star Most Valuable Player,,2021-22,,,,Award,Kia Motors,KAMVP,,Stephen Curry
+904,201939,Stephen,Curry,Golden State Warriors,All-NBA,2,2021-22,,,West,Award,Kia Motors,KIANT,,Stephen Curry
+905,201939,Stephen,Curry,Golden State Warriors,NBA Finals Most Valuable Player,,2021-22,,,,Award,Kia Motors,KFMVP,,Stephen Curry
+906,201939,Stephen,Curry,Golden State Warriors,NBA Player of the Week,,2022-23,,2022-11-07T00:00:00,West,Award,Kia Motors,KIPWK,,Stephen Curry
+907,201939,Stephen,Curry,Golden State Warriors,All-NBA,2,2022-23,,,West,Award,Kia Motors,KIANT,,Stephen Curry
+908,1717,Dirk,Nowitzki,Dallas Mavericks,All-NBA,3,2000-01,,,1610612742,Award,Kia Motors,KIANT,,Dirk Nowitzki
+909,1717,Dirk,Nowitzki,Dallas Mavericks,All-NBA,2,2001-02,,,1610612742,Award,Kia Motors,KIANT,,Dirk Nowitzki
+910,1717,Dirk,Nowitzki,Dallas Mavericks,All-NBA,2,2002-03,,,1610612742,Award,Kia Motors,KIANT,,Dirk Nowitzki
+911,1717,Dirk,Nowitzki,Dallas Mavericks,All-NBA,3,2003-04,,,1610612742,Award,Kia Motors,KIANT,,Dirk Nowitzki
+912,1717,Dirk,Nowitzki,Dallas Mavericks,All-NBA,1,2004-05,,,1610612742,Award,Kia Motors,KIANT,,Dirk Nowitzki
+913,1717,Dirk,Nowitzki,Dallas Mavericks,All-NBA,1,2005-06,,,1610612742,Award,Kia Motors,KIANT,,Dirk Nowitzki
+914,1717,Dirk,Nowitzki,Dallas Mavericks,All-NBA,1,2006-07,,,1610612742,Award,Kia Motors,KIANT,,Dirk Nowitzki
+915,1717,Dirk,Nowitzki,Dallas Mavericks,All-NBA,2,2007-08,,,1610612742,Award,Kia Motors,KIANT,,Dirk Nowitzki
+916,1717,Dirk,Nowitzki,Dallas Mavericks,All-NBA,1,2008-09,,,1610612742,Award,Kia Motors,KIANT,,Dirk Nowitzki
+917,1717,Dirk,Nowitzki,Dallas Mavericks,All-NBA,2,2009-10,,,1610612742,Award,Kia Motors,KIANT,,Dirk Nowitzki
+918,1717,Dirk,Nowitzki,Dallas Mavericks,All-NBA,2,2010-11,,,1610612742,Award,Kia Motors,KIANT,,Dirk Nowitzki
+919,1717,Dirk,Nowitzki,Dallas Mavericks,All-NBA,3,2011-12,,,1610612742,Award,Kia Motors,KIANT,,Dirk Nowitzki
+920,1717,Dirk,Nowitzki,Dallas Mavericks,NBA Finals Most Valuable Player,,2010-11,,,,Award,Kia Motors,KFMVP,,Dirk Nowitzki
+921,1717,Dirk,Nowitzki,Dallas Mavericks,NBA Most Valuable Player,,2006-07,,,,Award,Kia Motors,KIMVP,,Dirk Nowitzki
+922,1717,Dirk,Nowitzki,Dallas Mavericks,NBA Player of the Month,,2002-03,11/01/2002,,West,Award,Kia Motors,KIPMO,,Dirk Nowitzki
+923,1717,Dirk,Nowitzki,Dallas Mavericks,NBA Player of the Month,,2004-05,02/01/2005,,West,Award,Kia Motors,KIPMO,,Dirk Nowitzki
+924,1717,Dirk,Nowitzki,Dallas Mavericks,NBA Player of the Month,,2004-05,12/01/2004,,West,Award,Kia Motors,KIPMO,,Dirk Nowitzki
+925,1717,Dirk,Nowitzki,Dallas Mavericks,NBA Player of the Month,,2005-06,12/01/2005,,West,Award,Kia Motors,KIPMO,,Dirk Nowitzki
+926,1717,Dirk,Nowitzki,Dallas Mavericks,NBA Player of the Month,,2006-07,02/01/2007,,West,Award,Kia Motors,KIPMO,,Dirk Nowitzki
+927,1717,Dirk,Nowitzki,Dallas Mavericks,NBA Player of the Month,,2008-09,04/01/2009,,West,Award,Kia Motors,KIPMO,,Dirk Nowitzki
+928,1717,Dirk,Nowitzki,Dallas Mavericks,NBA Player of the Week,,2001-02,,2002-01-27T00:00:00,West,Award,Kia Motors,KIPWK,,Dirk Nowitzki
+929,1717,Dirk,Nowitzki,Dallas Mavericks,NBA Player of the Week,,2002-03,,2002-11-10T00:00:00,West,Award,Kia Motors,KIPWK,,Dirk Nowitzki
+930,1717,Dirk,Nowitzki,Dallas Mavericks,NBA Player of the Week,,2002-03,,2003-01-05T00:00:00,West,Award,Kia Motors,KIPWK,,Dirk Nowitzki
+931,1717,Dirk,Nowitzki,Dallas Mavericks,NBA Player of the Week,,2003-04,,2004-04-05T00:00:00,West,Award,Kia Motors,KIPWK,,Dirk Nowitzki
+932,1717,Dirk,Nowitzki,Dallas Mavericks,NBA Player of the Week,,2004-05,,2004-12-05T00:00:00,West,Award,Kia Motors,KIPWK,,Dirk Nowitzki
+933,1717,Dirk,Nowitzki,Dallas Mavericks,NBA Player of the Week,,2006-07,,2006-11-19T00:00:00,West,Award,Kia Motors,KIPWK,,Dirk Nowitzki
+934,1717,Dirk,Nowitzki,Dallas Mavericks,NBA Player of the Week,,2006-07,,2007-01-14T00:00:00,West,Award,Kia Motors,KIPWK,,Dirk Nowitzki
+935,1717,Dirk,Nowitzki,Dallas Mavericks,NBA Player of the Week,,2008-09,,2008-11-24T00:00:00,West,Award,Kia Motors,KIPWK,,Dirk Nowitzki
+936,1717,Dirk,Nowitzki,Dallas Mavericks,NBA Player of the Week,,2008-09,,2008-12-08T00:00:00,West,Award,Kia Motors,KIPWK,,Dirk Nowitzki
+937,1717,Dirk,Nowitzki,Dallas Mavericks,NBA Player of the Week,,2009-10,,2009-11-16T00:00:00,West,Award,Kia Motors,KIPWK,,Dirk Nowitzki
+938,1717,Dirk,Nowitzki,Dallas Mavericks,NBA Player of the Week,,2009-10,,2010-03-08T00:00:00,West,Award,Kia Motors,KIPWK,,Dirk Nowitzki
+939,1717,Dirk,Nowitzki,Dallas Mavericks,NBA Player of the Week,,2009-10,,2010-04-12T00:00:00,West,Award,Kia Motors,KIPWK,,Dirk Nowitzki
+940,1717,Dirk,Nowitzki,Dallas Mavericks,NBA Player of the Week,,2010-11,,2010-11-29T00:00:00,West,Award,Kia Motors,KIPWK,,Dirk Nowitzki
+941,1717,Dirk,Nowitzki,Dallas Mavericks,NBA Player of the Week,,2010-11,,2010-12-13T00:00:00,West,Award,Kia Motors,KIPWK,,Dirk Nowitzki
+942,1717,Dirk,Nowitzki,Dallas Mavericks,NBA Player of the Week,,2013-14,,2014-04-07T00:00:00,West,Award,Kia Motors,KIPWK,,Dirk Nowitzki
+943,1717,Dirk,Nowitzki,Dallas Mavericks,NBA Sporting News Most Valuable Player of the Year,,2006-07,,,,Award,Sporting News,SNMVP,,Dirk Nowitzki
+944,1717,Dirk,Nowitzki,Germany,Olympic Appearance,,2008,,,,Award,Olympic,Appearance,,Dirk Nowitzki
+945,203507,Giannis,Antetokounmpo,Milwaukee Bucks,All-Defensive Team,1,2021-22,,,East,Award,Kia Motors,KIADT,,Giannis Antetokounmpo
+946,203507,Giannis,Antetokounmpo,Milwaukee Bucks,All-Defensive Team,1,2018-19,,,East,Award,Kia Motors,KIADT,,Giannis Antetokounmpo
+947,203507,Giannis,Antetokounmpo,Milwaukee Bucks,All-Defensive Team,1,2019-20,,,East,Award,Kia Motors,KIADT,,Giannis Antetokounmpo
+948,203507,Giannis,Antetokounmpo,Milwaukee Bucks,All-Defensive Team,1,2020-21,,,East,Award,Kia Motors,KIADT,,Giannis Antetokounmpo
+949,203507,Giannis,Antetokounmpo,Milwaukee Bucks,All-NBA,2,2016-17,,,East,Award,Kia Motors,KIANT,,Giannis Antetokounmpo
+950,203507,Giannis,Antetokounmpo,Milwaukee Bucks,All-NBA,2,2017-18,,,East,Award,Kia Motors,KIANT,,Giannis Antetokounmpo
+951,203507,Giannis,Antetokounmpo,Milwaukee Bucks,All-NBA,1,2018-19,,,East,Award,Kia Motors,KIANT,,Giannis Antetokounmpo
+952,203507,Giannis,Antetokounmpo,Milwaukee Bucks,All-NBA,1,2019-20,,,East,Award,Kia Motors,KIANT,,Giannis Antetokounmpo
+953,203507,Giannis,Antetokounmpo,Milwaukee Bucks,All-NBA,1,2020-21,,,East,Award,Kia Motors,KIANT,,Giannis Antetokounmpo
+954,203507,Giannis,Antetokounmpo,Milwaukee Bucks,All-Rookie Team,2,2013-14,,,1610612749,Award,Kia Motors,KIART,,Giannis Antetokounmpo
+955,203507,Giannis,Antetokounmpo,Milwaukee Bucks,NBA Defensive Player of the Year,,2019-20,,,East,Award,Kia Motors,KDPYR,,Giannis Antetokounmpo
+956,203507,Giannis,Antetokounmpo,Milwaukee Bucks,NBA Most Improved Player,(null),2016-17,,,East,Award,Kia Motors,KIMIP,(null),Giannis Antetokounmpo
+957,203507,Giannis,Antetokounmpo,Milwaukee Bucks,NBA Most Valuable Player,,2018-19,,,East,Award,Kia Motors,KIMVP,,Giannis Antetokounmpo
+958,203507,Giannis,Antetokounmpo,Milwaukee Bucks,NBA Most Valuable Player,,2019-20,,,East,Award,Kia Motors,KIMVP,,Giannis Antetokounmpo
+959,203507,Giannis,Antetokounmpo,Milwaukee Bucks,NBA Player of the Month,,2016-17,3/1/2017,,East,Award,Kia Motors,KIPMO,,Giannis Antetokounmpo
+960,203507,Giannis,Antetokounmpo,Milwaukee Bucks,NBA Player of the Month,,2018-19,02/01/2019,,East,Award,Kia Motors,KIPMO,,Giannis Antetokounmpo
+961,203507,Giannis,Antetokounmpo,Milwaukee Bucks,NBA Player of the Month,,2018-19,03/01/2019,,East,Award,Kia Motors,KIPMO,,Giannis Antetokounmpo
+962,203507,Giannis,Antetokounmpo,Milwaukee Bucks,NBA Player of the Month,,2018-19,10/01/2018,,East,Award,Kia Motors,KIPMO,,Giannis Antetokounmpo
+963,203507,Giannis,Antetokounmpo,Milwaukee Bucks,NBA Player of the Month,,2018-19,12/01/2018,,East,Award,Kia Motors,KIPMO,,Giannis Antetokounmpo
+964,203507,Giannis,Antetokounmpo,Milwaukee Bucks,NBA Player of the Month,,2019-20,1/1/2020,,East,Award,Kia Motors,KIPMO,,Giannis Antetokounmpo
+965,203507,Giannis,Antetokounmpo,Milwaukee Bucks,NBA Player of the Month,,2019-20,10/1/2019,,East,Award,Kia Motors,KIPMO,,Giannis Antetokounmpo
+966,203507,Giannis,Antetokounmpo,Milwaukee Bucks,NBA Player of the Month,,2019-20,12/1/2019,,East,Award,Kia Motors,KIPMO,,Giannis Antetokounmpo
+967,203507,Giannis,Antetokounmpo,Milwaukee Bucks,NBA Player of the Week,,2014-15,,2015-02-02T00:00:00,East,Award,Kia Motors,KIPWK,,Giannis Antetokounmpo
+968,203507,Giannis,Antetokounmpo,Milwaukee Bucks,NBA Player of the Week,,2016-17,,2016-12-05T00:00:00,East,Award,Kia Motors,KIPWK,,Giannis Antetokounmpo
+969,203507,Giannis,Antetokounmpo,Milwaukee Bucks,NBA Player of the Week,,2017-18,,2017-10-16T00:00:00,East,Award,Kia Motors,KIPWK,,Giannis Antetokounmpo
+970,203507,Giannis,Antetokounmpo,Milwaukee Bucks,NBA Player of the Week,,2018-19,,2018-10-22T00:00:00,East,Award,Kia Motors,KIPWK,,Giannis Antetokounmpo
+971,203507,Giannis,Antetokounmpo,Milwaukee Bucks,NBA Player of the Week,,2018-19,,2018-11-19T00:00:00,East,Award,Kia Motors,KIPWK,,Giannis Antetokounmpo
+972,203507,Giannis,Antetokounmpo,Milwaukee Bucks,NBA Player of the Week,,2018-19,,2018-12-17T00:00:00,East,Award,Kia Motors,KIPWK,,Giannis Antetokounmpo
+973,203507,Giannis,Antetokounmpo,Milwaukee Bucks,NBA Player of the Week,,2018-19,,2018-12-24T00:00:00,East,Award,Kia Motors,KIPWK,,Giannis Antetokounmpo
+974,203507,Giannis,Antetokounmpo,Milwaukee Bucks,NBA Player of the Week,,2018-19,,2019-01-21T00:00:00,East,Award,Kia Motors,KIPWK,,Giannis Antetokounmpo
+975,203507,Giannis,Antetokounmpo,Milwaukee Bucks,NBA Player of the Week,,2018-19,,2019-01-28T00:00:00,East,Award,Kia Motors,KIPWK,,Giannis Antetokounmpo
+976,203507,Giannis,Antetokounmpo,Milwaukee Bucks,NBA Player of the Week,,2019-20,,2019-10-28T00:00:00,East,Award,Kia Motors,KIPWK,,Giannis Antetokounmpo
+977,203507,Giannis,Antetokounmpo,Milwaukee Bucks,NBA Player of the Week,,2019-20,,2019-11-25T00:00:00,East,Award,Kia Motors,KIPWK,,Giannis Antetokounmpo
+978,203507,Giannis,Antetokounmpo,Milwaukee Bucks,NBA Player of the Week,,2019-20,,2019-12-30T00:00:00,East,Award,Kia Motors,KIPWK,,Giannis Antetokounmpo
+979,203507,Giannis,Antetokounmpo,Milwaukee Bucks,NBA Player of the Week,,2019-20,,2020-02-24T00:00:00,East,Award,Kia Motors,KIPWK,,Giannis Antetokounmpo
+980,203507,Giannis,Antetokounmpo,Milwaukee Bucks,All-Defensive Team,2,2016-17,,,East,Award,Kia Motors,KIADT,,Giannis Antetokounmpo
+981,203507,Giannis,Antetokounmpo,Milwaukee Bucks,NBA Finals Most Valuable Player,,2020-21,,,,Award,Kia Motors,KFMVP,,Giannis Antetokounmpo
+982,203507,Giannis,Antetokounmpo,Milwaukee Bucks,All-NBA,1,2021-22,,,East,Award,Kia Motors,KIANT,,Giannis Antetokounmpo
+983,203507,Giannis,Antetokounmpo,Milwaukee Bucks,All-NBA,1,2022-23,,,East,Award,Kia Motors,KIANT,,Giannis Antetokounmpo
+984,78497,Jerry,West,Los Angeles Lakers,All-Defensive Team,2,1968-69,,,1610612747,Award,Kia Motors,KIADT,,Jerry West
+985,78497,Jerry,West,Los Angeles Lakers,All-Defensive Team,1,1969-70,,,1610612747,Award,Kia Motors,KIADT,,Jerry West
+986,78497,Jerry,West,Los Angeles Lakers,All-Defensive Team,1,1970-71,,,1610612747,Award,Kia Motors,KIADT,,Jerry West
+987,78497,Jerry,West,Los Angeles Lakers,All-Defensive Team,1,1971-72,,,1610612747,Award,Kia Motors,KIADT,,Jerry West
+988,78497,Jerry,West,Los Angeles Lakers,All-Defensive Team,1,1972-73,,,1610612747,Award,Kia Motors,KIADT,,Jerry West
+989,78497,Jerry,West,Los Angeles Lakers,All-NBA,1,1961-62,,,1610612747,Award,Kia Motors,KIANT,,Jerry West
+990,78497,Jerry,West,Los Angeles Lakers,All-NBA,1,1962-63,,,1610612747,Award,Kia Motors,KIANT,,Jerry West
+991,78497,Jerry,West,Los Angeles Lakers,All-NBA,1,1963-64,,,1610612747,Award,Kia Motors,KIANT,,Jerry West
+992,78497,Jerry,West,Los Angeles Lakers,All-NBA,1,1964-65,,,1610612747,Award,Kia Motors,KIANT,,Jerry West
+993,78497,Jerry,West,Los Angeles Lakers,All-NBA,1,1965-66,,,1610612747,Award,Kia Motors,KIANT,,Jerry West
+994,78497,Jerry,West,Los Angeles Lakers,All-NBA,1,1966-67,,,1610612747,Award,Kia Motors,KIANT,,Jerry West
+995,78497,Jerry,West,Los Angeles Lakers,All-NBA,2,1967-68,,,1610612747,Award,Kia Motors,KIANT,,Jerry West
+996,78497,Jerry,West,Los Angeles Lakers,All-NBA,2,1968-69,,,1610612747,Award,Kia Motors,KIANT,,Jerry West
+997,78497,Jerry,West,Los Angeles Lakers,All-NBA,1,1969-70,,,1610612747,Award,Kia Motors,KIANT,,Jerry West
+998,78497,Jerry,West,Los Angeles Lakers,All-NBA,1,1970-71,,,1610612747,Award,Kia Motors,KIANT,,Jerry West
+999,78497,Jerry,West,Los Angeles Lakers,All-NBA,1,1971-72,,,1610612747,Award,Kia Motors,KIANT,,Jerry West
+1000,78497,Jerry,West,Los Angeles Lakers,All-NBA,1,1972-73,,,1610612747,Award,Kia Motors,KIANT,,Jerry West
+1001,78497,Jerry,West,,Hall of Fame Inductee,,1980,,,,Award,Hall of Fame,,,Jerry West
+1002,78497,Jerry,West,Los Angeles Lakers,NBA All-Star Most Valuable Player,,1971-72,,,,Award,Kia Motors,KAMVP,,Jerry West
+1003,78497,Jerry,West,Los Angeles Lakers,NBA Finals Most Valuable Player,,1968-69,,,,Award,Kia Motors,KFMVP,,Jerry West
+1004,78497,Jerry,West,USA,Olympic Gold Medal,,1960,,,,Award,Olympic,Gold,,Jerry West
