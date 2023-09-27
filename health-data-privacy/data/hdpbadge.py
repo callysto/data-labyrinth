@@ -3,20 +3,23 @@ def get_badge(name):
     Returns a badge image with the name of the person who completed the labyrinth.
     """
 
+    import requests
     line1_text = name
     line2_text = 'completed the'
-    line3_text = 'Health Data Labyrinth'
+    line3_text = 'Health Data Privacy'
+    line4_text = 'Data Labyrinth'
     font_size = 46
 
-    #logo = '../resources/callysto-logo.jpg'
-    logo_url = 'https://github.com/callysto/data-labyrinth/blob/main/resources/callysto-logo.jpg?raw=true'
-    import requests
-    from io import BytesIO
-    logo = BytesIO(requests.get(logo_url, allow_redirects=True).content)
+    try:
+        logo = '../resources/callysto-logo.jpg'
+    except:
+        from io import BytesIO
+        logo_url = 'https://github.com/callysto/data-labyrinth/blob/main/resources/callysto-logo.jpg?raw=true'
+        logo = BytesIO(requests.get(logo_url, allow_redirects=True).content)
 
     from PIL import Image, ImageDraw, ImageFont
 
-    width, height = 400, 400
+    width, height = 400, 450
     background_color = (255, 255, 255)
     image = Image.new("RGB", (width, height), background_color)
     draw = ImageDraw.Draw(image)
@@ -26,7 +29,7 @@ def get_badge(name):
     draw.line((10, 10, 10, 440), fill=(0, 0, 0), width=3)
     draw.line((390, 10, 390, 440), fill=(0, 0, 0), width=3)
     draw.line((10, 440, 390, 440), fill=(0, 0, 0), width=3)
-    
+
     # get the image
     image_to_embed = Image.open(logo).resize((200, 200))
     image.paste(image_to_embed, (100, 20+font_size*2+20))
@@ -41,13 +44,17 @@ def get_badge(name):
     line1_size = draw.textlength(line1_text, font=font)
     line2_size = draw.textlength(line2_text, font=font)
     line3_size = draw.textlength(line3_text, font=font)
+    line4_size = draw.textlength(line4_text, font=font)
     line1_position = ((width - line1_size) // 2, 20)
     line2_position = ((width - line2_size) // 2, 20+font_size)
     line3_position = ((width - line3_size) // 2, 20+font_size*2+10+200)
+    line4_position = ((width - line4_size) // 2, 20+font_size*3+10+200)
 
     # Draw the text on the image
     draw.text(line1_position, line1_text, fill=(111, 74, 158), font=font)
     draw.text(line2_position, line2_text, fill=(111, 74, 158), font=font)
     draw.text(line3_position, line3_text, fill=(142, 162, 161), font=font)
+    draw.text(line4_position, line4_text, fill=(142, 162, 161), font=font)
 
+    #return(image.resize((200, 225)))
     return(image)
