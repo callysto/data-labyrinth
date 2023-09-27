@@ -1,23 +1,13 @@
-def is_valid_season_type(season_type):
+def get_data(season, season_type):
     """
-    Check if the season type is 'Playoffs'.
-
-    Args:
-        season_type (str): The season type to be checked.
+    Return the data.
 
     Returns:
-        bool: True if the season type is 'Playoffs', False otherwise.
+        list: The data.
     """
-    return season_type == 'Playoffs'
-
-def is_valid_season(season):
-    """
-    Check if the season is '1997-98'.
-
-    Args:
-        season (str): The season to be checked.
-
-    Returns:
-        bool: True if the season is '1997-98', False otherwise.
-    """
-    return season == '1997-98'
+    if season == '1997-98' and season_type == 'Playoffs':
+        import pandas as pd
+        data = pd.read_csv('data/playoffs_1998.csv')
+        return data
+    else:
+        return "Check that the season is '1997-98' and the season type is 'Playoffs'"
