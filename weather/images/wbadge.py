@@ -2,11 +2,11 @@ def get_badge(name):
     """
     Returns a badge image with the name of the person who completed the labyrinth.
     """
-
     import requests
+
     line1_text = name
     line2_text = 'completed the'
-    line3_text = 'Music Data Labyrinth'
+    line3_text = 'Weather API'
     line4_text = 'Data Labyrinth'
     font_size = 46
 
