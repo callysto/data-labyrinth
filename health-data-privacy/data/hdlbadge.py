@@ -21,6 +21,12 @@ def get_badge(name):
     image = Image.new("RGB", (width, height), background_color)
     draw = ImageDraw.Draw(image)
 
+    # draw the border
+    draw.line((10, 10, 390, 10), fill=(0, 0, 0), width=3)
+    draw.line((10, 10, 10, 440), fill=(0, 0, 0), width=3)
+    draw.line((390, 10, 390, 440), fill=(0, 0, 0), width=3)
+    draw.line((10, 440, 390, 440), fill=(0, 0, 0), width=3)
+    
     # get the image
     image_to_embed = Image.open(logo).resize((200, 200))
     image.paste(image_to_embed, (100, 20+font_size*2+20))

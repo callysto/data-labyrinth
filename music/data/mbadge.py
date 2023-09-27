@@ -8,11 +8,13 @@ def get_badge(name):
     line3_text = 'Music Data Labyrinth'
     font_size = 46
 
-    #logo = '../resources/callysto-logo.jpg'
-    logo_url = 'https://github.com/callysto/data-labyrinth/blob/main/resources/callysto-logo.jpg?raw=true'
-    import requests
-    from io import BytesIO
-    logo = BytesIO(requests.get(logo_url, allow_redirects=True).content)
+    try:
+        logo = '../resources/callysto-logo.jpg'
+    except:
+        import requests
+        from io import BytesIO
+        logo_url = 'https://github.com/callysto/data-labyrinth/blob/main/resources/callysto-logo.jpg?raw=true'
+        logo = BytesIO(requests.get(logo_url, allow_redirects=True).content)
 
     from PIL import Image, ImageDraw, ImageFont
 
@@ -20,6 +22,12 @@ def get_badge(name):
     background_color = (255, 255, 255)
     image = Image.new("RGB", (width, height), background_color)
     draw = ImageDraw.Draw(image)
+
+    # draw the border
+    draw.line((10, 10, 390, 10), fill=(0, 0, 0), width=3)
+    draw.line((10, 10, 10, 440), fill=(0, 0, 0), width=3)
+    draw.line((390, 10, 390, 440), fill=(0, 0, 0), width=3)
+    draw.line((10, 440, 390, 440), fill=(0, 0, 0), width=3)
 
     # get the image
     image_to_embed = Image.open(logo).resize((200, 200))
