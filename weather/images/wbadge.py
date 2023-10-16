@@ -55,6 +55,8 @@ def get_badge(name):
     draw.text(line2_position, line2_text, fill=(111, 74, 158), font=font)
     draw.text(line3_position, line3_text, fill=(142, 162, 161), font=font)
     draw.text(line4_position, line4_text, fill=(142, 162, 161), font=font)
+    # add hashtag
+    draw.text((330, 20+font_size*4+12+200), '#callysto', fill=(242, 103, 34), font=ImageFont.truetype(io.BytesIO(r.content), size=14))
 
     #return(image.resize((200, 225)))
     return(image)
