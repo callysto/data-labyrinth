@@ -6,12 +6,12 @@ def get_badge(name):
 
     line1_text = name
     line2_text = 'completed the'
-    line3_text = 'Basketball'
-    line4_text = 'Data Labyrinth'
+    line3_text = 'Data Dunkers'
+    line4_text = 'Basketball Labyrinth'
     font_size = 46
 
     try:
-        logo = '../resources/callysto-logo.jpg'
+        logo = 'images/bball-logo.jpg'
     except:
         from io import BytesIO
         logo_url = 'https://github.com/callysto/data-labyrinth/blob/main/resources/callysto-logo.jpg?raw=true'
@@ -20,19 +20,19 @@ def get_badge(name):
     from PIL import Image, ImageDraw, ImageFont
 
     width, height = 400, 450
-    background_color = (255, 255, 255)
-    image = Image.new("RGB", (width, height), background_color)
+    background_color = (37, 38, 40)
+    image = Image.new('RGB', (width, height), background_color)
     draw = ImageDraw.Draw(image)
 
     # draw the border
-    draw.line((10, 10, 390, 10), fill=(0, 0, 0), width=3)
-    draw.line((10, 10, 10, 440), fill=(0, 0, 0), width=3)
-    draw.line((390, 10, 390, 440), fill=(0, 0, 0), width=3)
-    draw.line((10, 440, 390, 440), fill=(0, 0, 0), width=3)
+    draw.line((10, 10, 390, 10), fill=(242, 103, 34), width=3)
+    draw.line((10, 10, 10, 440), fill=(242, 103, 34), width=3)
+    draw.line((390, 10, 390, 440), fill=(242, 103, 34), width=3)
+    draw.line((10, 440, 390, 440), fill=(242, 103, 34), width=3)
 
     # get the image
-    image_to_embed = Image.open(logo).resize((200, 200))
-    image.paste(image_to_embed, (100, 20+font_size*2+20))
+    image_to_embed = Image.open(logo).resize((374, 150))
+    image.paste(image_to_embed, (13, 20+font_size*2+20))
 
     # get the font
     import requests
@@ -47,8 +47,8 @@ def get_badge(name):
     line4_size = draw.textlength(line4_text, font=font)
     line1_position = ((width - line1_size) // 2, 20)
     line2_position = ((width - line2_size) // 2, 20+font_size)
-    line3_position = ((width - line3_size) // 2, 20+font_size*2+10+200)
-    line4_position = ((width - line4_size) // 2, 20+font_size*3+10+200)
+    line3_position = ((width - line3_size) // 2, 20+font_size*2+10+150)
+    line4_position = ((width - line4_size) // 2, 20+font_size*3+10+150)
 
     # Draw the text on the image
     draw.text(line1_position, line1_text, fill=(111, 74, 158), font=font)
@@ -57,6 +57,7 @@ def get_badge(name):
     draw.text(line4_position, line4_text, fill=(142, 162, 161), font=font)
     # add hashtag
     draw.text((330, 20+font_size*4+12+200), '#callysto', fill=(242, 103, 34), font=ImageFont.truetype(io.BytesIO(r.content), size=14))
+    draw.text((21, 20+font_size*4+12+200), '#datadunkers', fill=(242, 103, 34), font=ImageFont.truetype(io.BytesIO(r.content), size=14))
 
     #return(image.resize((200, 225)))
     return(image)
