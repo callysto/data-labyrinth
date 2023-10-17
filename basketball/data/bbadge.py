@@ -8,10 +8,10 @@ def get_badge(name):
     line2_text = 'completed the'
     line3_text = 'Data Dunkers'
     line4_text = 'Basketball Labyrinth'
-    font_size = 46
+    font_size = 44
 
     try:
-        logo = 'images/bball-logo.jpg'
+        logo = 'images/bball-logo-black.jpg'
     except:
         from io import BytesIO
         logo_url = 'https://github.com/callysto/data-labyrinth/blob/main/basketball/images/bball-logo.jpg?raw=true'
@@ -20,7 +20,7 @@ def get_badge(name):
     from PIL import Image, ImageDraw, ImageFont
 
     width, height = 400, 450
-    background_color = (37, 38, 40)
+    background_color = (0, 0, 0)
     image = Image.new('RGB', (width, height), background_color)
     draw = ImageDraw.Draw(image)
 
@@ -53,11 +53,11 @@ def get_badge(name):
     # Draw the text on the image
     draw.text(line1_position, line1_text, fill=(111, 74, 158), font=font)
     draw.text(line2_position, line2_text, fill=(111, 74, 158), font=font)
-    draw.text(line3_position, line3_text, fill=(142, 162, 161), font=font)
+    draw.text(line3_position, line3_text, fill=(200, 168, 208), font=font)
     draw.text(line4_position, line4_text, fill=(142, 162, 161), font=font)
-    # add hashtag
-    draw.text((330, 20+font_size*4+12+200), '#callysto', fill=(242, 103, 34), font=ImageFont.truetype(io.BytesIO(r.content), size=14))
-    draw.text((21, 20+font_size*4+12+200), '#datadunkers', fill=(242, 103, 34), font=ImageFont.truetype(io.BytesIO(r.content), size=14))
+    # add hashtags
+    draw.text((300, 20+font_size*4+12+180), '#callysto', fill=(242, 103, 34), font=ImageFont.truetype(io.BytesIO(r.content), size=20))
+    draw.text((21, 20+font_size*4+12+180), '#datadunkers', fill=(242, 103, 34), font=ImageFont.truetype(io.BytesIO(r.content), size=20))
 
     #return(image.resize((200, 225)))
     return(image)
