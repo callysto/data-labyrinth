@@ -14,7 +14,7 @@ def get_badge(name):
         logo = 'images/bball-logo.jpg'
     except:
         from io import BytesIO
-        logo_url = 'https://github.com/callysto/data-labyrinth/blob/main/resources/callysto-logo.jpg?raw=true'
+        logo_url = 'https://github.com/callysto/data-labyrinth/blob/main/basketball/images/bball-logo.jpg?raw=true'
         logo = BytesIO(requests.get(logo_url, allow_redirects=True).content)
 
     from PIL import Image, ImageDraw, ImageFont
