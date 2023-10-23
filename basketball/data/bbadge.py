@@ -3,6 +3,10 @@ def get_badge(name):
     Returns a badge image with the name of the person who completed the labyrinth.
     """
     import requests
+    from PIL import Image, ImageDraw, ImageFont
+    import datetime
+    now = datetime.datetime.now()
+    date = now.strftime("%Y-%m-%d")
 
     line1_text = name
     line2_text = 'completed the'
@@ -11,13 +15,11 @@ def get_badge(name):
     font_size = 44
 
     try:
-        logo = 'images/bball-logo-black.jpg'
+        logo = 'images/bball-logo.jpg'
     except:
         from io import BytesIO
         logo_url = 'https://github.com/callysto/data-labyrinth/blob/main/basketball/images/bball-logo.jpg?raw=true'
         logo = BytesIO(requests.get(logo_url, allow_redirects=True).content)
-
-    from PIL import Image, ImageDraw, ImageFont
 
     width, height = 400, 450
     background_color = (0, 0, 0)
@@ -55,9 +57,11 @@ def get_badge(name):
     draw.text(line2_position, line2_text, fill=(111, 74, 158), font=font)
     draw.text(line3_position, line3_text, fill=(200, 168, 208), font=font)
     draw.text(line4_position, line4_text, fill=(142, 162, 161), font=font)
+    # add date
+    draw.text((21, 20+font_size*4+12+180), date, fill=(242, 103, 34), font=ImageFont.truetype(io.BytesIO(r.content), size=20))
     # add hashtags
+    draw.text((150, 20+font_size*4+12+180), '#datadunkers', fill=(242, 103, 34), font=ImageFont.truetype(io.BytesIO(r.content), size=20))
     draw.text((300, 20+font_size*4+12+180), '#callysto', fill=(242, 103, 34), font=ImageFont.truetype(io.BytesIO(r.content), size=20))
-    draw.text((21, 20+font_size*4+12+180), '#datadunkers', fill=(242, 103, 34), font=ImageFont.truetype(io.BytesIO(r.content), size=20))
-
+    
     #return(image.resize((200, 225)))
     return(image)
