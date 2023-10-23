@@ -3,7 +3,10 @@ def get_badge(name):
     Returns a badge image with the name of the person who completed the labyrinth.
     """
     import requests
-
+    from PIL import Image, ImageDraw, ImageFont
+    import datetime
+    now = datetime.datetime.now()
+    date = now.strftime("%Y-%m-%d")
     line1_text = name
     line2_text = 'completed the'
     line3_text = 'Weather API'
@@ -55,8 +58,10 @@ def get_badge(name):
     draw.text(line2_position, line2_text, fill=(111, 74, 158), font=font)
     draw.text(line3_position, line3_text, fill=(142, 162, 161), font=font)
     draw.text(line4_position, line4_text, fill=(142, 162, 161), font=font)
+    # add date
+    draw.text((21, 20+font_size*4+12+200+2), date, fill=(242, 103, 34), font=ImageFont.truetype(io.BytesIO(r.content), size=14))
     # add hashtag
-    draw.text((330, 20+font_size*4+12+200), '#callysto', fill=(242, 103, 34), font=ImageFont.truetype(io.BytesIO(r.content), size=14))
+    draw.text((330, 20+font_size*4+12+200+2), '#callysto', fill=(242, 103, 34), font=ImageFont.truetype(io.BytesIO(r.content), size=14))
 
     #return(image.resize((200, 225)))
     return(image)

@@ -4,6 +4,10 @@ def get_badge(name):
     """
 
     import requests
+    from PIL import Image, ImageDraw, ImageFont
+    import datetime
+    now = datetime.datetime.now()
+    date = now.strftime("%Y-%m-%d")
     line1_text = name
     line2_text = 'completed the'
     line3_text = 'Health Data Privacy'
@@ -17,11 +21,9 @@ def get_badge(name):
         logo_url = 'https://github.com/callysto/data-labyrinth/blob/main/resources/callysto-logo.jpg?raw=true'
         logo = BytesIO(requests.get(logo_url, allow_redirects=True).content)
 
-    from PIL import Image, ImageDraw, ImageFont
-
     width, height = 400, 450
     background_color = (255, 255, 255)
-    image = Image.new("RGB", (width, height), background_color)
+    image = Image.new('RGB', (width, height), background_color)
     draw = ImageDraw.Draw(image)
 
     # draw the border
@@ -50,11 +52,13 @@ def get_badge(name):
     line3_position = ((width - line3_size) // 2, 20+font_size*2+10+200)
     line4_position = ((width - line4_size) // 2, 20+font_size*3+10+200)
 
-    # Draw the text on the image
+    # draw the text on the image
     draw.text(line1_position, line1_text, fill=(111, 74, 158), font=font)
     draw.text(line2_position, line2_text, fill=(111, 74, 158), font=font)
     draw.text(line3_position, line3_text, fill=(142, 162, 161), font=font)
     draw.text(line4_position, line4_text, fill=(142, 162, 161), font=font)
+    # add date
+    draw.text((21, 20+font_size*4+12+200), date, fill=(242, 103, 34), font=ImageFont.truetype(io.BytesIO(r.content), size=14))
     # add hashtag
     draw.text((330, 20+font_size*4+12+200), '#callysto', fill=(242, 103, 34), font=ImageFont.truetype(io.BytesIO(r.content), size=14))
 
