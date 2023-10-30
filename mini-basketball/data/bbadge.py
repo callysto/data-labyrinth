@@ -11,7 +11,7 @@ def get_badge(name):
     line1_text = name
     line2_text = 'completed the'
     line3_text = 'Data Dunkers'
-    line4_text = 'Basketball Labyrinth'
+    line4_text = 'Mini Labyrinth'
     font_size = 44
 
     try:
