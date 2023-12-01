@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Mini Basketball Data Labyrinth</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/brython/3.9.0/brython.js"></script>
+  </head>
+  <body>
+    <h1>Mini Basketball Data Labyrinth</h1>
+    <div id="Welcome">
+      Welcome to the <a href="https://ps43foundation.github.io/data-dunkers">Data Dunkers</a> mini basketball Labyrinth. This uses <a href="https://www.wnba.com">WNBA</a> data to navigate through data science challenges.
+      <hr>
+    </div>
+    <div id="instructions">
+      You will receive a key word to initiate this labyrinth. Type your key between the `''` in the code cell below (e.g. `key = 'abc'`) and then click the `▶Run` button to get started.
+    </div>
+    <div id="code" onload="brython()"><script type="text/python">
+      import browser
+      browser.alert('Hello World!')
+    </script></div>
+    <div id="output"></div>
+    <div id="buttons" style="text-align: right;"></div>
+    <script src="script.js"></script>
+  </body>
+</html>
