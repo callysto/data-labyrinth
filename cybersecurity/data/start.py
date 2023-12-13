@@ -3,6 +3,11 @@ def start(key):
     Sets up the labyrinth API.
     """
     import requests
+    import pandas as pd
+    import gzip
+    import io
+    import json
+    import plotly.express as px
     from IPython import get_ipython
     def check(query):
         try:
