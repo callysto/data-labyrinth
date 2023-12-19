@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Testing storage of data in browser</title>
+  </head>
+  <body>
+    <h1>Testing storage of data in browser</h1>
+    <div id="text"></div>
+    <div id="code"></div>
+    <div id="buttons">
+      <button onclick="document.getElementById('text').innerHTML = sessionStorage.getItem('question_number');">Get question_number item</button>
+      <button onclick="sessionStorage.clear();">Clear storage</button>
+      <button onclick="sessionStorage.removeItem('question_number');">Remove question_number item</button>
+      <button onclick="sessionStorage.setItem('question_number', '1');">Set question_number item</button>
+      <button onclick="document.getElementById('text').innerHTML = sessionStorage.length;">Get length of storage</button>
+    </div>
+    <script>
+      if (typeof(Storage) == "undefined") {  // Check if browser supports local storage
+        document.getElementById("result").innerHTML = "Sorry, your browser does not support Web Storage. Please use a more modern browser.";
+      } else {
+        if (sessionStorage.getItem("testing") == null) {
+          document.getElementById("text").innerHTML = "No data stored in session storage";
+        } else {
+          document.getElementById("text").innerHTML = sessionStorage.getItem("question_number");
+        }
+        // Store
+        sessionStorage.setItem("question_number", "This is a test");
+        // Retrieve
+        //document.getElementById("result").innerHTML = sessionStorage.getItem("testing");
+        // length
+        //let l = sessionStorage.length;
+        //alert("There are " + l + " items in the session storage");
+
+      }
+      </script>
+  </body>
+</html>
