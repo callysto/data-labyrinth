@@ -7,5 +7,6 @@ function addButtons() {
   buttonsDiv.appendChild(runButton);
 }
 
-window.onload = function() {brython();}
 addButtons();
+
+//window.onload = function() {brython();}
