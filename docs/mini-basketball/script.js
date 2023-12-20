@@ -9,4 +9,4 @@ function addButtons() {
 
 addButtons();
 
-//window.onload = function() {brython();}
+ // note: use https://pyscript.net
