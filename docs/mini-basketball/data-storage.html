@@ -19,13 +19,13 @@
       if (typeof(Storage) == "undefined") {  // Check if browser supports local storage
         document.getElementById("result").innerHTML = "Sorry, your browser does not support Web Storage. Please use a more modern browser.";
       } else {
-        if (sessionStorage.getItem("testing") == null) {
+        if (sessionStorage.getItem("question_number") == null) {
           document.getElementById("text").innerHTML = "No data stored in session storage";
         } else {
           document.getElementById("text").innerHTML = sessionStorage.getItem("question_number");
         }
         // Store
-        sessionStorage.setItem("question_number", "This is a test");
+        sessionStorage.setItem("question_number", 777);
         // Retrieve
         //document.getElementById("result").innerHTML = sessionStorage.getItem("testing");
         // length
