@@ -26,10 +26,12 @@
 
         <!-- will be set via PyDom -->
         <title id="header-title"></title>
-        <link rel="icon" type="image/png" href="./assets/favicon.png" />
     </head>
 
     <body>
+        <py-config>
+            packages = ["pandas","plotly"]
+        </py-config>
         <dialog id="loading">
             <h1>Loading...</h1>
         </dialog>
@@ -37,8 +39,7 @@
         <nav class="navbar" style="background-color: #000000">
             <div class="app-header">
                 <a href="/">
-                    <img src="./assets/logo.png" class="logo" />
-                </a>
+
 
                 <!-- will be set via PyDom -->
                 <a class="title" id="page-title" href="" style="color: #f0ab3c"></a>
@@ -74,7 +75,8 @@
         </div>
 
         <section class="pyscript">
-            <script type="py" src="./main.py" config="./pyscript.toml"></script>
+            <!-- <script type="py" src="./main.py" config="./pyscript.toml"></script> -->
+            <script type="py" src="./main.py"></script>
         </section>
 
     </body>
