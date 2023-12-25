@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Data Labyrinth</title>
+    <link rel="stylesheet" href="https://pyscript.net/releases/2023.11.1/core.css" />
+    <script type="module" src="https://pyscript.net/releases/2023.11.1/core.js"></script>
+
+  </head>
+  <body>
+    <py-config>
+      packages = ["pandas","plotly"]
+      plugins = ["https://pyscript.net/latest/plugins/python/py_tutor.py"]
+    </py-config>
+    <h1>Data Labyrinth</h1>
+    <div id="buttonsDiv">
+      <button type="submit" id="runButton" py-click="runCocde">▶Run</button>
+      <button onclick="runPython()">▶Run</button>
+      <button onclick="checkAnswer()">Check</button>
+    </div>
+    <div i="questionNumber"></div>
+    <div id="textDiv"></div>
+    <div id="codeDiv">
+      <textarea id="codeArea" name="codeArea" rows="4" cols="120">import pandas as pd</textarea>
+    </div>
+    <div id="outputDiv">testing</div>
+    <div id="answerDiv"></div>
+    <div style="margin-right: 3rem">
+      <py-repl id="my-repl" auto-generate="true">print('hello')</py-repl>
+    </div>
+
+    <div id="testingPythonCode">
+      <py-code>
+        from pyscript import window, document
+
+
+        my_element = document.querySelector("#my-id")
+        my_element.innerText = window.location.hostname
+
+        import pandas as pd
+        import plotly.express as px
+        df = pd.read_csv('https://raw.githubusercontent.com/plotly/datasets/master/2014_usa_states.csv')
+        fig = px.scatter(df, x="Postal", y="Population", color="State", hover_name="State", size="Population")
+        fig.show()
+      </py-code>
+    </div>
+    
+    
+    <script>
+      function getQuestionNumber() {
+        return localStorage.getItem("question_number");
+      }
+
+      function setQuestionNumber(questionNumber) {
+        localStorage.setItem("question_number", questionNumber);
+      }
+
+
+      function runPython() {
+        // Get the code from the code div
+        let code = document.getElementById("codeArea").value;
+        // use pyscript to run the code
+        //alert(code);
+        let output = pyscript.run(code);
+        // Display the output
+        document.getElementById("outputDiv").innerHTML = output;
+      }
+      if (typeof(Storage) == "undefined") {  // Check if browser supports local storage
+        document.getElementById("result").innerHTML = "Sorry, your browser does not support Web Storage. Please use a more modern browser.";
+      } else {
+        if (localStorage.getItem("question_number") == null) {
+          //document.getElementById("questionNumber").innerHTML = "Question 0";
+        } else {
+          //document.getElementById("questionNumber").innerHTML = localStorage.getItem("question_number");
+        }
+
+
+      }
+      </script>
+  </body>
+</html>
