@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Pyscript Labyrinth</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+
+    <!-- PyScript CSS -->
+    <link rel="stylesheet" href="https://pyscript.net/releases/2023.12.1/core.css">
+
+    <!-- This script tag bootstraps PyScript -->
+    <script type="module" src="https://pyscript.net/releases/2023.12.1/core.js"></script>
+<py-config type="toml">
+packages = [
+    "pandas",
+    "plotly"
+]
+</py-config>
+</head>
+<body>
+    <table>
+        <tr>
+            <td><div id="question_number"></div></td>
+            <td><td><div id="markdown"></div></td>
+        </tr>
+    </table>
+    <hr>
+    <textarea id="answer_box" cols="80", rows="1" placeholder="input answer here"></textarea>
+    <button id="check_button">Check</button>
+    <hr>
+    <button id="run_button">▶Run</button>
+    <button id="clear_button">Clear Output</button>
+    <button id="clear_errors_button">Clear Errors</button>
+    <hr>
+    <textarea id="code_box" cols="80" rows="6"></textarea>
+    <div id="output"></div>
+
+<!-- <script type="py" config="./pyscript.toml" target="output"> -->
+<script type="py" target="output">
+from pyscript import when, window, document, display
+
+@when('click', '#run_button')
+def run_code(event):
+    code = document.getElementById('code_box').value
+    #eval(code)
+    exec(code)
+
+@when('click', '#clear_button')
+def clear_output(event):
+    document.getElementById('output').innerText = ''
+
+@when('click', '#clear_errors_button')
+def clear_errors(event):
+    errorsDivs = document.getElementsByClassName('py-error')
+    for ed in errorsDivs:
+        ed.style.display = "none"
+    
+@when('click', '#check_button')
+def check_answer(event):
+    answer = document.getElementById('answer_box').value
+    display(answer)
+    new_code = "display('hello world')"
+    document.getElementById('code_box').value = new_code
+
+#print('hello') # this outputs to developer console or requires terminal in the script tag
+#display('world')
+#display('finished loading', append=False) # overwrite
+
+
+# set text
+questionNumberDiv = document.getElementById('question_number')
+questionNumberDiv.innerText = 1
+markdownDiv = document.getElementById('markdown')
+markdownDiv.innerText = window.location.hostname
+</script>
+
+<!-- <button py-click="click_handler" id="bad-practice" class="py-button">Don't do buttons this way</button> -->
+</body>
+</html>
