@@ -21,21 +21,21 @@ packages = [
     <table>
         <tr>
             <td><div id="question_number"></div></td>
-            <td><td><div id="markdown"></div></td>
+            <td><td><div id="markdown">Loading...</div></td>
         </tr>
     </table>
     <hr>
-    <textarea id="answer_box" cols="80", rows="1" placeholder="input answer here"></textarea>
+    <textarea id="answer_box" cols="160", rows="1" placeholder="input answer here"></textarea>
+    <br>
     <button id="check_button">Check</button>
     <hr>
     <button id="run_button">▶Run</button>
     <button id="clear_button">Clear Output</button>
     <button id="clear_errors_button">Clear Errors</button>
     <hr>
-    <textarea id="code_box" cols="80" rows="6"></textarea>
+    <textarea id="code_box" cols="160" rows="6"></textarea>
     <div id="output"></div>
 
-<!-- <script type="py" config="./pyscript.toml" target="output"> -->
 <script type="py" target="output">
 from pyscript import when, window, document, display
 
@@ -66,14 +66,12 @@ def check_answer(event):
 #display('world')
 #display('finished loading', append=False) # overwrite
 
-
 # set text
 questionNumberDiv = document.getElementById('question_number')
 questionNumberDiv.innerText = 1
 markdownDiv = document.getElementById('markdown')
-markdownDiv.innerText = window.location.hostname
+markdownDiv.innerText = 'Is this the first question?'
 </script>
-
 <!-- <button py-click="click_handler" id="bad-practice" class="py-button">Don't do buttons this way</button> -->
 </body>
 </html>
