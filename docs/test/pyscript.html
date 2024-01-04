@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Python Code Editor</title>
+    
+    <link rel="stylesheet" href="https://pyscript.net/releases/2023.11.1/core.css" />
+    <script type="module" src="https://pyscript.net/releases/2023.12.1/core.js"></script>
+  </head>
+  <body>
+    <h1>Python Code Editor</h1>
+    <py-config>
+        packages = ['numpy', 'pandas', 'plotly']
+    </py-config>
+    <py-script>
+print('starting')
+import pandas as pd
+import matplotlib.pyplot as plt
+import numpy as np
+print('hello world')
+    </py-script>
+    <!--
+    <py-repl std-out="output" std-err="errors"></py-repl>
+    <div id="output"></div>
+    <div id="errors"></div>
+    -->
+
+    <!--
+    <script type="py-editor">import pandas as pd</script>
+    -->
+
+    
+    <!--
+    <textarea id="code-input">print('hello world')</textarea>
+    <button id="run-btn">Run</button>
+    <script>
+      // Initialize PyScript
+      const ps = new PyScript();
+      
+      // Set up the textarea to use as the code editor
+      const codeInput = document.getElementById('code-input');
+      codeInput.value = 'print("Hello, World!")';
+      
+      // Set up the Run button to execute the code
+      const runBtn = document.getElementById('run-btn');
+      runBtn.addEventListener('click', () => {
+        // Get the current code from the textarea
+        const code = codeInput.value;
+        
+        try {
+          // Evaluate the code using PyScript
+          const result = ps.run(code);
+          
+          // Display the result in the browser console
+          console.log(result);
+        } catch (err) {
+          // Display any errors in the browser console
+          console.error(err);
+        }
+      });
+    </script>
+    -->
+  </body>
+</html>
