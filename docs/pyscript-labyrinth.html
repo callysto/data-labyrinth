@@ -32,8 +32,9 @@ packages = [
     <button id="run_button">▶Run</button>
     <button id="clear_button">Clear Output</button>
     <button id="clear_errors_button">Clear Errors</button>
+    <button id="example_code_button">Example Code</button>
     <hr>
-    <textarea id="code_box" cols="160" rows="6"></textarea>
+    <textarea id="code_box" cols="160" rows="8"></textarea>
     <div id="output"></div>
 
 <script type="py" target="output">
@@ -58,9 +59,21 @@ def clear_errors(event):
 @when('click', '#check_button')
 def check_answer(event):
     answer = document.getElementById('answer_box').value
-    display(answer)
+    question_number = document.getElementById('question_number').innerText
+    #display(answer)
     new_code = "display('hello world')"
     document.getElementById('code_box').value = new_code
+
+@when('click', '#example_code_button')
+def example_code(event):
+    code = """import pandas as pd
+import plotly.express as px
+from pyodide.http import open_url
+url = 'https://raw.githubusercontent.com/callysto/data-labyrinth/main/health-data-privacy/data/nhanes.csv'
+df = pd.read_csv(open_url(url))
+display(df)
+    """
+    document.getElementById('code_box').value = code
 
 #print('hello') # this outputs to developer console or requires terminal in the script tag
 #display('world')
