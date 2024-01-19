@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Pyscript Turtles</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+
+    <!-- PyScript CSS -->
+    <link rel="stylesheet" href="https://pyscript.net/releases/2024.1.1/core.css">
+
+    <!-- This script tag bootstraps PyScript -->
+    <script type="module" src="https://pyscript.net/releases/2024.1.1/core.js"></script>
+ <py-config type="toml">packages = ["pandas"]</py-config>
+</head>
+<body>
+
+    <div id="output"></div>
+    <div id="editor">loading...</div>
+    <script type="py-editor" env="shared" target="editor" terminal>
+#import ColabTurtlePlus.Turtle as turtle
+a = 1
+print(a)
+display(a)
+    </script>
+
+</body>
+</html>
