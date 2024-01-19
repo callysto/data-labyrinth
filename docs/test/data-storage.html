@@ -34,7 +34,15 @@
         // length
         //let l = localStorage.length;
         //alert("There are " + l + " items in the session storage");
-
+        
+        function check_answer() {
+          let answer = document.getElementById("answer").value;
+          if (answer == "abc") {
+            document.getElementById("text").innerHTML = "Correct!";
+          } else {
+            document.getElementById("text").innerHTML = "Incorrect!";
+          }
+        }
       }
       </script>
   </body>
